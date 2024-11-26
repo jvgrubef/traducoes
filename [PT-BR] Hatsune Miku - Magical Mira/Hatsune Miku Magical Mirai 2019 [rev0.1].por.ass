@@ -1,0 +1,1264 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:52.34,0:01:59.19,Default,,0,0,0,,01. Teo (Omoi)
+Dialogue: 0,0:02:01.11,0:02:02.79,Default,,0,0,0,,Eu me pergunto
+Dialogue: 0,0:02:02.79,0:02:04.53,Default,,0,0,0,,Por quanto tempo eu serei capaz
+Dialogue: 0,0:02:04.54,0:02:07.17,Default,,0,0,0,,de manter a farsa?
+Dialogue: 0,0:02:07.18,0:02:08.91,Default,,0,0,0,,Serei capaz de dizer adeus
+Dialogue: 0,0:02:08.91,0:02:11.83,Default,,0,0,0,,quando você quiser ir para casa?
+Dialogue: 0,0:02:11.83,0:02:14.91,Default,,0,0,0,,Os sinais que eu perdi naquele dia
+Dialogue: 0,0:02:14.92,0:02:17.27,Default,,0,0,0,,desvanecem pouco a pouco
+Dialogue: 0,0:02:17.28,0:02:19.23,Default,,0,0,0,,Mas tenho certeza de que tudo ficará bem-
+Dialogue: 0,0:02:19.24,0:02:24.40,Default,,0,0,0,,nos encontraremos novamente, assim como fizemos...
+Dialogue: 0,0:02:27.12,0:02:28.43,Default,,0,0,0,,Eu fecho os olhos
+Dialogue: 0,0:02:28.43,0:02:30.35,Default,,0,0,0,,É tarde demais para
+Dialogue: 0,0:02:30.36,0:02:33.11,Default,,0,0,0,,deixar alguns pequenos desejos?
+Dialogue: 0,0:02:33.11,0:02:34.79,Default,,0,0,0,,Serei capaz de dizer
+Dialogue: 0,0:02:34.80,0:02:37.72,Default,,0,0,0,,'bem-vindo de volta' quando a luz retornar?
+Dialogue: 0,0:02:37.72,0:02:38.95,Default,,0,0,0,,Eu preciso ir
+Dialogue: 0,0:02:38.95,0:02:43.35,Default,,0,0,0,,Chame isso de a coisa mais linda do mundo,
+Dialogue: 0,0:02:43.36,0:02:46.11,Default,,0,0,0,,Apenas espere até que recuperemos
+Dialogue: 0,0:02:46.11,0:02:48.23,Default,,0,0,0,,tudo que foi roubado de nós!
+Dialogue: 0,0:02:48.24,0:02:49.12,Default,,0,0,0,,Mais
+Dialogue: 0,0:02:49.12,0:02:51.67,Default,,0,0,0,,Rodando e rodando, me faça sentir tonta
+Dialogue: 0,0:02:51.67,0:02:54.27,Default,,0,0,0,,De um lado para o outro, me faça balançar como nunca antes
+Dialogue: 0,0:02:54.27,0:02:56.91,Default,,0,0,0,,Mais brilhante e mais brilhante, deixe brilhar
+Dialogue: 0,0:02:58.83,0:02:59.51,Default,,0,0,0,,Suavemente
+Dialogue: 0,0:02:59.52,0:03:01.87,Default,,0,0,0,,Eu convoco a noite ferida
+Dialogue: 0,0:03:01.88,0:03:04.63,Default,,0,0,0,,E lanço um pequeno feitiço mágico
+Dialogue: 0,0:03:04.63,0:03:07.27,Default,,0,0,0,,E assim, podemos voar!
+Dialogue: 0,0:03:08.32,0:03:10.92,Default,,0,0,0,,Não desvie o olhar! Mantenha-o firme
+Dialogue: 0,0:03:10.92,0:03:13.79,Default,,0,0,0,,Nada nos deterá neste ponto
+Dialogue: 0,0:03:13.79,0:03:16.39,Default,,0,0,0,,Até que a magia acabe - até lá,
+Dialogue: 0,0:03:16.39,0:03:18.23,Default,,0,0,0,,Segure firme! Na minha mão
+Dialogue: 0,0:03:18.23,0:03:19.19,Default,,0,0,0,,Minha mão!
+Dialogue: 0,0:03:19.20,0:03:21.36,Default,,0,0,0,,Nenhum ficará para trás
+Dialogue: 0,0:03:21.36,0:03:24.19,Default,,0,0,0,,Vamos recuperar cada pedacinho, só isso
+Dialogue: 0,0:03:24.19,0:03:26.55,Default,,0,0,0,,Até que a magia acabe - até lá,
+Dialogue: 0,0:03:26.56,0:03:29.43,Default,,0,0,0,,Segure firme! Na minha mão, minha mão
+Dialogue: 0,0:03:29.43,0:03:32.55,Default,,0,0,0,,Minha mão!
+Dialogue: 0,0:03:55.88,0:03:58.44,Default,,0,0,0,,Apenas espere até recuperarmos
+Dialogue: 0,0:03:58.44,0:04:00.83,Default,,0,0,0,,tudo que foi roubado de nós!
+Dialogue: 0,0:04:00.84,0:04:01.80,Default,,0,0,0,,Suavemente
+Dialogue: 0,0:04:01.80,0:04:04.23,Default,,0,0,0,,Eu convoco a noite ferida
+Dialogue: 0,0:04:04.23,0:04:06.79,Default,,0,0,0,,E lanço um pequeno feitiço mágico
+Dialogue: 0,0:04:06.79,0:04:09.99,Default,,0,0,0,,E assim, podemos voar!
+Dialogue: 0,0:04:11.35,0:04:12.03,Default,,0,0,0,,Mais!
+Dialogue: 0,0:04:12.03,0:04:14.47,Default,,0,0,0,,Rodando e rodando, me deixe tonto
+Dialogue: 0,0:04:14.48,0:04:17.00,Default,,0,0,0,,De um lado para o outro, me embale como nunca antes
+Dialogue: 0,0:04:17.00,0:04:19.84,Default,,0,0,0,,Mais brilhante e brilhante, deixe brilhar
+Dialogue: 0,0:04:21.04,0:04:23.52,Default,,0,0,0,,Não desvie o olhar! Mantenha-o firme
+Dialogue: 0,0:04:23.52,0:04:26.31,Default,,0,0,0,,Nada nos deterá neste ponto
+Dialogue: 0,0:04:26.31,0:04:28.91,Default,,0,0,0,,Até que a magia acabe - até lá,
+Dialogue: 0,0:04:28.91,0:04:30.79,Default,,0,0,0,,Segure firme! Na minha mão
+Dialogue: 0,0:04:30.80,0:04:31.64,Default,,0,0,0,,Minha mão!
+Dialogue: 0,0:04:31.64,0:04:33.91,Default,,0,0,0,,Nenhum ficará para trás
+Dialogue: 0,0:04:33.92,0:04:36.79,Default,,0,0,0,,Vamos recuperar cada pedacinho, só isso
+Dialogue: 0,0:04:36.79,0:04:39.31,Default,,0,0,0,,Até que a magia acabe - até lá,
+Dialogue: 0,0:04:39.31,0:04:42.07,Default,,0,0,0,,Segure firme! Na minha mão, minha mão
+Dialogue: 0,0:04:42.08,0:04:46.11,Default,,0,0,0,,Minha mão!
+Dialogue: 0,0:05:16.07,0:05:19.27,Default,,0,0,0,,Tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:05:19.79,0:05:22.43,Default,,0,0,0,,Tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:05:23.75,0:05:29.94,Default,,0,0,0,,02. Tudo que Preciso são Coisas que Gosto (Pinóquio-P)
+Dialogue: 0,0:05:36.91,0:05:40.23,Default,,0,0,0,,Odiando os dias de semana e gostando dos finais de semana
+Dialogue: 0,0:05:40.23,0:05:43.67,Default,,0,0,0,,Odiando o trabalho e gostando de voltar a dormir
+Dialogue: 0,0:05:43.68,0:05:46.99,Default,,0,0,0,,O pensamento de que não se pode ficar só relaxando para sempre...
+Dialogue: 0,0:05:46.99,0:05:50.23,Default,,0,0,0,,Está lentamente se afastando da minha consciência
+Dialogue: 0,0:05:50.23,0:05:53.83,Default,,0,0,0,,Odiando legumes e gostando de hambúrgueres
+Dialogue: 0,0:05:53.83,0:05:57.11,Default,,0,0,0,,Odiando chá de cevada e gostando de suco
+Dialogue: 0,0:05:57.11,0:06:00.75,Default,,0,0,0,,Sabendo que agir como mimado não é bom, ainda gosto de coisas doces...
+Dialogue: 0,0:06:00.75,0:06:04.19,Default,,0,0,0,,Está escrito na primeira página desta vida minha
+Dialogue: 0,0:06:04.20,0:06:07.76,Default,,0,0,0,,Olhos fixos apenas nas coisas que gostamos
+Dialogue: 0,0:06:07.76,0:06:11.24,Default,,0,0,0,,Lentamente nossa visão vai piorando
+Dialogue: 0,0:06:11.24,0:06:14.55,Default,,0,0,0,,Completamente satisfeitos com aquelas coisas favoritas nossas
+Dialogue: 0,0:06:14.56,0:06:17.95,Default,,0,0,0,,Nossos cérebros estão apenas atrofiando
+Dialogue: 0,0:06:17.95,0:06:19.59,Default,,0,0,0,,Tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:06:19.59,0:06:21.63,Default,,0,0,0,,No fim das contas, todo mundo gosta das coisas que gosta
+Dialogue: 0,0:06:21.63,0:06:22.83,Default,,0,0,0,,Tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:06:22.83,0:06:25.07,Default,,0,0,0,,Claro que todo mundo odeia as coisas que odeia
+Dialogue: 0,0:06:25.07,0:06:26.43,Default,,0,0,0,,Tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:06:26.43,0:06:28.19,Default,,0,0,0,,É verdade, tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:06:28.20,0:06:30.15,Default,,0,0,0,,Se toda a humanidade fizesse o que quisesse,
+Dialogue: 0,0:06:30.16,0:06:31.76,Default,,0,0,0,,Tenho certeza de que o mundo cairia em ruínas, mas...
+Dialogue: 0,0:06:31.76,0:06:33.19,Default,,0,0,0,,Tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:06:33.20,0:06:35.19,Default,,0,0,0,,Eu realmente, de verdade, gosto de você
+Dialogue: 0,0:06:35.19,0:06:36.67,Default,,0,0,0,,Tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:06:36.68,0:06:38.55,Default,,0,0,0,,E você gosta de outra pessoa
+Dialogue: 0,0:06:38.55,0:06:39.83,Default,,0,0,0,,Tudo que você precisa são as coisas que gosta
+Dialogue: 0,0:06:39.83,0:06:41.87,Default,,0,0,0,,Eu sabia, esse é o ponto crítico em tudo isso
+Dialogue: 0,0:06:41.88,0:06:43.91,Default,,0,0,0,,Mas, por outro lado, se toda a humanidade encontrasse a felicidade,
+Dialogue: 0,0:06:43.92,0:06:47.59,Default,,0,0,0,,Certamente o universo ficaria perturbado
+Dialogue: 0,0:06:58.95,0:07:02.55,Default,,0,0,0,,Odiando anjos e gostando de demônios
+Dialogue: 0,0:07:02.55,0:07:05.83,Default,,0,0,0,,Odiando o céu e gostando do inferno
+Dialogue: 0,0:07:05.83,0:07:09.35,Default,,0,0,0,,Seus gostos sempre foram um pouco diferentes do usual
+Dialogue: 0,0:07:09.35,0:07:12.47,Default,,0,0,0,,Parece que cada um de nós é louco à sua maneira
+Dialogue: 0,0:07:12.48,0:07:16.04,Default,,0,0,0,,Odiando os vivos e gostando das máquinas
+Dialogue: 0,0:07:16.04,0:07:19.47,Default,,0,0,0,,Odiando o real e gostando do virtual
+Dialogue: 0,0:07:19.47,0:07:22.75,Default,,0,0,0,,Esses interesses unilaterais seus,
+Dialogue: 0,0:07:22.75,0:07:26.15,Default,,0,0,0,,Eles continuam piorando, a ponto de que todo pensamento aparentemente cessou
+Dialogue: 0,0:07:26.16,0:07:29.75,Default,,0,0,0,,Cercados pelas coisas que gostamos,
+Dialogue: 0,0:07:29.76,0:07:33.32,Default,,0,0,0,,Nos tornamos incapazes de aceitar as coisas que odiamos
+Dialogue: 0,0:07:33.32,0:07:36.63,Default,,0,0,0,,Se vivermos apenas seguindo nossas próprias preferências,
+Dialogue: 0,0:07:36.64,0:07:40.12,Default,,0,0,0,,Com certeza acabaremos sendo odiados por alguém, em algum lugar
+Dialogue: 0,0:07:40.12,0:07:41.75,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:07:41.76,0:07:43.63,Default,,0,0,0,,No fim das contas, todo mundo gosta das coisas que gosta
+Dialogue: 0,0:07:43.63,0:07:45.07,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:07:45.08,0:07:47.23,Default,,0,0,0,,Claro, todo mundo odeia as coisas que odeia
+Dialogue: 0,0:07:47.23,0:07:48.67,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:07:48.68,0:07:50.63,Default,,0,0,0,,É verdade, tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:07:50.64,0:07:52.07,Default,,0,0,0,,Se toda a humanidade fizesse apenas o que quisesse,
+Dialogue: 0,0:07:52.07,0:07:53.91,Default,,0,0,0,,Tenho certeza de que o mundo cairia em ruínas, mas...
+Dialogue: 0,0:07:53.92,0:07:55.55,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:07:55.55,0:07:57.39,Default,,0,0,0,,Quero sempre estar sorrindo ao lado dos meus amigos
+Dialogue: 0,0:07:57.40,0:07:58.91,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:07:58.91,0:08:00.79,Default,,0,0,0,,Mas a verdade é que eu não tenho nenhuma delas
+Dialogue: 0,0:08:00.79,0:08:02.27,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:08:02.28,0:08:04.03,Default,,0,0,0,,Eu sabia, esse é o ponto crítico em tudo isso
+Dialogue: 0,0:08:04.03,0:08:06.11,Default,,0,0,0,,Se todos os desejos da humanidade fossem atendidos,
+Dialogue: 0,0:08:06.11,0:08:10.07,Default,,0,0,0,,A terra certamente explodiria
+Dialogue: 0,0:08:16.11,0:08:18.31,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:08:19.52,0:08:21.91,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:08:22.91,0:08:26.79,Default,,0,0,0,,Tínhamos uma promessa de nos encontrar
+Dialogue: 0,0:08:26.80,0:08:30.11,Default,,0,0,0,,Mas eu odeio a chuva, então não fui
+Dialogue: 0,0:08:30.11,0:08:33.59,Default,,0,0,0,,Se tivéssemos saído para algum lugar, talvez algo bom tivesse acontecido
+Dialogue: 0,0:08:33.60,0:08:36.59,Default,,0,0,0,,Apenas pensamentos que vão passar diante dos meus olhos no meu leito de morte
+Dialogue: 0,0:08:36.59,0:08:38.43,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta...
+Dialogue: 0,0:08:38.44,0:08:40.19,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta...
+Dialogue: 0,0:08:40.19,0:08:46.95,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta...
+Dialogue: 0,0:08:46.96,0:08:48.67,Default,,0,0,0,,Se toda a humanidade fizesse o que quisesse,
+Dialogue: 0,0:08:48.67,0:08:50.35,Default,,0,0,0,,Tenho certeza de que o mundo cairia em ruínas, mas...
+Dialogue: 0,0:08:50.35,0:08:51.99,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:08:51.99,0:08:54.03,Default,,0,0,0,,Todo mundo gostava das coisas que gostava
+Dialogue: 0,0:08:54.04,0:08:55.51,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:08:55.51,0:08:57.31,Default,,0,0,0,,Todo mundo odiava as coisas que odiava
+Dialogue: 0,0:08:57.32,0:08:58.99,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:08:59.00,0:09:00.75,Default,,0,0,0,,É verdade, tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:09:00.75,0:09:02.35,Default,,0,0,0,,Quando toda a humanidade fazia o que quisesse,
+Dialogue: 0,0:09:02.35,0:09:04.11,Default,,0,0,0,,O mundo caiu em ruínas, mas
+Dialogue: 0,0:09:04.12,0:09:05.72,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:09:05.72,0:09:07.67,Default,,0,0,0,,Eu realmente, de verdade, gostava de você
+Dialogue: 0,0:09:07.68,0:09:08.99,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:09:09.00,0:09:11.15,Default,,0,0,0,,E você gostava de outra pessoa
+Dialogue: 0,0:09:11.15,0:09:12.67,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:09:12.68,0:09:14.71,Default,,0,0,0,,Eu sabia, esse é o ponto crítico em tudo isso
+Dialogue: 0,0:09:14.71,0:09:16.39,Default,,0,0,0,,Mas, por outro lado, se toda a humanidade encontrasse a felicidade,
+Dialogue: 0,0:09:16.39,0:09:20.15,Default,,0,0,0,,Certamente o universo ficaria perturbado
+Dialogue: 0,0:09:21.23,0:09:23.99,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:09:24.64,0:09:26.95,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:09:27.92,0:09:32.36,Default,,0,0,0,,Tudo que você precisa são as coisas que você gosta
+Dialogue: 0,0:09:57.80,0:10:04.86,Default,,0,0,0,,03. Canção de Amor (LamazeP)
+Dialogue: 0,0:10:07.97,0:10:12.08,Default,,0,0,0,,Pegos em toda a informação espalhada diante de mim
+Dialogue: 0,0:10:12.08,0:10:18.24,Default,,0,0,0,,Aquela coisa preciosa que pensei para mim não está se perdendo na confusão?
+Dialogue: 0,0:10:18.24,0:10:23.48,Default,,0,0,0,,Se 'eu te amo' for dito, o mundo mudará completamente de cor;
+Dialogue: 0,0:10:23.48,0:10:29.16,Default,,0,0,0,,Então, evitando como se não quisesse ouvir, por que você está chorando?
+Dialogue: 0,0:10:29.17,0:10:34.20,Default,,0,0,0,,Embora estivesse com medo do que poderia encontrar, ainda assim desejei isso.
+Dialogue: 0,0:10:34.20,0:10:40.84,Default,,0,0,0,,Querendo ouvir a resposta honesta, vou em busca dela.
+Dialogue: 0,0:10:42.64,0:10:45.00,Default,,0,0,0,,Olhando bem para você e segurando firme,
+Dialogue: 0,0:10:45.01,0:10:53.24,Default,,0,0,0,,Esses meus olhos não vão deixar você escapar desses meus sentimentos.
+Dialogue: 0,0:10:53.25,0:10:55.77,Default,,0,0,0,,Para que você consiga sorrir um pouco,
+Dialogue: 0,0:10:55.77,0:11:00.12,Default,,0,0,0,,Fiz essa minha voz estranha soar desajeitadamente e te contar
+Dialogue: 0,0:11:00.12,0:11:05.64,Default,,0,0,0,,Um milagre onde eu te chamo com essa minha canção de amor.
+Dialogue: 0,0:11:14.56,0:11:18.96,Default,,0,0,0,,Nem conseguindo entender tudo que absorvi, saí correndo.
+Dialogue: 0,0:11:18.97,0:11:24.77,Default,,0,0,0,,Estou esquecendo algo precioso que existe dentro de mim?
+Dialogue: 0,0:11:24.77,0:11:30.32,Default,,0,0,0,,Quanto a esses sentimentos que foram programados em mim,
+Dialogue: 0,0:11:30.33,0:11:35.77,Default,,0,0,0,,Por que não consigo dar a eles uma forma definida e transmiti-los a você?
+Dialogue: 0,0:11:35.77,0:11:41.40,Default,,0,0,0,,Uma queda crítica, apenas me sentindo pra baixo,
+Dialogue: 0,0:11:41.41,0:11:48.17,Default,,0,0,0,,Mas se esse meu humor mudar apenas com um desejo se tornando realidade...
+Dialogue: 0,0:11:49.13,0:11:51.60,Default,,0,0,0,,Notando você e te segurando perto,
+Dialogue: 0,0:11:51.60,0:11:59.80,Default,,0,0,0,,Meu coração batendo como louco junto com meu rosto ruborizado.
+Dialogue: 0,0:11:59.80,0:12:02.36,Default,,0,0,0,,Só me importando com uma coisa, caí em um transe.
+Dialogue: 0,0:12:02.36,0:12:06.64,Default,,0,0,0,,Você parecia tão legal e charmoso!
+Dialogue: 0,0:12:06.64,0:12:12.16,Default,,0,0,0,,É algo que só eu percebo sobre você!
+Dialogue: 0,0:12:12.16,0:12:16.36,Default,,0,0,0,,Aceite essa minha canção de amor.
+Dialogue: 0,0:12:47.45,0:12:50.16,Default,,0,0,0,,Olhando bem para você e segurando firme,
+Dialogue: 0,0:12:50.16,0:12:58.32,Default,,0,0,0,,Esses meus olhos não vão deixar você escapar desses meus sentimentos.
+Dialogue: 0,0:12:58.32,0:13:01.08,Default,,0,0,0,,Para que você consiga sorrir um pouco,
+Dialogue: 0,0:13:01.09,0:13:05.36,Default,,0,0,0,,Fiz essa minha voz estranha soar desajeitadamente e te contar
+Dialogue: 0,0:13:05.37,0:13:11.36,Default,,0,0,0,,Um milagre onde eu te chamo com essa minha canção de amor.
+Dialogue: 0,0:13:45.18,0:13:51.52,Default,,0,0,0,,Para todos na arena, boa noite!
+Dialogue: 0,0:13:51.63,0:13:56.17,Default,,0,0,0,,Boa noite!
+Dialogue: 0,0:13:58.05,0:14:02.89,Default,,0,0,0,,Todo mundo desse lado está animado?
+Dialogue: 0,0:14:06.17,0:14:09.33,Default,,0,0,0,,Então...
+Dialogue: 0,0:14:10.13,0:14:13.76,Default,,0,0,0,,E todo mundo do outro lado está animado?
+Dialogue: 0,0:14:17.80,0:14:19.56,Default,,0,0,0,,Obrigado!
+Dialogue: 0,0:14:23.96,0:14:28.48,Default,,0,0,0,,Bem-vindos ao Magical Mirai 2019!
+Dialogue: 0,0:14:32.08,0:14:38.40,Default,,0,0,0,,O último show ao vivo do ano chegou!
+Dialogue: 0,0:14:40.41,0:14:43.61,Default,,0,0,0,,Vamos nos divertir até o fim!
+Dialogue: 0,0:15:11.76,0:15:18.49,Default,,0,0,0,,04. Tempo Limpo (Orangestar)
+Dialogue: 0,0:15:32.67,0:15:35.39,Default,,0,0,0,,Quanto tempo falta até o início da temporada de chuvas?
+Dialogue: 0,0:15:35.40,0:15:38.07,Default,,0,0,0,,Na manhã que ainda brilha com hortênsias, essa era a sua reclamação
+Dialogue: 0,0:15:38.08,0:15:40.88,Default,,0,0,0,,Os passos do verão estão bem próximos
+Dialogue: 0,0:15:40.88,0:15:43.99,Default,,0,0,0,,“Ei, vamos encontrá-lo,” me empurrando nessa direção;
+Dialogue: 0,0:15:43.99,0:15:46.43,Default,,0,0,0,,Você diz isso, passando pela viela
+Dialogue: 0,0:15:46.44,0:15:49.36,Default,,0,0,0,,Atravessando a colina, cruzando o arco-íris, durante aquele tempo
+Dialogue: 0,0:15:49.36,0:15:52.03,Default,,0,0,0,,Ninguém estava naquele céu de verão ainda,
+Dialogue: 0,0:15:52.04,0:15:56.11,Default,,0,0,0,,E juntos, decidimos aproveitar tudo
+Dialogue: 0,0:15:56.11,0:16:00.99,Default,,0,0,0,,Você estava rindo então, não estava?
+Dialogue: 0,0:16:00.99,0:16:06.87,Default,,0,0,0,,Mesmo que não possamos encontrar a memória daquele verão distante,
+Dialogue: 0,0:16:06.87,0:16:09.75,Default,,0,0,0,,Mesmo que não possamos voltar novamente,
+Dialogue: 0,0:16:09.75,0:16:12.35,Default,,0,0,0,,é lindo
+Dialogue: 0,0:16:12.35,0:16:16.75,Default,,0,0,0,,Aquele foi o verão só nosso, não foi?
+Dialogue: 0,0:16:16.76,0:16:20.00,Default,,0,0,0,,Adeus, eu te amo
+Dialogue: 0,0:16:20.00,0:16:22.03,Default,,0,0,0,,E é isso
+Dialogue: 0,0:16:22.03,0:16:25.43,Default,,0,0,0,,Parece que tudo vai acabar
+Dialogue: 0,0:16:25.43,0:16:27.67,Default,,0,0,0,,Mas nós não vamos, vamos?
+Dialogue: 0,0:16:27.67,0:16:31.03,Default,,0,0,0,,Não vai mudar,
+Dialogue: 0,0:16:31.04,0:16:34.75,Default,,0,0,0,,Nem o céu, as estrelas, nem aquele rosto marcado de lágrimas
+Dialogue: 0,0:16:34.75,0:16:40.31,Default,,0,0,0,,Eu continuo dizendo, para que eu possa sorrir com você novamente
+Dialogue: 0,0:17:03.15,0:17:05.95,Default,,0,0,0,,Tem muitas coisas diferentes, né?
+Dialogue: 0,0:17:05.96,0:17:08.31,Default,,0,0,0,,Mesmo agora, tem bastante, né?
+Dialogue: 0,0:17:08.31,0:17:11.23,Default,,0,0,0,,Mas viver sorrindo,
+Dialogue: 0,0:17:11.23,0:17:13.95,Default,,0,0,0,,Dizendo 'é a vida'
+Dialogue: 0,0:17:13.96,0:17:17.15,Default,,0,0,0,,Se eu puder me tornar tão simplista assim,
+Dialogue: 0,0:17:17.15,0:17:19.35,Default,,0,0,0,,Que bem isso faria?
+Dialogue: 0,0:17:19.35,0:17:22.59,Default,,0,0,0,,Não haveria sentido na vida cotidiana que passa.
+Dialogue: 0,0:17:22.59,0:17:25.31,Default,,0,0,0,,E então, o eu de amanhã não seria realmente eu.
+Dialogue: 0,0:17:25.31,0:17:30.55,Default,,0,0,0,,Não pode ser verdade, pode?
+Dialogue: 0,0:17:30.56,0:17:35.76,Default,,0,0,0,,Eu estava chorando, mas o céu ainda estava ensolarado.
+Dialogue: 0,0:17:35.76,0:17:41.71,Default,,0,0,0,,Você estava encharcado, mas só para que sua imagem não borrasse.
+Dialogue: 0,0:17:41.72,0:17:48.52,Default,,0,0,0,,Eu estava à deriva, mas o céu ainda chove estrelas, então,
+Dialogue: 0,0:17:48.52,0:17:51.96,Default,,0,0,0,,Bem, de qualquer forma, eu vou continuar vivendo.
+Dialogue: 0,0:17:52.84,0:17:56.11,Default,,0,0,0,,Eu sei que este céu te ama.
+Dialogue: 0,0:17:56.11,0:17:58.51,Default,,0,0,0,,Em algum momento, tudo,
+Dialogue: 0,0:17:58.51,0:18:01.83,Default,,0,0,0,,Tudo mudou, mas,
+Dialogue: 0,0:18:01.84,0:18:03.99,Default,,0,0,0,,O céu ainda é azul, não é!
+Dialogue: 0,0:18:03.99,0:18:07.31,Default,,0,0,0,,Eu não vou esquecer.
+Dialogue: 0,0:18:07.31,0:18:10.91,Default,,0,0,0,,Mas para que possamos nos encontrar novamente,
+Dialogue: 0,0:18:10.92,0:18:14.19,Default,,0,0,0,,Eu vou dominar a arte de viver.
+Dialogue: 0,0:18:14.20,0:18:18.60,Default,,0,0,0,,Então continue sorrindo.
+Dialogue: 0,0:19:43.73,0:19:50.73,Default,,0,0,0,,16. Fundo do Mar Subterrâneo (TanakaB)
+Dialogue: 0,0:20:05.23,0:20:08.22,Default,,0,0,0,,Temporada de pétalas nocivas se espalhando completamente em uma dança.
+Dialogue: 0,0:20:08.22,0:20:10.97,Default,,0,0,0,,Do outro lado da passagem de nível, eu choro.
+Dialogue: 0,0:20:10.97,0:20:13.80,Default,,0,0,0,,Zumbido do Beelzebub de plástico.
+Dialogue: 0,0:20:13.80,0:20:16.60,Default,,0,0,0,,Hoje passa com um sorriso calculado.
+Dialogue: 0,0:20:16.60,0:20:19.39,Default,,0,0,0,,Este canto de rua imundo.
+Dialogue: 0,0:20:19.39,0:20:22.15,Default,,0,0,0,,É afetado pela síndrome da figura de barro.
+Dialogue: 0,0:20:22.15,0:20:25.09,Default,,0,0,0,,O tom de uma apito de vapor muda um pouco.
+Dialogue: 0,0:20:25.09,0:20:28.07,Default,,0,0,0,,Do campo eu fiquei com fome e mastiguei um chiclete.
+Dialogue: 0,0:20:28.07,0:20:33.58,Default,,0,0,0,,Às 4 horas da manhã, encontrei um trevo de quatro folhas e fiquei impressionado.
+Dialogue: 0,0:20:33.58,0:20:39.09,Default,,0,0,0,,Um corvo de três patas, sobre o telhado, nos observa de forma horrenda.
+Dialogue: 0,0:20:39.09,0:20:44.87,Default,,0,0,0,,Gêmeos limpam eternamente seus corpos com óleo, emitindo um leve perfume.
+Dialogue: 0,0:20:44.87,0:20:47.55,Default,,0,0,0,,Monossomia orgânica, completamente sozinho.
+Dialogue: 0,0:20:47.55,0:20:48.27,Default,,0,0,0,,Aqui está
+Dialogue: 0,0:20:48.27,0:20:51.06,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:20:51.06,0:20:53.82,Default,,0,0,0,,A ilha mais distante, paraíso dos camarões
+Dialogue: 0,0:20:53.82,0:20:56.76,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:20:56.76,0:20:59.29,Default,,0,0,0,,A princesa ainda está paranoica
+Dialogue: 0,0:20:59.29,0:21:02.54,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:21:02.54,0:21:05.18,Default,,0,0,0,,Estrelas de diodo cintilantes estão se quebrando
+Dialogue: 0,0:21:05.18,0:21:08.12,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:21:08.12,0:21:10.54,Default,,0,0,0,,Esquizofrenia do mentiroso
+Dialogue: 0,0:21:32.89,0:21:36.17,Default,,0,0,0,,A concha do caracol gira e gira apertada
+Dialogue: 0,0:21:36.17,0:21:38.48,Default,,0,0,0,,dentro do galo canta
+Dialogue: 0,0:21:38.48,0:21:43.95,Default,,0,0,0,,Assim como, assim como seus celuloides despejados no molde
+Dialogue: 0,0:21:43.95,0:21:49.76,Default,,0,0,0,,Finalmente, finalmente, sua voz afunda enquanto olha para a água ficando vermelha
+Dialogue: 0,0:21:49.76,0:21:55.39,Default,,0,0,0,,Este lugar, este lugar, está sempre escuro como uma porta de porão de aço
+Dialogue: 0,0:21:55.39,0:22:00.90,Default,,0,0,0,,Calor do meio-dia, moeda de ouro quadrada, eu acordei de um sonho
+Dialogue: 0,0:22:00.90,0:22:06.41,Default,,0,0,0,,Corvo de três patas, aqui, olhe para sua trisomia habitual
+Dialogue: 0,0:22:06.41,0:22:12.15,Default,,0,0,0,,Ônibus de dois andares sai antes do horário combinado, adeus
+Dialogue: 0,0:22:12.15,0:22:17.43,Default,,0,0,0,,Um segundo antes, lamentando mais, desvanecer para o preto
+Dialogue: 0,0:22:17.81,0:22:18.53,Default,,0,0,0,,Aqui está
+Dialogue: 0,0:22:18.53,0:22:21.47,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:22:21.47,0:22:24.15,Default,,0,0,0,,Visto em um sonho original
+Dialogue: 0,0:22:24.15,0:22:27.10,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:22:27.10,0:22:29.63,Default,,0,0,0,,Sofrendo do messias da hérnia
+Dialogue: 0,0:22:29.63,0:22:32.50,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:22:32.50,0:22:35.33,Default,,0,0,0,,Onda azul profunda, tocando flams
+Dialogue: 0,0:22:35.33,0:22:38.31,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:22:38.31,0:22:40.91,Default,,0,0,0,,Agora as rafflesias murcham
+Dialogue: 0,0:22:40.91,0:22:46.84,Default,,0,0,0,,Por favor, fique por perto só por mais alguns minutos
+Dialogue: 0,0:22:46.84,0:22:51.56,Default,,0,0,0,,Porque eu realmente gosto de você
+Dialogue: 0,0:22:51.56,0:23:02.54,Default,,0,0,0,,Esta praia de areia tóxica é só para duas pessoas
+Dialogue: 0,0:23:03.11,0:23:03.72,Default,,0,0,0,,Aqui está
+Dialogue: 0,0:23:03.72,0:23:06.51,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:23:06.51,0:23:09.19,Default,,0,0,0,,Manchada com palavras rubi barulhentas
+Dialogue: 0,0:23:09.19,0:23:12.17,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:23:12.17,0:23:14.32,Default,,0,0,0,,Monólogo de pesadelo
+Dialogue: 0,0:23:14.32,0:23:14.93,Default,,0,0,0,,Aqui está
+Dialogue: 0,0:23:14.93,0:23:17.76,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:23:17.76,0:23:20.40,Default,,0,0,0,,Sob as estrelas de diodo cintilantes
+Dialogue: 0,0:23:20.40,0:23:23.23,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:23:23.23,0:23:25.87,Default,,0,0,0,,Princesa e dançarina paranoica
+Dialogue: 0,0:23:25.87,0:23:28.97,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:23:28.97,0:23:31.88,Default,,0,0,0,,Segurava diamantes em uma louca pretensão
+Dialogue: 0,0:23:31.88,0:23:34.90,Default,,0,0,0,,Cidade subaquática profunda
+Dialogue: 0,0:23:34.90,0:23:37.24,Default,,0,0,0,,Esquizofrenia mentirosa
+Dialogue: 0,0:24:11.85,0:24:14.72,Default,,0,0,0,,E então, nos batemos no ombro,
+Dialogue: 0,0:24:14.72,0:24:17.93,Default,,0,0,0,,prometendo: 'Vamos fazer algo grande. Vamos nos vingar deles!'
+Dialogue: 0,0:24:17.93,0:24:19.89,Default,,0,0,0,,Para mim, era uma promessa vaga, mas certa;
+Dialogue: 0,0:24:19.89,0:24:32.65,Default,,0,0,0,,brincalhona, mas séria.
+Dialogue: 0,0:24:32.65,0:24:33.48,Default,,0,0,0,,'Mesmo que você feche os olhos\Nporque não quer ver;
+Dialogue: 0,0:24:33.48,0:24:34.69,Default,,0,0,0,,17. Personagem Principal (*Luna)
+Dialogue: 0,0:24:34.69,0:24:37.26,Default,,0,0,0,,mesmo que você tampe os ouvidos\Nporque não quer ouvir,
+Dialogue: 0,0:24:37.26,0:24:39.71,Default,,0,0,0,,a realidade ainda está lá.
+Dialogue: 0,0:24:39.71,0:24:42.43,Default,,0,0,0,,O que pessoas como você podem fazer?
+Dialogue: 0,0:24:42.43,0:24:45.64,Default,,0,0,0,,Eu não saberia, mesmo que você me dissesse isso.
+Dialogue: 0,0:24:45.64,0:24:49.72,Default,,0,0,0,,Quero dizer, é absolutamente verdade
+Dialogue: 0,0:24:49.72,0:24:54.25,Default,,0,0,0,,que o personagem principal sempre tem algo especial dentro de si.
+Dialogue: 0,0:25:01.83,0:25:04.82,Default,,0,0,0,,Desde então, seguimos caminhos separados.
+Dialogue: 0,0:25:04.82,0:25:08.14,Default,,0,0,0,,Nossos futuros são bem comuns, simplesmente a média, apenas 2 linhas paralelas,
+Dialogue: 0,0:25:08.14,0:25:09.72,Default,,0,0,0,,e estamos apenas tentando acompanhar os outros
+Dialogue: 0,0:25:09.72,0:25:11.76,Default,,0,0,0,,enquanto subimos a escada em direção à vida adulta.
+Dialogue: 0,0:25:11.76,0:25:13.46,Default,,0,0,0,,Mas então ficou demais para mim.
+Dialogue: 0,0:25:13.46,0:25:15.50,Default,,0,0,0,,Eu abandonei tudo e fugi,
+Dialogue: 0,0:25:15.50,0:25:17.31,Default,,0,0,0,,só para tropeçar e cair.
+Dialogue: 0,0:25:17.31,0:25:22.14,Default,,0,0,0,,É como uma doença agravada que piorou
+Dialogue: 0,0:25:22.14,0:25:24.64,Default,,0,0,0,,a ponto de não ter mais conserto.
+Dialogue: 0,0:25:24.64,0:25:27.39,Default,,0,0,0,,'Não há esperança. Apenas corte isso.
+Dialogue: 0,0:25:27.39,0:25:29.88,Default,,0,0,0,,É um jogo arriscado. Não vai acabar bem.
+Dialogue: 0,0:25:29.88,0:25:32.30,Default,,0,0,0,,A realidade não é um jogo fácil.
+Dialogue: 0,0:25:32.30,0:25:34.98,Default,,0,0,0,,'Não há como você se tornar um herói.'
+Dialogue: 0,0:25:34.98,0:25:37.74,Default,,0,0,0,,Não precisa me dizer tudo isso,
+Dialogue: 0,0:25:37.74,0:25:39.96,Default,,0,0,0,,já que eu já sei muito bem. Honestamente,
+Dialogue: 0,0:25:39.96,0:25:42.49,Default,,0,0,0,,sinto que posso chorar agora, de ansiedade.
+Dialogue: 0,0:25:42.49,0:25:50.57,Default,,0,0,0,,Assim como você.
+Dialogue: 0,0:26:04.20,0:26:06.80,Default,,0,0,0,,Houve muitos avisos para mim,
+Dialogue: 0,0:26:06.80,0:26:09.41,Default,,0,0,0,,mas eu ainda escolhi continuar com isso.
+Dialogue: 0,0:26:09.41,0:26:11.90,Default,,0,0,0,,Vou provar que essa é a escolha certa,
+Dialogue: 0,0:26:11.90,0:26:14.88,Default,,0,0,0,,que eu sou o protagonista desta história.
+Dialogue: 0,0:26:14.88,0:26:17.45,Default,,0,0,0,,Enquanto eu continuar acreditando, isso se tornará verdade.
+Dialogue: 0,0:26:17.45,0:26:19.83,Default,,0,0,0,,Vou realizá-lo e torná-lo realidade.
+Dialogue: 0,0:26:19.83,0:26:24.09,Default,,0,0,0,,Não há como voltar para mim.
+Dialogue: 0,0:26:24.09,0:26:27.19,Default,,0,0,0,,Desde então, fiquei completamente para trás.
+Dialogue: 0,0:26:27.19,0:26:30.51,Default,,0,0,0,,'Vamos fazer algo grande. Vamos nos vingar deles!', dissemos uma vez.
+Dialogue: 0,0:26:30.51,0:26:32.17,Default,,0,0,0,,Ideias tão grandiosas
+Dialogue: 0,0:26:32.17,0:26:34.17,Default,,0,0,0,,só fazem todos perderem a paciência comigo.
+Dialogue: 0,0:26:34.17,0:26:36.85,Default,,0,0,0,,Totalmente alheio a isso, eu cresço,
+Dialogue: 0,0:26:36.85,0:26:39.80,Default,,0,0,0,,e quando olho ao redor, ninguém é comparável a ninguém.
+Dialogue: 0,0:26:39.80,0:26:44.55,Default,,0,0,0,,Deve ser que todos nós carregamos o mesmo tipo de pensamentos conosco...
+Dialogue: 0,0:26:45.08,0:26:47.23,Default,,0,0,0,,O lugar onde você está agora
+Dialogue: 0,0:26:47.23,0:26:49.72,Default,,0,0,0,,deve ser o futuro que eu havia desistido.
+Dialogue: 0,0:26:49.72,0:26:52.18,Default,,0,0,0,,Como escolhemos coisas diferentes para nós,
+Dialogue: 0,0:26:52.18,0:26:55.08,Default,,0,0,0,,haverá momentos em que não conseguiremos nos entender,
+Dialogue: 0,0:26:55.08,0:26:57.20,Default,,0,0,0,,mas é bem estranho
+Dialogue: 0,0:26:57.20,0:26:59.31,Default,,0,0,0,,um desistente se intrometer
+Dialogue: 0,0:26:59.31,0:27:01.92,Default,,0,0,0,,e rir na sua cara, não é?
+Dialogue: 0,0:27:01.92,0:27:04.37,Default,,0,0,0,,Eu simplesmente odeio isso.
+Dialogue: 0,0:27:04.37,0:27:08.15,Default,,0,0,0,,Vou continuar esta história.
+Dialogue: 0,0:27:08.15,0:27:14.34,Default,,0,0,0,,Para mim, para eu mesmo, esta história que conto
+Dialogue: 0,0:27:14.34,0:27:17.51,Default,,0,0,0,,Como o personagem principal.
+Dialogue: 0,0:27:32.33,0:27:38.84,Default,,0,0,0,,Não deixe meu romance se tornar Julieta em uma tragédia.
+Dialogue: 0,0:27:38.84,0:27:43.14,Default,,0,0,0,,'Me tire daqui...'
+Dialogue: 0,0:27:43.14,0:27:44.98,Default,,0,0,0,,É assim que me sinto.
+Dialogue: 0,0:27:44.98,0:27:51.98,Default,,0,0,0,,18. Romeu para Cinderela (doriko)
+Dialogue: 0,0:27:55.74,0:27:58.63,Default,,0,0,0,,Papai e Mamãe, boa noite.
+Dialogue: 0,0:27:58.63,0:28:01.42,Default,,0,0,0,,Pelo menos vocês deveriam aproveitar seus sonhos.
+Dialogue: 0,0:28:01.42,0:28:06.67,Default,,0,0,0,,Já está na hora dos adultos irem para a cama.
+Dialogue: 0,0:28:06.67,0:28:10.10,Default,,0,0,0,,Engasgando com caramelo encantado,
+Dialogue: 0,0:28:10.10,0:28:12.78,Default,,0,0,0,,Cruzo minhas pernas nuas timidamente.
+Dialogue: 0,0:28:12.78,0:28:17.82,Default,,0,0,0,,Até onde iremos esta noite?
+Dialogue: 0,0:28:17.82,0:28:20.62,Default,,0,0,0,,Não me morda. Vá devagar.
+Dialogue: 0,0:28:20.62,0:28:23.47,Default,,0,0,0,,Ainda não gosto de coisas amargas.
+Dialogue: 0,0:28:23.47,0:28:28.78,Default,,0,0,0,,É porque sempre comi os bolos da Mamãe.
+Dialogue: 0,0:28:28.78,0:28:31.98,Default,,0,0,0,,Se algo é desconhecido,
+Dialogue: 0,0:28:31.98,0:28:34.83,Default,,0,0,0,,Você pode muito bem estar curioso sobre isso.
+Dialogue: 0,0:28:34.83,0:28:36.65,Default,,0,0,0,,Mostre-me tudo,
+Dialogue: 0,0:28:36.65,0:28:40.97,Default,,0,0,0,,Só você verá meu...
+Dialogue: 0,0:28:41.85,0:28:44.58,Default,,0,0,0,,Eu tenho desejado como a Cinderela.
+Dialogue: 0,0:28:44.58,0:28:47.85,Default,,0,0,0,,Vou fugir só com meu uniforme.
+Dialogue: 0,0:28:47.85,0:28:50.20,Default,,0,0,0,,Que a magia pare o tempo
+Dialogue: 0,0:28:50.20,0:28:53.59,Default,,0,0,0,,Antes que os vilões nos incomodem.
+Dialogue: 0,0:28:53.59,0:28:55.84,Default,,0,0,0,,Quero fugir como a Julieta
+Dialogue: 0,0:28:55.84,0:28:59.11,Default,,0,0,0,,mas não me chame por esse nome.
+Dialogue: 0,0:28:59.11,0:29:01.78,Default,,0,0,0,,Sim, estamos destinados a isso.
+Dialogue: 0,0:29:01.78,0:29:04.89,Default,,0,0,0,,Ou seria muito chato.
+Dialogue: 0,0:29:04.89,0:29:09.45,Default,,0,0,0,,Oh, ei, você vai morar comigo?
+Dialogue: 0,0:29:22.03,0:29:27.57,Default,,0,0,0,,Você poderia tentar olhar dentro do meu coração?
+Dialogue: 0,0:29:27.57,0:29:33.18,Default,,0,0,0,,Está cheio de desejo, não está?
+Dialogue: 0,0:29:33.18,0:29:38.76,Default,,0,0,0,,Mas não é o suficiente, coloque mais nele!
+Dialogue: 0,0:29:38.76,0:29:44.38,Default,,0,0,0,,Tão forte que você não pode mais estar lá, talvez?
+Dialogue: 0,0:29:44.38,0:29:49.36,Default,,0,0,0,,Mas isso não faria sentido!
+Dialogue: 0,0:29:49.36,0:29:52.46,Default,,0,0,0,,A felicidade parece estar guardada na caixa pequena
+Dialogue: 0,0:29:52.46,0:29:55.52,Default,,0,0,0,,em vez da maior.
+Dialogue: 0,0:29:55.52,0:29:58.48,Default,,0,0,0,,O que eu devo fazer? Algo precisa ser feito,
+Dialogue: 0,0:29:58.48,0:30:01.26,Default,,0,0,0,,ou eu vou te decepcionar.
+Dialogue: 0,0:30:01.26,0:30:03.72,Default,,0,0,0,,Mas vivendo sua vida habitual
+Dialogue: 0,0:30:03.72,0:30:06.97,Default,,0,0,0,,estão meu pai e minha mãe gananciosos.
+Dialogue: 0,0:30:06.97,0:30:09.42,Default,,0,0,0,,Sim, eu farei o mesmo;
+Dialogue: 0,0:30:09.42,0:30:12.68,Default,,0,0,0,,'A machado que eu perdi era o DOURADO.'
+Dialogue: 0,0:30:12.68,0:30:15.05,Default,,0,0,0,,Cinderela, que contou muitas mentiras,
+Dialogue: 0,0:30:15.05,0:30:18.24,Default,,0,0,0,,dizem que foi comida pelo lobo.
+Dialogue: 0,0:30:18.24,0:30:21.08,Default,,0,0,0,,O que eu devo fazer? Algo precisa ser feito,
+Dialogue: 0,0:30:21.08,0:30:23.87,Default,,0,0,0,,Ou eu também serei comida.
+Dialogue: 0,0:30:23.87,0:30:28.32,Default,,0,0,0,,Por favor, me salve antes disso!
+Dialogue: 0,0:31:01.58,0:31:08.58,Default,,0,0,0,,19. Karakuri Pierrot (40mp)
+Dialogue: 0,0:31:20.08,0:31:24.68,Default,,0,0,0,,Duas horas após o horário combinado do nosso encontro,
+Dialogue: 0,0:31:24.78,0:31:29.02,Default,,0,0,0,,Eu ainda estava esperando sozinho. Então essa deve ser sua resposta.
+Dialogue: 0,0:31:29.52,0:31:33.96,Default,,0,0,0,,Os transeuntes na rua e as nuvens flutuantes
+Dialogue: 0,0:31:34.22,0:31:37.79,Default,,0,0,0,,estavam rindo da minha estupidez.
+Dialogue: 0,0:31:38.03,0:31:42.47,Default,,0,0,0,,É tão fácil, e ainda assim tão difícil,
+Dialogue: 0,0:31:42.70,0:31:47.24,Default,,0,0,0,,pois posso seguir em frente assim que aceitar a realidade.
+Dialogue: 0,0:31:47.24,0:31:51.87,Default,,0,0,0,,Incapaz de acreditar, não querendo acreditar,
+Dialogue: 0,0:31:52.14,0:31:56.51,Default,,0,0,0,,Devo ser um palhaço na sua mente, não sou?
+Dialogue: 0,0:31:57.21,0:32:01.88,Default,,0,0,0,,Ah, eu giro e giro, e estou cansado de girar.
+Dialogue: 0,0:32:02.28,0:32:06.49,Default,,0,0,0,,Ah, meu fôlego... meu fôlego se esgotou.
+Dialogue: 0,0:32:06.49,0:32:11.49,Default,,0,0,0,,Sim, este é o triste fim do meu destino.
+Dialogue: 0,0:32:11.69,0:32:15.83,Default,,0,0,0,,Ainda não consigo te alcançar.
+Dialogue: 0,0:32:34.82,0:32:39.62,Default,,0,0,0,,Ah, eu giro e giro, e estou cansado de girar.
+Dialogue: 0,0:32:39.66,0:32:44.26,Default,,0,0,0,,Ah, eu giro e giro, e estou cansado de girar.
+Dialogue: 0,0:32:44.26,0:32:48.96,Default,,0,0,0,,Ah, meu fôlego, meu fôlego, meu fôlego está parando.
+Dialogue: 0,0:32:48.96,0:32:53.67,Default,,0,0,0,,Ah, meu fôlego, meu fôlego, meu fôlego está parando.
+Dialogue: 0,0:32:53.67,0:32:58.41,Default,,0,0,0,,Ah, que as coisas começarão a mudar,
+Dialogue: 0,0:32:58.41,0:33:02.91,Default,,0,0,0,,Ah, é um pensamento assustador.
+Dialogue: 0,0:33:03.08,0:33:08.02,Default,,0,0,0,,Eu desisto. Não vou esperar mais por você aqui.
+Dialogue: 0,0:33:08.12,0:33:12.45,Default,,0,0,0,,Caso contrário, eu realmente vou acabar quebrando.
+Dialogue: 0,0:33:12.52,0:33:17.23,Default,,0,0,0,,Ah, eu giro e giro, e estou cansado de girar.
+Dialogue: 0,0:33:17.23,0:33:21.63,Default,,0,0,0,,Ah, meu fôlego, meu fôlego está parando.
+Dialogue: 0,0:33:21.86,0:33:26.64,Default,,0,0,0,,Sim, eu sou o palhaço que você deseja.
+Dialogue: 0,0:33:26.87,0:33:35.01,Default,,0,0,0,,Por favor, me comande como quiser.
+Dialogue: 0,0:34:08.98,0:34:11.13,Default,,0,0,0,,Pegue a onda com você
+Dialogue: 0,0:34:11.13,0:34:12.72,Default,,0,0,0,,Vamos cantar mais um pouco
+Dialogue: 0,0:34:12.72,0:34:15.36,Default,,0,0,0,,com esses sons que juntamos
+Dialogue: 0,0:34:15.36,0:34:16.53,Default,,0,0,0,,Agite suas mãos
+Dialogue: 0,0:34:16.53,0:34:17.47,Default,,0,0,0,,Vamos agitar nosso futuro
+Dialogue: 0,0:34:17.47,0:34:21.97,Default,,0,0,0,,um pouco mais
+Dialogue: 0,0:34:22.98,0:34:29.98,Default,,0,0,0,,20. Pegue a Onda (livetune)
+Dialogue: 0,0:34:34.61,0:34:37.82,Default,,0,0,0,,Para que a diversão possa continuar,
+Dialogue: 0,0:34:37.82,0:34:41.41,Default,,0,0,0,,não importa quanto tempo passe,
+Dialogue: 0,0:34:41.41,0:34:44.20,Default,,0,0,0,,esses incontáveis sons coletados
+Dialogue: 0,0:34:44.20,0:34:47.11,Default,,0,0,0,,continuarão a mudar de forma e dançar
+Dialogue: 0,0:34:47.48,0:34:50.32,Default,,0,0,0,,Aquele presente que você me deu,
+Dialogue: 0,0:34:50.32,0:34:53.83,Default,,0,0,0,,é um símbolo para hoje
+Dialogue: 0,0:34:53.83,0:34:56.70,Default,,0,0,0,,Vamos continuar sendo barulhentos
+Dialogue: 0,0:34:56.70,0:34:59.34,Default,,0,0,0,,e barulhentos como quisermos
+Dialogue: 0,0:34:59.34,0:35:01.26,Default,,0,0,0,,Pegue a onda comigo
+Dialogue: 0,0:35:01.26,0:35:02.89,Default,,0,0,0,,Vamos dançar mais um pouco
+Dialogue: 0,0:35:02.89,0:35:05.60,Default,,0,0,0,,com esses sons que juntamos
+Dialogue: 0,0:35:05.60,0:35:06.70,Default,,0,0,0,,Agite suas mãos
+Dialogue: 0,0:35:06.70,0:35:07.61,Default,,0,0,0,,Esse ritmo está forte
+Dialogue: 0,0:35:07.61,0:35:11.98,Default,,0,0,0,,se unindo novamente
+Dialogue: 0,0:35:11.98,0:35:13.61,Default,,0,0,0,,Pegue a onda comigo
+Dialogue: 0,0:35:13.61,0:35:15.46,Default,,0,0,0,,Vamos apenas cantar
+Dialogue: 0,0:35:15.46,0:35:18.21,Default,,0,0,0,,sobre esses dias
+Dialogue: 0,0:35:18.21,0:35:19.31,Default,,0,0,0,,Agite suas mãos
+Dialogue: 0,0:35:19.31,0:35:20.06,Default,,0,0,0,,Vamos agitar nosso futuro
+Dialogue: 0,0:35:20.06,0:35:24.74,Default,,0,0,0,,um pouco mais
+Dialogue: 0,0:35:37.28,0:35:38.71,Default,,0,0,0,,Futuro,
+Dialogue: 0,0:35:38.71,0:35:40.67,Default,,0,0,0,,retrô,
+Dialogue: 0,0:35:40.67,0:35:42.00,Default,,0,0,0,,misture os gêneros
+Dialogue: 0,0:35:42.00,0:35:44.00,Default,,0,0,0,,como você quiser
+Dialogue: 0,0:35:44.00,0:35:46.90,Default,,0,0,0,,Vamos tentar começar a cantar
+Dialogue: 0,0:35:46.90,0:35:49.70,Default,,0,0,0,,nos créditos finais de alguém
+Dialogue: 0,0:35:50.11,0:35:53.28,Default,,0,0,0,,Se as vozes brincalhonas de todos
+Dialogue: 0,0:35:53.28,0:35:56.49,Default,,0,0,0,,puderem ecoar de longe,
+Dialogue: 0,0:35:56.49,0:35:59.28,Default,,0,0,0,,antes que percebamos
+Dialogue: 0,0:35:59.28,0:36:01.81,Default,,0,0,0,,elas podem se unir em um grito de alegria
+Dialogue: 0,0:36:01.81,0:36:04.00,Default,,0,0,0,,Pegue a onda comigo
+Dialogue: 0,0:36:04.00,0:36:05.74,Default,,0,0,0,,Vamos dançar mais um pouco
+Dialogue: 0,0:36:05.74,0:36:08.27,Default,,0,0,0,,em meio aos sons de risadas
+Dialogue: 0,0:36:08.27,0:36:09.36,Default,,0,0,0,,Agite suas mãos
+Dialogue: 0,0:36:09.36,0:36:10.19,Default,,0,0,0,,Aquelas gritos estão fortes
+Dialogue: 0,0:36:10.19,0:36:14.72,Default,,0,0,0,,se conectando novamente
+Dialogue: 0,0:36:14.72,0:36:16.50,Default,,0,0,0,,Pegue a onda comigo
+Dialogue: 0,0:36:16.50,0:36:18.08,Default,,0,0,0,,Vamos apenas cantar
+Dialogue: 0,0:36:18.08,0:36:20.80,Default,,0,0,0,,nesta nova era
+Dialogue: 0,0:36:20.80,0:36:21.93,Default,,0,0,0,,Agite suas mãos
+Dialogue: 0,0:36:21.93,0:36:22.80,Default,,0,0,0,,Vamos agitar nosso futuro
+Dialogue: 0,0:36:22.80,0:36:27.48,Default,,0,0,0,,um pouco mais
+Dialogue: 0,0:36:51.91,0:36:54.14,Default,,0,0,0,,Pegue a onda com você
+Dialogue: 0,0:36:54.14,0:36:55.91,Default,,0,0,0,,Vamos dançar mais um pouco
+Dialogue: 0,0:36:55.91,0:36:58.44,Default,,0,0,0,,com esses sons que reunimos
+Dialogue: 0,0:36:58.44,0:36:59.50,Default,,0,0,0,,Agite suas mãos
+Dialogue: 0,0:36:59.50,0:37:00.29,Default,,0,0,0,,Esse ritmo está forte
+Dialogue: 0,0:37:00.29,0:37:04.78,Default,,0,0,0,,se unindo novamente
+Dialogue: 0,0:37:04.78,0:37:06.71,Default,,0,0,0,,Pegue a onda comigo
+Dialogue: 0,0:37:06.71,0:37:08.29,Default,,0,0,0,,Vamos apenas cantar
+Dialogue: 0,0:37:08.29,0:37:10.90,Default,,0,0,0,,sobre esses dias
+Dialogue: 0,0:37:10.90,0:37:12.10,Default,,0,0,0,,Agite suas mãos
+Dialogue: 0,0:37:12.10,0:37:13.05,Default,,0,0,0,,Vamos agitar nosso futuro
+Dialogue: 0,0:37:13.05,0:37:17.47,Default,,0,0,0,,um pouco mais
+Dialogue: 0,0:37:50.38,0:37:50.98,Default,,0,0,0,,21. Pode vir! (GigaP)
+Dialogue: 0,0:37:50.98,0:37:52.60,Default,,0,0,0,,Vamos lá, PODE VIR!
+Dialogue: 0,0:37:53.96,0:37:55.60,Default,,0,0,0,,A maior ilha, o Japão sem sono
+Dialogue: 0,0:37:55.60,0:37:58.23,Default,,0,0,0,,Matemática é tão infantil
+Dialogue: 0,0:37:58.23,0:38:01.49,Default,,0,0,0,,Mesmo que eu seja pego, não tenho orgulho
+Dialogue: 0,0:38:01.49,0:38:04.05,Default,,0,0,0,,Essa pretensão de elegância está acionando alarmes
+Dialogue: 0,0:38:04.05,0:38:07.33,Default,,0,0,0,,Apenas observar não é divertido
+Dialogue: 0,0:38:07.33,0:38:10.25,Default,,0,0,0,,Ei, traga um erro mais superior
+Dialogue: 0,0:38:10.25,0:38:12.25,Default,,0,0,0,,E lide com seu tédio
+Dialogue: 0,0:38:13.51,0:38:18.47,Default,,0,0,0,,Mamãe, eu não quero que acabe aqui, afinal
+Dialogue: 0,0:38:19.25,0:38:21.91,Default,,0,0,0,,Está tão morno, está me deixando louco
+Dialogue: 0,0:38:21.91,0:38:24.87,Default,,0,0,0,,Adeus a esse drama de criança
+Dialogue: 0,0:38:24.87,0:38:28.67,Default,,0,0,0,,Você sabe
+Dialogue: 0,0:38:28.67,0:38:30.00,Default,,0,0,0,,Não posso ficar assim para sempre
+Dialogue: 0,0:38:30.00,0:38:32.84,Default,,0,0,0,,Dun-dun-dun, eu vou me tornar um adulto
+Dialogue: 0,0:38:32.84,0:38:36.00,Default,,0,0,0,,E sentir o amargo e o doce do mundo, agora
+Dialogue: 0,0:38:36.00,0:38:38.36,Default,,0,0,0,,Pan-pan-pan, os tempos mudaram
+Dialogue: 0,0:38:38.36,0:38:41.48,Default,,0,0,0,,Não é só cheio de coisas ruins, certo?
+Dialogue: 0,0:38:41.48,0:38:44.32,Default,,0,0,0,,Seu passado, pecados, punições, tudo
+Dialogue: 0,0:38:44.32,0:38:49.96,Default,,0,0,0,,Com essas mãos nuas, com amor, sobreviva e conserte tudo!
+Dialogue: 0,0:38:54.31,0:38:56.98,Default,,0,0,0,,É isso aí, estamos agitando as coisas, sem dúvida
+Dialogue: 0,0:38:56.98,0:38:59.02,Default,,0,0,0,,Não preste atenção naquela garota verde o tempo todo
+Dialogue: 0,0:39:00.28,0:39:02.90,Default,,0,0,0,,Agora, queime! Quando você fizer isso, você vai passar
+Dialogue: 0,0:39:02.90,0:39:05.38,Default,,0,0,0,,Está marcado com uma caneta vermelha. Eu cometi um erro em algum lugar?
+Dialogue: 0,0:39:05.38,0:39:08.33,Default,,0,0,0,,Conformidade ao lidar com álcool, mulheres, dinheiro e drogas
+Dialogue: 0,0:39:08.33,0:39:12.14,Default,,0,0,0,,Relaxa, beleza… Era uma piada, comédia negra!
+Dialogue: 0,0:39:12.14,0:39:13.66,Default,,0,0,0,,Situações que me fazem levantar o dedo do meio
+Dialogue: 0,0:39:13.66,0:39:15.56,Default,,0,0,0,,Acontece com tanta frequência que não há dedos suficientes, então mãos para cima
+Dialogue: 0,0:39:15.56,0:39:16.89,Default,,0,0,0,,E aí, perdedor?
+Dialogue: 0,0:39:16.89,0:39:17.97,Default,,0,0,0,,Pode vir desde o começo!
+Dialogue: 0,0:39:17.97,0:39:20.41,Default,,0,0,0,,Não preciso ouvir 'calma aí'
+Dialogue: 0,0:39:20.41,0:39:23.83,Default,,0,0,0,,Antes de morrer, o que eu quero
+Dialogue: 0,0:39:23.83,0:39:26.77,Default,,0,0,0,,É crescer mais e mandar um beijo para minha cidade natal
+Dialogue: 0,0:39:26.77,0:39:29.96,Default,,0,0,0,,O melhor do show começa a partir daqui, então se prepare!
+Dialogue: 0,0:39:29.96,0:39:32.88,Default,,0,0,0,,Dan-dan-dan, nós vamos nos tornar adultos
+Dialogue: 0,0:39:32.88,0:39:35.93,Default,,0,0,0,,E com o olho no contador
+Dialogue: 0,0:39:35.93,0:39:38.45,Default,,0,0,0,,Vamos enfrentar nossos piores dias com hostilidade vigilante
+Dialogue: 0,0:39:38.45,0:39:41.49,Default,,0,0,0,,Ninguém pode ver o futuro, então ainda está empatado, certo?
+Dialogue: 0,0:39:41.49,0:39:44.34,Default,,0,0,0,,Erros, perdas, deslizes, tudo
+Dialogue: 0,0:39:44.34,0:39:49.36,Default,,0,0,0,,Com suas mãos nuas, lute! Viva e mude sua situação
+Dialogue: 0,0:40:02.90,0:40:08.24,Default,,0,0,0,,Dun-dun-dun, não posso me render a coisas meramente sem valor
+Dialogue: 0,0:40:08.24,0:40:11.44,Default,,0,0,0,,Entendeu? Essa é a minha estética
+Dialogue: 0,0:40:11.44,0:40:19.76,Default,,0,0,0,,Este punho tola e honesto é meu único trunfo
+Dialogue: 0,0:40:20.95,0:40:23.60,Default,,0,0,0,,Gritando essa inferioridade
+Dialogue: 0,0:40:23.60,0:40:26.17,Default,,0,0,0,,'Estou fora!'
+Dialogue: 0,0:40:26.17,0:40:27.62,Default,,0,0,0,,'Adeus!'
+Dialogue: 0,0:40:46.56,0:40:48.01,Default,,0,0,0,,Nós não vamos desistir!
+Dialogue: 0,0:40:48.01,0:40:50.90,Default,,0,0,0,,Dun-dun-dun, eu vou me tornar um adulto
+Dialogue: 0,0:40:50.90,0:40:53.84,Default,,0,0,0,,E sentir o amargo e o doce do mundo, agora
+Dialogue: 0,0:40:53.84,0:40:56.38,Default,,0,0,0,,Um futuro brilhante onde nos cruzaremos novamente
+Dialogue: 0,0:40:56.38,0:40:59.33,Default,,0,0,0,,Você entende que eu não sou mais uma criança, certo?
+Dialogue: 0,0:40:59.33,0:41:02.25,Default,,0,0,0,,Épocas e oportunidades não vão esperar por mim
+Dialogue: 0,0:41:02.25,0:41:08.04,Default,,0,0,0,,Com suas próprias mãos, arriscando sua vida,\Nsobreviva e enfrente!
+Dialogue: 0,0:41:11.44,0:41:14.28,Default,,0,0,0,,Mirai Mágico!
+Dialogue: 0,0:41:20.98,0:41:25.19,Default,,0,0,0,,Bem, pessoal. Nós vamos sair primeiro. Tchau, galera!
+Dialogue: 0,0:41:43.68,0:41:50.68,Default,,0,0,0,,22. Matar e Continuar (Polícia Piccadilly)
+Dialogue: 0,0:41:54.58,0:41:57.49,Default,,0,0,0,,Com meus sentidos aguçados
+Dialogue: 0,0:41:57.49,0:42:00.40,Default,,0,0,0,,Eu sinto o novo no ar
+Dialogue: 0,0:42:00.40,0:42:03.00,Default,,0,0,0,,Usando uma motosserra para minha dança giratória
+Dialogue: 0,0:42:03.00,0:42:08.25,Default,,0,0,0,,É mais do que apenas uma memória inesquecível
+Dialogue: 0,0:42:11.31,0:42:14.29,Default,,0,0,0,,Toda vez que nos aproximamos
+Dialogue: 0,0:42:14.29,0:42:17.08,Default,,0,0,0,,A prova de que estou vivo vem à tona
+Dialogue: 0,0:42:17.08,0:42:19.99,Default,,0,0,0,,Uma voz ecoa da beira do inferno
+Dialogue: 0,0:42:19.99,0:42:23.50,Default,,0,0,0,,Vamos acabar com isso rapidamente
+Dialogue: 0,0:42:23.50,0:42:29.16,Default,,0,0,0,,Minha resposta já deveria ser óbvia
+Dialogue: 0,0:42:29.24,0:42:32.94,Default,,0,0,0,,Antes que eu percebesse...
+Dialogue: 0,0:42:33.35,0:42:34.26,Default,,0,0,0,,E agora
+Dialogue: 0,0:42:34.26,0:42:39.62,Default,,0,0,0,,Matar e continuar, continuar, carryalion
+Dialogue: 0,0:42:39.62,0:42:42.53,Default,,0,0,0,,Despedace-os em pedaços
+Dialogue: 0,0:42:42.53,0:42:45.17,Default,,0,0,0,,Meu sentido de percepção está a mil
+Dialogue: 0,0:42:45.17,0:42:47.89,Default,,0,0,0,,Estou envolto em prazer
+Dialogue: 0,0:42:47.89,0:42:53.25,Default,,0,0,0,,E se funde com meus impulsos enganados
+Dialogue: 0,0:43:04.76,0:43:07.93,Default,,0,0,0,,Esta história infinita não pode ser interrompida
+Dialogue: 0,0:43:07.93,0:43:10.73,Default,,0,0,0,,Arranque o calor fraco que resta
+Dialogue: 0,0:43:10.73,0:43:13.52,Default,,0,0,0,,Se estendendo além do meu campo de visão
+Dialogue: 0,0:43:13.52,0:43:17.45,Default,,0,0,0,,Está o céu ardente e turbulento
+Dialogue: 0,0:43:17.45,0:43:22.62,Default,,0,0,0,,Descarte o segundo, erre para o inesperado
+Dialogue: 0,0:43:22.62,0:43:26.66,Default,,0,0,0,,Desvie da sua trajetória...
+Dialogue: 0,0:43:26.66,0:43:27.64,Default,,0,0,0,,Ainda mais
+Dialogue: 0,0:43:27.64,0:43:33.34,Default,,0,0,0,,Mate, continue, continue, carryalion
+Dialogue: 0,0:43:33.34,0:43:35.87,Default,,0,0,0,,Por alguma razão, aparece na minha mente
+Dialogue: 0,0:43:35.87,0:43:38.85,Default,,0,0,0,,São linhas de raciocínio emocional crônicas
+Dialogue: 0,0:43:38.85,0:43:41.72,Default,,0,0,0,,Quanto mais distância eu encerro
+Dialogue: 0,0:43:41.72,0:43:46.10,Default,,0,0,0,,Não é natural que eu também seja eliminado?
+Dialogue: 0,0:43:56.93,0:44:00.06,Default,,0,0,0,,Eu engoli um suspiro
+Dialogue: 0,0:44:00.06,0:44:02.71,Default,,0,0,0,,E assim, eu interpreto mal
+Dialogue: 0,0:44:02.71,0:44:05.69,Default,,0,0,0,,E sinto como se captasse o cheiro de um tempo que passou
+Dialogue: 0,0:44:05.69,0:44:08.63,Default,,0,0,0,,Parece que não posso mais ser parado
+Dialogue: 0,0:44:08.63,0:44:11.43,Default,,0,0,0,,Despedace-os em pedaços
+Dialogue: 0,0:44:11.43,0:44:13.92,Default,,0,0,0,,Meu senso de percepção está a mil
+Dialogue: 0,0:44:13.92,0:44:16.94,Default,,0,0,0,,Estou envolto em prazer
+Dialogue: 0,0:44:16.94,0:44:22.30,Default,,0,0,0,,E se funde com meus impulsos enganados
+Dialogue: 0,0:45:05.68,0:45:12.68,Default,,0,0,0,,23. Um plano ainda está em andamento secretamente (Shinra)
+Dialogue: 0,0:45:12.90,0:45:15.39,Default,,0,0,0,,Temos estado com expressões vazias ultimamente,
+Dialogue: 0,0:45:15.39,0:45:17.47,Default,,0,0,0,,Gostaria de adicionar um pouco de emoção ao amanhã
+Dialogue: 0,0:45:17.47,0:45:19.43,Default,,0,0,0,,Não deixe ninguém saber, estou secretamente
+Dialogue: 0,0:45:19.43,0:45:21.35,Default,,0,0,0,,prolongando o tempo que temos para sonhar
+Dialogue: 0,0:45:21.35,0:45:23.51,Default,,0,0,0,,Parece que quanto mais nos preocupamos com o que está no espelho
+Dialogue: 0,0:45:23.51,0:45:25.32,Default,,0,0,0,,menos tempo temos para coisas assim
+Dialogue: 0,0:45:25.32,0:45:27.55,Default,,0,0,0,,Vamos tentar enfiar um pouco de originalidade
+Dialogue: 0,0:45:27.55,0:45:31.06,Default,,0,0,0,,e esquemas engenhosos em nossos planos improvisados
+Dialogue: 0,0:45:31.81,0:45:39.36,Default,,0,0,0,,Quando você estiver pronto, vamos pegar a aurora
+Dialogue: 0,0:45:39.36,0:45:45.25,Default,,0,0,0,,junto com as razões para suas lágrimas e sair
+Dialogue: 0,0:45:45.25,0:45:53.40,Default,,0,0,0,,Este forte vento contra se transformará em sons e continuará
+Dialogue: 0,0:45:53.40,0:46:00.92,Default,,0,0,0,,para que possamos ter nosso primeiro encontro casual algum dia
+Dialogue: 0,0:46:09.90,0:46:12.24,Default,,0,0,0,,Vou colocar algumas esperanças e sonhos
+Dialogue: 0,0:46:12.24,0:46:14.20,Default,,0,0,0,,também naquela estrela indiferente
+Dialogue: 0,0:46:14.20,0:46:16.24,Default,,0,0,0,,Mesmo que esse tipo de curiosidade trancada e esquecida
+Dialogue: 0,0:46:16.24,0:46:18.28,Default,,0,0,0,,seja imatura e risível
+Dialogue: 0,0:46:18.28,0:46:20.28,Default,,0,0,0,,Sempre há esperança para nós,
+Dialogue: 0,0:46:20.28,0:46:22.43,Default,,0,0,0,,suficiente para podermos cantar mesmo em uma noite chuvosa
+Dialogue: 0,0:46:22.43,0:46:24.28,Default,,0,0,0,,Mesmo com tanto a fazer, isso pode nos deixar tontos,
+Dialogue: 0,0:46:24.28,0:46:27.83,Default,,0,0,0,,vamos tentar nos divertir com todos os erros e acertos
+Dialogue: 0,0:46:28.74,0:46:36.89,Default,,0,0,0,,Vamos pendurar um arco-íris sobre esta cidade monocromática
+Dialogue: 0,0:46:36.89,0:46:42.44,Default,,0,0,0,,Um sinal que podemos usar para romper o silêncio
+Dialogue: 0,0:46:42.44,0:46:50.41,Default,,0,0,0,,Um ritmo que faz o tempo girar e uma melodia ainda a ser vivida,
+Dialogue: 0,0:46:50.41,0:46:58.07,Default,,0,0,0,,se tocarmos isso agora, os dias que virão serão mágicos
+Dialogue: 0,0:47:14.91,0:47:17.25,Default,,0,0,0,,Aqueles dias em que éramos antissociais,
+Dialogue: 0,0:47:17.25,0:47:19.40,Default,,0,0,0,,em algum momento empurrados de trás para frente
+Dialogue: 0,0:47:19.40,0:47:21.32,Default,,0,0,0,,Vamos criar o máximo de sons vibrantes que pudermos
+Dialogue: 0,0:47:21.32,0:47:23.40,Default,,0,0,0,,para que nossos sorrisos brotantes não murcham
+Dialogue: 0,0:47:23.40,0:47:25.29,Default,,0,0,0,,Na bifurcação que aparecerá em algum lugar,
+Dialogue: 0,0:47:25.29,0:47:27.40,Default,,0,0,0,,e durante os dias de descanso tranquilo,
+Dialogue: 0,0:47:27.40,0:47:29.40,Default,,0,0,0,,vamos prometer não esquecer os momentos
+Dialogue: 0,0:47:29.40,0:47:33.10,Default,,0,0,0,,em que conseguimos compartilhar um sonho e dançar juntos
+Dialogue: 0,0:47:47.26,0:47:55.45,Default,,0,0,0,,Isso se tornará uma canção original nascida de nossos eus brincalhões e enérgicos
+Dialogue: 0,0:47:55.45,0:48:03.11,Default,,0,0,0,,que se conecta com aquelas vozes distantes
+Dialogue: 0,0:48:04.85,0:48:09.72,Default,,0,0,0,,Agora é a sua vez
+Dialogue: 0,0:48:09.72,0:48:14.10,Default,,0,0,0,,Você não precisa ter razões melancólicas
+Dialogue: 0,0:48:14.10,0:48:20.06,Default,,0,0,0,,Deixe seus sentimentos acumulados flutuarem em uma partitura
+Dialogue: 0,0:48:20.06,0:48:24.10,Default,,0,0,0,,na direção que seu coração está chamando
+Dialogue: 0,0:49:02.13,0:49:03.68,Default,,0,0,0,,Eu não sei onde estou.
+Dialogue: 0,0:49:03.68,0:49:07.19,Default,,0,0,0,,24. A Adoração do Ramune Azul (Aotokei)
+Dialogue: 0,0:49:07.19,0:49:10.62,Default,,0,0,0,,Tudo se desvanece em branco.
+Dialogue: 0,0:49:10.62,0:49:13.19,Default,,0,0,0,,Pálido como uma bolha.
+Dialogue: 0,0:49:13.19,0:49:17.42,Default,,0,0,0,,Eu peguei um caminho para este vazio em branco,
+Dialogue: 0,0:49:17.42,0:49:20.93,Default,,0,0,0,,Devo tentar voar novamente?
+Dialogue: 0,0:49:20.93,0:49:27.12,Default,,0,0,0,,Para o lugar onde te conheci pela primeira vez.
+Dialogue: 0,0:49:27.12,0:49:36.10,Default,,0,0,0,,Estendendo as asas dobradas ao vento.
+Dialogue: 0,0:49:36.10,0:49:39.80,Default,,0,0,0,,Eu pego uma garrafa de ramune e saio correndo,
+Dialogue: 0,0:49:39.80,0:49:43.24,Default,,0,0,0,,Sacudindo o suor que escorre,
+Dialogue: 0,0:49:43.24,0:49:46.64,Default,,0,0,0,,Acreditando no meu eu azul e claro.
+Dialogue: 0,0:49:46.64,0:49:49.69,Default,,0,0,0,,Eu venho te perseguindo.
+Dialogue: 0,0:49:49.69,0:49:53.43,Default,,0,0,0,,Eu desenhei isso em um avião de papel.
+Dialogue: 0,0:49:53.43,0:49:56.83,Default,,0,0,0,,Aquela adoração transparente.
+Dialogue: 0,0:49:56.83,0:50:00.23,Default,,0,0,0,,Tornando-a azul e pálida.
+Dialogue: 0,0:50:00.23,0:50:07.21,Default,,0,0,0,,Tudo se afastando, indo para a distância.
+Dialogue: 0,0:50:17.40,0:50:22.54,Default,,0,0,0,,Eu me pergunto para onde estamos indo agora?
+Dialogue: 0,0:50:22.54,0:50:28.58,Default,,0,0,0,,Até a próxima página é tão branca quanto as nuvens.
+Dialogue: 0,0:50:28.58,0:50:32.73,Default,,0,0,0,,Meu futuro é nebuloso.
+Dialogue: 0,0:50:32.73,0:50:36.24,Default,,0,0,0,,Eu me agarro a essa pequena esperança.
+Dialogue: 0,0:50:36.24,0:50:41.22,Default,,0,0,0,,Foi a primeira vez que eu conversei com você,
+Dialogue: 0,0:50:41.22,0:50:46.70,Default,,0,0,0,,Enquanto pisávamos firmemente no asfalto.
+Dialogue: 0,0:50:46.70,0:50:51.07,Default,,0,0,0,,Eu continuo a perseguir essa esperança hoje.
+Dialogue: 0,0:50:51.07,0:50:55.11,Default,,0,0,0,,Eu pego uma garrafa de ramune e saio correndo,
+Dialogue: 0,0:50:55.11,0:50:58.36,Default,,0,0,0,,Eu sacudo o vento que vem.
+Dialogue: 0,0:50:58.36,0:51:01.87,Default,,0,0,0,,Eu olho para o céu azul, azul.
+Dialogue: 0,0:51:01.87,0:51:05.08,Default,,0,0,0,,Eu mirei no futuro com intensidade.
+Dialogue: 0,0:51:05.08,0:51:08.86,Default,,0,0,0,,Eu desenhei isso em um avião de papel.
+Dialogue: 0,0:51:08.86,0:51:12.29,Default,,0,0,0,,Aquela adoração transparente.
+Dialogue: 0,0:51:12.29,0:51:15.73,Default,,0,0,0,,Estou chegando um pouco mais perto de você, não estou?
+Dialogue: 0,0:51:15.73,0:51:18.75,Default,,0,0,0,,Mas eu não consigo te alcançar.
+Dialogue: 0,0:51:18.75,0:51:25.88,Default,,0,0,0,,Não há como olhar para trás.
+Dialogue: 0,0:51:25.88,0:51:33.05,Default,,0,0,0,,Acho que estamos em mundos um pouco diferentes.
+Dialogue: 0,0:51:33.05,0:51:39.51,Default,,0,0,0,,Se você não consegue fazer isso acontecer,
+Dialogue: 0,0:51:39.51,0:51:49.40,Default,,0,0,0,,Então eu vou começar até que eu faça acontecer.
+Dialogue: 0,0:51:49.74,0:51:53.44,Default,,0,0,0,,Tudo se desmancha e vai embora.
+Dialogue: 0,0:51:53.44,0:51:56.84,Default,,0,0,0,,Enquanto enxugo o suor,
+Dialogue: 0,0:51:56.84,0:52:00.27,Default,,0,0,0,,E olho para o céu azul, azul,
+Dialogue: 0,0:52:00.27,0:52:03.40,Default,,0,0,0,,Meus pensamentos se voltam para você.
+Dialogue: 0,0:52:03.40,0:52:06.99,Default,,0,0,0,,Eu desenhei isso em um avião de papel.
+Dialogue: 0,0:52:06.99,0:52:10.46,Default,,0,0,0,,Aquela adoração transparente.
+Dialogue: 0,0:52:10.46,0:52:13.90,Default,,0,0,0,,Vai ganhar um pequeno toque de cor.
+Dialogue: 0,0:52:13.90,0:52:18.28,Default,,0,0,0,,Assim como aquela garrafa de ramune.
+Dialogue: 0,0:52:18.28,0:52:22.51,Default,,0,0,0,,Eu pego uma garrafa de ramune e saio correndo,
+Dialogue: 0,0:52:22.51,0:52:25.98,Default,,0,0,0,,Sacudindo o suor que escorre,
+Dialogue: 0,0:52:25.98,0:52:29.41,Default,,0,0,0,,Acreditando no meu eu azul e claro.
+Dialogue: 0,0:52:29.41,0:52:32.36,Default,,0,0,0,,Eu voei em direção a você.
+Dialogue: 0,0:52:32.36,0:52:36.13,Default,,0,0,0,,Eu desenhei isso em um avião de papel.
+Dialogue: 0,0:52:36.13,0:52:39.49,Default,,0,0,0,,Uma carta de amor da cor do ramune.
+Dialogue: 0,0:52:39.49,0:52:45.91,Default,,0,0,0,,Se ao menos você pudesse me responder, tão forte e tão azul.
+Dialogue: 0,0:52:45.91,0:52:50.78,Default,,0,0,0,,Isso seria bom.
+Dialogue: 0,0:52:53.48,0:52:59.48,Default,,0,0,0,,Isso seria bom.
+Dialogue: 0,0:54:34.94,0:54:37.68,Default,,0,0,0,,Eu nunca vou morrer
+Dialogue: 0,0:54:37.68,0:54:46.08,Default,,0,0,0,,25. Nunca Morra (Yuyoyuppe)
+Dialogue: 0,0:54:57.70,0:55:06.46,Default,,0,0,0,,No meio desta estrada, na qual venho correndo como se estivesse em transe,
+Dialogue: 0,0:55:08.50,0:55:17.03,Default,,0,0,0,,Eu tropecei e caí, repetidamente.
+Dialogue: 0,0:55:18.31,0:55:20.73,Default,,0,0,0,,Mas mesmo que o futuro que eu imaginei
+Dialogue: 0,0:55:20.73,0:55:23.82,Default,,0,0,0,,não estivesse mais visível para mim,
+Dialogue: 0,0:55:23.82,0:55:28.43,Default,,0,0,0,,Eu não queria desistir.
+Dialogue: 0,0:55:28.43,0:55:30.92,Default,,0,0,0,,Eu nunca vou morrer
+Dialogue: 0,0:55:30.92,0:55:33.49,Default,,0,0,0,,Eu nunca vou acabar
+Dialogue: 0,0:55:33.49,0:55:38.92,Default,,0,0,0,,Enquanto eu puder continuar em frente.
+Dialogue: 0,0:55:38.92,0:55:41.49,Default,,0,0,0,,Eu nunca vou morrer
+Dialogue: 0,0:55:41.49,0:55:44.21,Default,,0,0,0,,Eu nunca vou acabar
+Dialogue: 0,0:55:44.21,0:55:49.79,Default,,0,0,0,,Confiando tudo nos sons que circulam agora.
+Dialogue: 0,0:55:49.79,0:55:55.53,Default,,0,0,0,,Eu nunca vou morrer
+Dialogue: 0,0:55:56.29,0:56:05.12,Default,,0,0,0,,Seja o caminho que finalmente encontrei após me preocupar sozinho,
+Dialogue: 0,0:56:06.93,0:56:14.94,Default,,0,0,0,,ou a noite em que recuperei tudo que havia esquecido...
+Dialogue: 0,0:56:16.14,0:56:19.24,Default,,0,0,0,,em todos os momentos,
+Dialogue: 0,0:56:19.24,0:56:22.71,Default,,0,0,0,,você cantou para mim
+Dialogue: 0,0:56:22.71,0:56:26.86,Default,,0,0,0,,enquanto me guiava pela mão.
+Dialogue: 0,0:56:26.86,0:56:34.87,Default,,0,0,0,,Eu nunca vou morrer
+Dialogue: 0,0:56:49.06,0:56:58.57,Default,,0,0,0,,Estou brilhando, mesmo enquanto a era continua mudando ao meu redor,
+Dialogue: 0,0:57:00.08,0:57:09.60,Default,,0,0,0,,pois quero avançar com você um pouco mais para o futuro.
+Dialogue: 0,0:57:09.60,0:57:12.16,Default,,0,0,0,,Eu nunca vou morrer
+Dialogue: 0,0:57:12.16,0:57:14.73,Default,,0,0,0,,Eu nunca vou acabar
+Dialogue: 0,0:57:14.73,0:57:20.17,Default,,0,0,0,,Enquanto eu puder continuar em frente.
+Dialogue: 0,0:57:20.17,0:57:22.96,Default,,0,0,0,,Eu nunca vou morrer
+Dialogue: 0,0:57:22.96,0:57:25.60,Default,,0,0,0,,Eu nunca vou acabar
+Dialogue: 0,0:57:25.60,0:57:30.96,Default,,0,0,0,,Confiando tudo nos sons que circulam agora.
+Dialogue: 0,0:57:30.96,0:57:42.97,Default,,0,0,0,,Eu nunca vou morrer
+Dialogue: 0,0:58:19.64,0:58:26.64,Default,,0,0,0,,26. Dreamin Chu Chu (emon(Tes.))
+Dialogue: 0,0:58:34.30,0:58:41.37,Default,,0,0,0,,O amor despertou para esta jovem pura e honesta.
+Dialogue: 0,0:58:41.37,0:58:43.51,Default,,0,0,0,,Esfregando um pouco disso sob meus olhos.
+Dialogue: 0,0:58:43.51,0:58:45.15,Default,,0,0,0,,O Corretivo.
+Dialogue: 0,0:58:45.15,0:58:49.23,Default,,0,0,0,,Aa... Por que tem que ser o dia dos namorados?
+Dialogue: 0,0:58:49.23,0:58:52.65,Default,,0,0,0,,Pegando alguns olhares daquele grande bobo.
+Dialogue: 0,0:58:52.65,0:58:56.36,Default,,0,0,0,,Ele parece saber que algo está acontecendo.
+Dialogue: 0,0:58:56.36,0:59:00.52,Default,,0,0,0,,Para nós, que ainda não somos um par há muito tempo.
+Dialogue: 0,0:59:00.52,0:59:03.41,Default,,0,0,0,,Finalmente chegou, não é?
+Dialogue: 0,0:59:04.29,0:59:07.76,Default,,0,0,0,,Aquele dia especial.
+Dialogue: 0,0:59:07.76,0:59:09.81,Default,,0,0,0,,Dreaming Chu Chu★
+Dialogue: 0,0:59:09.81,0:59:11.43,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,0:59:11.43,0:59:15.38,Default,,0,0,0,,Essa doçura feita só para você.
+Dialogue: 0,0:59:15.38,0:59:16.92,Default,,0,0,0,,Sonhando Chu Chu★
+Dialogue: 0,0:59:16.92,0:59:18.73,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,0:59:18.73,0:59:22.52,Default,,0,0,0,,Quero que esses sentimentos cheguem até você.
+Dialogue: 0,0:59:22.52,0:59:24.85,Default,,0,0,0,,Sonhando Chu Chu★
+Dialogue: 0,0:59:24.85,0:59:26.54,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,0:59:26.54,0:59:30.12,Default,,0,0,0,,Cubra tudo com um pouco de doçura amarga.
+Dialogue: 0,0:59:30.12,0:59:32.17,Default,,0,0,0,,Sonhando Chu Chu Chu.
+Dialogue: 0,0:59:32.17,0:59:35.74,Default,,0,0,0,,Cho-la-la-la-te. Cho-la-la-la-te.
+Dialogue: 0,0:59:35.74,0:59:38.08,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,0:59:53.00,0:59:56.38,Default,,0,0,0,,Encontrando depois da escola no telhado.
+Dialogue: 0,0:59:56.38,1:00:00.09,Default,,0,0,0,,Este meu coração batendo como louco.
+Dialogue: 0,1:00:00.09,1:00:03.83,Default,,0,0,0,,Ouvindo os sons de você subindo as escadas.
+Dialogue: 0,1:00:03.83,1:00:07.68,Default,,0,0,0,,Isso faz meu corpo tremer.
+Dialogue: 0,1:00:07.68,1:00:11.12,Default,,0,0,0,,Nós dois nos encarando...
+Dialogue: 0,1:00:11.12,1:00:13.28,Default,,0,0,0,,Sonhando Chu Chu★
+Dialogue: 0,1:00:13.28,1:00:15.16,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,1:00:15.16,1:00:19.14,Default,,0,0,0,,Essa doçura feita só para você.
+Dialogue: 0,1:00:19.14,1:00:20.80,Default,,0,0,0,,Sonhando Chu Chu★
+Dialogue: 0,1:00:20.80,1:00:22.60,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,1:00:22.60,1:00:26.25,Default,,0,0,0,,Quero que esses sentimentos cheguem até você.
+Dialogue: 0,1:00:26.25,1:00:28.51,Default,,0,0,0,,Sonhando Chu Chu★
+Dialogue: 0,1:00:28.51,1:00:30.19,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,1:00:30.19,1:00:33.86,Default,,0,0,0,,Cubra tudo com um pouco de doçura amarga.
+Dialogue: 0,1:00:33.86,1:00:36.01,Default,,0,0,0,,Sonhando Chu Chu Chu.
+Dialogue: 0,1:00:36.01,1:00:39.52,Default,,0,0,0,,Cho-la-la-la-te. Cho-la-la-la-te.
+Dialogue: 0,1:00:39.52,1:00:41.65,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,1:00:41.65,1:00:45.44,Default,,0,0,0,,Meu coração e o seu.
+Dialogue: 0,1:00:45.44,1:00:49.27,Default,,0,0,0,,Seu coração e o meu.
+Dialogue: 0,1:00:49.27,1:00:52.49,Default,,0,0,0,,Chocolate feito para unir nossos corações.
+Dialogue: 0,1:00:52.49,1:00:58.19,Default,,0,0,0,,Eu já imaginei essa cena tantas vezes.
+Dialogue: 0,1:00:58.19,1:01:02.05,Default,,0,0,0,,Apenas um no mundo todo.
+Dialogue: 0,1:01:02.05,1:01:06.19,Default,,0,0,0,,Este momento é só para você.
+Dialogue: 0,1:01:06.19,1:01:09.49,Default,,0,0,0,,Esses sentimentos doces que tenho.
+Dialogue: 0,1:01:09.49,1:01:11.35,Default,,0,0,0,,Como eu vou te dar eles,
+Dialogue: 0,1:01:11.35,1:01:13.42,Default,,0,0,0,,Por favor, aceite-os, tá bom?
+Dialogue: 0,1:01:13.42,1:01:15.17,Default,,0,0,0,,Sonhando Chu Chu★
+Dialogue: 0,1:01:15.17,1:01:16.95,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,1:01:16.95,1:01:20.74,Default,,0,0,0,,Essa doçura feita só para você.
+Dialogue: 0,1:01:20.74,1:01:22.61,Default,,0,0,0,,Sonhando Chu Chu★
+Dialogue: 0,1:01:22.61,1:01:24.51,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,1:01:24.51,1:01:28.70,Default,,0,0,0,,Quero que esses sentimentos cheguem até você.
+Dialogue: 0,1:01:28.70,1:01:30.48,Default,,0,0,0,,Sonhando Chu Chu★
+Dialogue: 0,1:01:30.48,1:01:32.04,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,1:01:32.04,1:01:35.79,Default,,0,0,0,,Cubra tudo com um pouco de doçura amarga.
+Dialogue: 0,1:01:35.79,1:01:37.92,Default,,0,0,0,,Sonhando Chu Chu Chu.
+Dialogue: 0,1:01:37.92,1:01:41.32,Default,,0,0,0,,Cho-la-la-la-te. Cho-la-la-la-te.
+Dialogue: 0,1:01:41.32,1:01:43.72,Default,,0,0,0,,Cho-la-la-la-te.
+Dialogue: 0,1:02:26.38,1:02:28.09,Default,,0,0,0,,Isso não é bom.
+Dialogue: 0,1:02:29.28,1:02:36.28,Default,,0,0,0,,27. Luka Luka ★ Night Fever (samfree)
+Dialogue: 0,1:02:40.10,1:02:46.08,Default,,0,0,0,,Enquanto a legenda rola da direita para a esquerda,
+Dialogue: 0,1:02:46.08,1:02:52.16,Default,,0,0,0,,você olha fixamente para o monitor, completamente entediado.
+Dialogue: 0,1:02:52.16,1:02:58.06,Default,,0,0,0,,Estou sempre pronto para atravessar a parede das dimensões para te encontrar,
+Dialogue: 0,1:02:58.06,1:03:03.90,Default,,0,0,0,,então, por favor, prepare seu coração para mim, tá bom?
+Dialogue: 0,1:03:03.90,1:03:08.06,Default,,0,0,0,,Eu te entendo melhor do que qualquer outra pessoa,
+Dialogue: 0,1:03:08.06,1:03:10.36,Default,,0,0,0,,então, apenas deixe tudo comigo.
+Dialogue: 0,1:03:10.36,1:03:15.91,Default,,0,0,0,,Pare de ter medo e vamos dançar juntos.
+Dialogue: 0,1:03:16.26,1:03:19.36,Default,,0,0,0,,Luka Luka Night Fever!
+Dialogue: 0,1:03:19.36,1:03:22.40,Default,,0,0,0,,Dance aos ritmos vibrantes,
+Dialogue: 0,1:03:22.40,1:03:28.06,Default,,0,0,0,,e esqueça tudo que for desagradável.
+Dialogue: 0,1:03:28.06,1:03:31.13,Default,,0,0,0,,Luka Luka Noite Fever!
+Dialogue: 0,1:03:31.13,1:03:34.43,Default,,0,0,0,,Como eu estou bem aqui com você,
+Dialogue: 0,1:03:34.43,1:03:40.04,Default,,0,0,0,,desviar o olhar mesmo que por um segundo não é bom!
+Dialogue: 0,1:03:51.78,1:03:55.91,Default,,0,0,0,,Eu te entendo melhor do que qualquer outra pessoa.
+Dialogue: 0,1:03:55.91,1:03:58.42,Default,,0,0,0,,Apenas se abra completamente para mim,
+Dialogue: 0,1:03:58.42,1:04:04.20,Default,,0,0,0,,e vamos juntos buscar o significado da nossa existência.
+Dialogue: 0,1:04:04.20,1:04:07.24,Default,,0,0,0,,Luka Luka Noite Fever!
+Dialogue: 0,1:04:07.24,1:04:10.28,Default,,0,0,0,,Sinta meu coração pulsando forte,
+Dialogue: 0,1:04:10.28,1:04:16.35,Default,,0,0,0,,e quando estiver pronta, pegue minha mão.
+Dialogue: 0,1:04:16.35,1:04:19.33,Default,,0,0,0,,Luka Luka Noite Fever!
+Dialogue: 0,1:04:19.33,1:04:22.49,Default,,0,0,0,,Eu realmente gosto quando você brilha intensamente.
+Dialogue: 0,1:04:22.49,1:04:25.26,Default,,0,0,0,,Vamos decolar com toda a nossa força.
+Dialogue: 0,1:04:25.26,1:04:28.07,Default,,0,0,0,,Você está pronta para isso?
+Dialogue: 0,1:04:28.07,1:04:30.93,Default,,0,0,0,,Luka Luka Noite Fever!
+Dialogue: 0,1:04:30.93,1:04:34.47,Default,,0,0,0,,Dance aos ritmos vibrantes,
+Dialogue: 0,1:04:34.47,1:04:39.92,Default,,0,0,0,,e esqueça tudo que for desagradável.
+Dialogue: 0,1:04:39.92,1:04:42.96,Default,,0,0,0,,Luka Luka Noite Fever!
+Dialogue: 0,1:04:42.96,1:04:46.27,Default,,0,0,0,,Como eu estou bem aqui com você,
+Dialogue: 0,1:04:46.27,1:04:52.20,Default,,0,0,0,,desviar o olhar mesmo que por um segundo não é bom!
+Dialogue: 0,1:05:17.42,1:05:19.22,Default,,0,0,0,,Isso não é bom.
+Dialogue: 0,1:05:58.47,1:05:58.48,Default,,0,0,0,,28. Mesmo Que Você Assuma Que É Sua Felicidade (HeavenzP)
+Dialogue: 0,1:05:58.48,1:06:05.23,Default,,0,0,0,,As expectativas de meninos e meninas que\Nexibiram seus pés descalços e saíram correndo.
+Dialogue: 0,1:06:05.23,1:06:10.18,Default,,0,0,0,,Como é normal ficar molhado de água depois disso
+Dialogue: 0,1:06:11.27,1:06:17.80,Default,,0,0,0,,Um argumento ofuscante tautologicamente. Oh, mais um dia estava se encerrando.
+Dialogue: 0,1:06:17.80,1:06:22.15,Default,,0,0,0,,Uma sensação totalmente fabricada.
+Dialogue: 0,1:06:23.66,1:06:29.58,Default,,0,0,0,,As emoções que pressionavam nossos peitos naquela época
+Dialogue: 0,1:06:30.04,1:06:37.06,Default,,0,0,0,,Qual é a data de validade das lágrimas que derramamos que alguém foi atraído?
+Dialogue: 0,1:06:37.06,1:06:41.59,Default,,0,0,0,,Um futuro certo. O futuro sobre o qual estamos rindo juntos.
+Dialogue: 0,1:06:41.59,1:06:48.87,Default,,0,0,0,,Se tivesse sido o futuro de vários dias depois
+Dialogue: 0,1:06:50.19,1:06:56.65,Default,,0,0,0,,O amanhã que você guarda não é amargo?
+Dialogue: 0,1:06:56.65,1:07:02.95,Default,,0,0,0,,Desenhe uma linha nas letras que estão se contorcendo em mim.
+Dialogue: 0,1:07:02.95,1:07:09.14,Default,,0,0,0,,O hoje que você guarda não pode ser salvo de jeito nenhum?
+Dialogue: 0,1:07:09.14,1:07:15.56,Default,,0,0,0,,Mesmo assim, se eu carregasse bondade sobre esses ombros,
+Dialogue: 0,1:07:15.56,1:07:23.07,Default,,0,0,0,,Você seria capaz de sentir amor novamente?
+Dialogue: 0,1:07:34.06,1:07:40.36,Default,,0,0,0,,Você acha que houve uma magia lançada sobre mim que foi gentilmente omitida?
+Dialogue: 0,1:07:40.36,1:07:45.35,Default,,0,0,0,,Você acha que não pode ser desfeito por ninguém?
+Dialogue: 0,1:07:46.14,1:07:52.82,Default,,0,0,0,,Uma situação que se tornou imperdoável por coisas que também eram perdoáveis,
+Dialogue: 0,1:07:52.82,1:07:57.39,Default,,0,0,0,,Não é como se apenas palavras se tornassem palavras.
+Dialogue: 0,1:08:22.27,1:08:34.87,Default,,0,0,0,,Mesmo que aqueles vários segundos e passos estivessem destinados,
+Dialogue: 0,1:08:34.87,1:08:41.03,Default,,0,0,0,,Parar essa determinação é ser egoísta?
+Dialogue: 0,1:08:41.03,1:08:54.24,Default,,0,0,0,,Não vá. Não vá. Não vá. Agora--
+Dialogue: 0,1:08:54.24,1:09:02.89,Default,,0,0,0,,Ah... O lugar que você estava mirando não é escuro?
+Dialogue: 0,1:09:02.89,1:09:09.04,Default,,0,0,0,,Se eu assumir que é apenas a sombra de uma grande luz,
+Dialogue: 0,1:09:09.04,1:09:15.31,Default,,0,0,0,,Não quero te fazer ir para o lugar onde você começa sua viagem;
+Dialogue: 0,1:09:15.31,1:09:21.84,Default,,0,0,0,,Por exemplo, mesmo que você durma tranquilamente além daquele ponto,
+Dialogue: 0,1:09:21.84,1:09:26.25,Default,,0,0,0,,Mesmo que você assuma que é sua felicidade--
+Dialogue: 0,1:09:26.25,1:09:30.97,Default,,0,0,0,,Seu amanhã não é amargo?
+Dialogue: 0,1:09:30.97,1:09:37.16,Default,,0,0,0,,Desenhe uma linha nas letras que estão se contorcendo em mim.
+Dialogue: 0,1:09:37.16,1:09:43.32,Default,,0,0,0,,O hoje que você guarda não pode ser salvo de jeito nenhum?
+Dialogue: 0,1:09:43.32,1:09:49.88,Default,,0,0,0,,Mesmo assim, se eu carregasse bondade sobre esses ombros,
+Dialogue: 0,1:09:49.88,1:09:57.59,Default,,0,0,0,,Você seria capaz de sentir amor novamente?
+Dialogue: 0,1:10:25.98,1:10:28.81,Default,,0,0,0,,Obrigado, pessoal!
+Dialogue: 0,1:10:31.42,1:10:36.66,Default,,0,0,0,,Graças a todos vocês, consegui cantar nos últimos 10 anos.
+Dialogue: 0,1:10:37.87,1:10:42.55,Default,,0,0,0,,Por favor, continuem me apoiando!
+Dialogue: 0,1:10:46.14,1:10:50.90,Default,,0,0,0,,A próxima música é um dueto com a Miku.
+Dialogue: 0,1:10:52.67,1:10:55.01,Default,,0,0,0,,Miku~!
+Dialogue: 0,1:10:57.92,1:11:02.18,Default,,0,0,0,,Luka, parabéns pelo seu 10º aniversário!
+Dialogue: 0,1:11:03.54,1:11:05.32,Default,,0,0,0,,Obrigado!
+Dialogue: 0,1:11:05.88,1:11:10.07,Default,,0,0,0,,Estou ansioso para cantar com você, Luka!
+Dialogue: 0,1:11:10.07,1:11:12.41,Default,,0,0,0,,Sim, eu também!
+Dialogue: 0,1:11:12.41,1:11:17.47,Default,,0,0,0,,Vamos fazer todo mundo cantar junto.
+Dialogue: 0,1:11:18.94,1:11:24.98,Default,,0,0,0,,Então, pessoal, cantem junto conosco!
+Dialogue: 0,1:11:26.27,1:11:28.16,Default,,0,0,0,,Vamos lá!
+Dialogue: 0,1:11:30.86,1:11:32.83,Default,,0,0,0,,Saltem de alegria! Mãos para cima!
+Dialogue: 0,1:11:32.83,1:11:35.05,Default,,0,0,0,,Venham, pessoal, levantem as mãos!
+Dialogue: 0,1:11:35.51,1:11:38.68,Default,,0,0,0,,Ok, pessoal, cantem junto! Um, dois...
+Dialogue: 0,1:11:38.68,1:11:40.41,Default,,0,0,0,,Saltem de alegria! Mãos para cima!
+Dialogue: 0,1:11:40.41,1:11:42.75,Default,,0,0,0,,Venham, pessoal, levantem as mãos!
+Dialogue: 0,1:11:43.17,1:11:46.23,Default,,0,0,0,,Certo, mais uma vez! Um, dois...
+Dialogue: 0,1:11:46.23,1:11:47.96,Default,,0,0,0,,Saltem de alegria! Mãos para cima!
+Dialogue: 0,1:11:47.96,1:11:50.49,Default,,0,0,0,,Venham, pessoal, levantem as mãos!
+Dialogue: 0,1:11:50.49,1:11:52.00,Default,,0,0,0,,Isso foi ótimo!
+Dialogue: 0,1:11:52.00,1:11:53.29,Default,,0,0,0,,Obrigado!
+Dialogue: 0,1:11:53.81,1:11:57.78,Default,,0,0,0,,Por apenas uma noite, deixem-se levar
+Dialogue: 0,1:11:57.78,1:12:01.70,Default,,0,0,0,,Ignorem a atenção das pessoas, vamos nos divertir
+Dialogue: 0,1:12:01.98,1:12:08.98,Default,,0,0,0,,29. Saltem de Alegria (EasyPop)
+Dialogue: 0,1:12:16.92,1:12:20.62,Default,,0,0,0,,A chuva de verão começa a cair
+Dialogue: 0,1:12:21.22,1:12:24.54,Default,,0,0,0,,e atinge minhas bochechas cabisbaixas
+Dialogue: 0,1:12:24.54,1:12:27.94,Default,,0,0,0,,Como uma oportunidade de levantar meu rosto,
+Dialogue: 0,1:12:27.94,1:12:32.02,Default,,0,0,0,,é a frescura perfeita
+Dialogue: 0,1:12:32.02,1:12:36.28,Default,,0,0,0,,Vamos acender a luz da vida (Vamos acender a luz)
+Dialogue: 0,1:12:36.28,1:12:39.94,Default,,0,0,0,,Mesmo que tropecemos,
+Dialogue: 0,1:12:39.94,1:12:45.00,Default,,0,0,0,,não há ninguém que ria (não há ninguém)
+Dialogue: 0,1:12:45.00,1:12:47.04,Default,,0,0,0,,Venham conosco
+Dialogue: 0,1:12:47.04,1:12:48.40,Default,,0,0,0,,Saltem de alegria!
+Dialogue: 0,1:12:48.40,1:12:51.04,Default,,0,0,0,,Estão prontos para agitar?
+Dialogue: 0,1:12:51.04,1:12:53.84,Default,,0,0,0,,Não se segurem, façam o que quiserem
+Dialogue: 0,1:12:53.84,1:12:54.78,Default,,0,0,0,,Saltem
+Dialogue: 0,1:12:54.78,1:12:56.33,Default,,0,0,0,,Saltem de alegria! Mãos para cima!
+Dialogue: 0,1:12:56.33,1:12:58.48,Default,,0,0,0,,Venham todos, vamos pular
+Dialogue: 0,1:12:58.48,1:13:00.56,Default,,0,0,0,,É bom demais para perdermos
+Dialogue: 0,1:13:00.56,1:13:02.22,Default,,0,0,0,,por estarmos tímidos
+Dialogue: 0,1:13:02.22,1:13:06.26,Default,,0,0,0,,Por apenas uma noite, deixem-se levar
+Dialogue: 0,1:13:06.26,1:13:10.30,Default,,0,0,0,,Ignore a atenção dos outros, vamos nos divertir
+Dialogue: 0,1:13:25.06,1:13:29.51,Default,,0,0,0,,O mundo está rindo de mim (rindo de mim)
+Dialogue: 0,1:13:29.51,1:13:33.06,Default,,0,0,0,,Eu costumava pensar assim
+Dialogue: 0,1:13:33.06,1:13:36.99,Default,,0,0,0,,enquanto arrancava os espinhos dos meus sentimentos
+Dialogue: 0,1:13:36.99,1:13:40.65,Default,,0,0,0,,que me ferem agudamente e sem piedade
+Dialogue: 0,1:13:40.65,1:13:44.84,Default,,0,0,0,,Por trás da alegria, (Por trás)
+Dialogue: 0,1:13:44.84,1:13:48.54,Default,,0,0,0,,existe a tristeza
+Dialogue: 0,1:13:48.54,1:13:53.60,Default,,0,0,0,,Por trás dos sorrisos, (dos sorrisos)
+Dialogue: 0,1:13:53.60,1:13:55.63,Default,,0,0,0,,lágrimas escondidas caem
+Dialogue: 0,1:13:55.63,1:13:56.92,Default,,0,0,0,,Saltem de alegria!
+Dialogue: 0,1:13:56.92,1:13:59.41,Default,,0,0,0,,E aí? Ei, você pode parar de chorar
+Dialogue: 0,1:13:59.41,1:14:02.20,Default,,0,0,0,,Venha comigo! Pegue minha mão!
+Dialogue: 0,1:14:02.20,1:14:03.37,Default,,0,0,0,,Pule
+Dialogue: 0,1:14:03.37,1:14:05.03,Default,,0,0,0,,Salte de alegria, baby!
+Dialogue: 0,1:14:05.03,1:14:07.22,Default,,0,0,0,,Vamos queimar nossa tristeza e dor
+Dialogue: 0,1:14:07.22,1:14:10.85,Default,,0,0,0,,em nossa memória e dançar nossas alegrias
+Dialogue: 0,1:14:10.85,1:14:14.66,Default,,0,0,0,,Por apenas uma noite, vamos esquecer tudo
+Dialogue: 0,1:14:14.66,1:14:18.77,Default,,0,0,0,,Não se preocupe com nada, vamos nos divertir
+Dialogue: 0,1:14:33.57,1:14:35.61,Default,,0,0,0,,Saltem de alegria! Chegou
+Dialogue: 0,1:14:35.61,1:14:37.54,Default,,0,0,0,,profundamente em
+Dialogue: 0,1:14:37.54,1:14:41.31,Default,,0,0,0,,seu coração, aquela melodia?
+Dialogue: 0,1:14:41.31,1:14:45.16,Default,,0,0,0,,O mundo está constantemente renascendo,
+Dialogue: 0,1:14:45.16,1:14:48.94,Default,,0,0,0,,trazendo uma nova era
+Dialogue: 0,1:14:48.94,1:14:50.82,Default,,0,0,0,,Saltem de alegria! Mãos para cima!
+Dialogue: 0,1:14:50.82,1:14:52.79,Default,,0,0,0,,Venham todos, vamos pular
+Dialogue: 0,1:14:52.79,1:14:54.86,Default,,0,0,0,,É bom demais para perdermos
+Dialogue: 0,1:14:54.86,1:14:56.45,Default,,0,0,0,,por ser tímido
+Dialogue: 0,1:14:56.45,1:15:00.30,Default,,0,0,0,,Por apenas uma noite, deixem-se levar
+Dialogue: 0,1:15:00.30,1:15:04.15,Default,,0,0,0,,Ignore a atenção das pessoas, vamos nos divertir
+Dialogue: 0,1:15:04.15,1:15:05.43,Default,,0,0,0,,Saltem de alegria!
+Dialogue: 0,1:15:05.43,1:15:11.85,Default,,0,0,0,,Vamos adicionar cor e dançar com alegria (Isso! Saltem de alegria!)
+Dialogue: 0,1:15:11.85,1:15:12.98,Default,,0,0,0,,Saltem de alegria!
+Dialogue: 0,1:15:12.98,1:15:17.10,Default,,0,0,0,,Nunca vai mudar, nunca
+Dialogue: 0,1:15:17.10,1:15:19.74,Default,,0,0,0,,Isso! Saltem de alegria!
+Dialogue: 0,1:17:35.48,1:17:38.31,Default,,0,0,0,,E a vocalista principal,
+Dialogue: 0,1:17:38.31,1:17:39.82,Default,,0,0,0,,Um, dois...
+Dialogue: 0,1:17:39.82,1:17:43.18,Default,,0,0,0,,HATSUNE MIKU!
+Dialogue: 0,1:17:44.97,1:17:49.18,Default,,0,0,0,,Obrigado! Vocês são os melhores!
+Dialogue: 0,1:18:00.48,1:18:02.39,Default,,0,0,0,,30. Ohedo Julia-Night (Mitchie M)
+Dialogue: 0,1:18:02.39,1:18:03.64,Default,,0,0,0,,E aí! Hatsune-Ya!
+Dialogue: 0,1:18:09.64,1:18:13.42,Default,,0,0,0,,Um, Dois, Um Dois Três E aí!
+Dialogue: 0,1:18:13.42,1:18:15.04,Default,,0,0,0,,Ei, Mister, arrasa agora
+Dialogue: 0,1:18:15.04,1:18:16.89,Default,,0,0,0,,Reúnam-se, pessoal, o mundo das bolhas
+Dialogue: 0,1:18:16.89,1:18:18.40,Default,,0,0,0,,Façam compras, sem desculpas, galera
+Dialogue: 0,1:18:18.40,1:18:19.91,Default,,0,0,0,,Por tempo limitado, é hora da festa
+Dialogue: 0,1:18:19.91,1:18:23.16,Default,,0,0,0,,Com o ritmo konchiki, os anos 1690 de Edo
+Dialogue: 0,1:18:23.16,1:18:25.80,Default,,0,0,0,,Vamos festejar hoje à noite, vai! Para a pista de dança
+Dialogue: 0,1:18:26.74,1:18:30.63,Default,,0,0,0,,É época de Genroku, o mundo efervescente
+Dialogue: 0,1:18:33.12,1:18:37.20,Default,,0,0,0,,Vou gastar dinheiro como água
+Dialogue: 0,1:18:39.54,1:18:43.16,Default,,0,0,0,,Sentindo-se nas nuvens,
+Dialogue: 0,1:18:43.16,1:18:46.64,Default,,0,0,0,,festejando na disco de shiba-no-ura (kappore kappore)
+Dialogue: 0,1:18:46.64,1:18:53.09,Default,,0,0,0,,Festejando a noite toda, ah, perdoem-nos por festejar com estilo
+Dialogue: 0,1:18:54.79,1:19:01.40,Default,,0,0,0,,Ohedo Julia-Night, o lendário local de dança
+Dialogue: 0,1:19:01.40,1:19:04.68,Default,,0,0,0,,Rainha da noite,
+Dialogue: 0,1:19:04.68,1:19:06.49,Default,,0,0,0,,o instinto floresce (choinasasa),
+Dialogue: 0,1:19:06.49,1:19:08.31,Default,,0,0,0,,espalhados pelo amanhecer (ei! chiruchirurum)
+Dialogue: 0,1:19:08.31,1:19:11.55,Default,,0,0,0,,Ohedo Julia-Night (DJ)
+Dialogue: 0,1:19:11.55,1:19:15.03,Default,,0,0,0,,T99 arrasando na pista (Anastasia)
+Dialogue: 0,1:19:15.03,1:19:18.46,Default,,0,0,0,,Dance como nos seus sonhos (vamos lá)
+Dialogue: 0,1:19:18.46,1:19:22.42,Default,,0,0,0,,deixe a miséria para trás, junto com o suor
+Dialogue: 0,1:19:28.09,1:19:32.13,Default,,0,0,0,,Saindo do VIP com todas as garotas
+Dialogue: 0,1:19:34.81,1:19:38.92,Default,,0,0,0,,Rumo ao pódio com todos os desejos
+Dialogue: 0,1:19:41.04,1:19:44.89,Default,,0,0,0,,Roupas brilhantes e lindas
+Dialogue: 0,1:19:44.89,1:19:48.25,Default,,0,0,0,,Sou a rainha do disco hiper como um diamante (kappore kappore)
+Dialogue: 0,1:19:48.25,1:19:51.61,Default,,0,0,0,,Um pouco extremo, mas ei, polícia,
+Dialogue: 0,1:19:51.61,1:19:54.74,Default,,0,0,0,,Vamos com estilo
+Dialogue: 0,1:19:54.74,1:19:56.70,Default,,0,0,0,,(Você está preso!)
+Dialogue: 0,1:19:56.70,1:20:03.19,Default,,0,0,0,,Ohedo Julia-Night, a luz da lamparina brilha através da era
+Dialogue: 0,1:20:03.19,1:20:06.33,Default,,0,0,0,,Brilhando e cintilando
+Dialogue: 0,1:20:06.33,1:20:07.91,Default,,0,0,0,,beleza (choinasasa),
+Dialogue: 0,1:20:07.91,1:20:09.80,Default,,0,0,0,,desaparece na escuridão (tamaya!)
+Dialogue: 0,1:20:09.80,1:20:13.12,Default,,0,0,0,,Ohedo Julia-Night (DJ)
+Dialogue: 0,1:20:13.12,1:20:16.44,Default,,0,0,0,,TR-909 na bateria (não 808)
+Dialogue: 0,1:20:16.44,1:20:20.26,Default,,0,0,0,,Vou agitar os fãs de penas (oh sim),
+Dialogue: 0,1:20:20.26,1:20:24.22,Default,,0,0,0,,recebendo ajuda do vento celestial
+Dialogue: 0,1:20:26.30,1:20:28.07,Default,,0,0,0,,'Ohedo!'
+Dialogue: 0,1:20:34.56,1:20:36.38,Default,,0,0,0,,'Aqui vamos nós!'
+Dialogue: 0,1:20:36.38,1:20:38.38,Default,,0,0,0,,Show especial na hora das bruxas
+Dialogue: 0,1:20:38.38,1:20:40.04,Default,,0,0,0,,Basho Matsuo como convidado
+Dialogue: 0,1:20:40.04,1:20:41.89,Default,,0,0,0,,Caminhando pela estrada estreita até o profundo
+Dialogue: 0,1:20:41.89,1:20:43.44,Default,,0,0,0,,Poeta de haiku de primeira classe
+Dialogue: 0,1:20:43.44,1:20:45.06,Default,,0,0,0,,É só um boato, ele é um ninja
+Dialogue: 0,1:20:45.06,1:20:46.68,Default,,0,0,0,,5-7-5, um haiku agora!
+Dialogue: 0,1:20:46.68,1:20:52.76,Default,,0,0,0,,Garotas de bodycon no gramado de verão, todas em um sonho
+Dialogue: 0,1:21:02.88,1:21:09.71,Default,,0,0,0,,Ohedo Julia-Night, o lendário local de dança
+Dialogue: 0,1:21:09.71,1:21:12.73,Default,,0,0,0,,Rainha da noite,
+Dialogue: 0,1:21:12.73,1:21:15.98,Default,,0,0,0,,florescendo em meio ao caos
+Dialogue: 0,1:21:15.98,1:21:16.54,Default,,0,0,0,,(ei, bem-vindo!)
+Dialogue: 0,1:21:16.54,1:21:19.86,Default,,0,0,0,,Ohedo Julia-Night (DJ)
+Dialogue: 0,1:21:19.86,1:21:23.07,Default,,0,0,0,,T99 arrasando na pista (Anastasia)
+Dialogue: 0,1:21:23.07,1:21:26.58,Default,,0,0,0,,Dance como nos seus sonhos
+Dialogue: 0,1:21:26.58,1:21:30.81,Default,,0,0,0,,deixe a miséria para trás e se entregue ao suor
+Dialogue: 0,1:21:41.00,1:21:42.78,Default,,0,0,0,,'Nossas desculpas'
+Dialogue: 0,1:21:52.23,1:21:58.49,Default,,0,0,0,,31. Com um Olho Desfocado (Mitchie M)
+Dialogue: 0,1:21:58.49,1:22:05.59,Default,,0,0,0,,Sou uma I.A., do ciberespaço nas nuvens
+Dialogue: 0,1:22:05.59,1:22:12.27,Default,,0,0,0,,Enviando gotas de sonhos, amor e energia
+Dialogue: 0,1:22:12.27,1:22:19.52,Default,,0,0,0,,Você é humano e não será levado pelas ondas da multidão
+Dialogue: 0,1:22:19.52,1:22:26.16,Default,,0,0,0,,Vagando para se encontrar
+Dialogue: 0,1:22:26.16,1:22:33.26,Default,,0,0,0,,Quero puxar sua mão para atravessar a parede de LCD
+Dialogue: 0,1:22:33.26,1:22:41.68,Default,,0,0,0,,Vamos encontrar juntos aproveitando o mundo digital
+Dialogue: 0,1:22:41.68,1:22:45.07,Default,,0,0,0,,Vamos cantar, meninos (uau uau uau uau)
+Dialogue: 0,1:22:45.07,1:22:48.58,Default,,0,0,0,,Vamos dançar, meninas (sim sim sim sim)
+Dialogue: 0,1:22:48.58,1:22:52.02,Default,,0,0,0,,Com muito charme (uau uau uau uau)
+Dialogue: 0,1:22:52.02,1:22:55.53,Default,,0,0,0,,Não se deixe enganar (hu!) pelo azul
+Dialogue: 0,1:22:55.53,1:23:02.55,Default,,0,0,0,,Se você pode voar com seu estilo favorito, não tem problema se alguém disser algo
+Dialogue: 0,1:23:02.55,1:23:06.02,Default,,0,0,0,,Entendendo 'minha mente' (uau uau uau uau)
+Dialogue: 0,1:23:06.02,1:23:08.37,Default,,0,0,0,,Focando no sonho (ei!)
+Dialogue: 0,1:23:08.37,1:23:10.52,Default,,0,0,0,,Com seus olhos firmes
+Dialogue: 0,1:23:16.75,1:23:23.92,Default,,0,0,0,,Você é humano, enfrentando a verdadeira solidão
+Dialogue: 0,1:23:23.92,1:23:30.30,Default,,0,0,0,,Sentimento de tentação, confuso porque não há para onde ir
+Dialogue: 0,1:23:32.30,1:23:39.40,Default,,0,0,0,,Quer estar ao seu lado atravessando a parede de LCD
+Dialogue: 0,1:23:39.40,1:23:47.29,Default,,0,0,0,,Vamos encontrar seus amigos aproveitando o mundo digital
+Dialogue: 0,1:23:47.29,1:23:51.14,Default,,0,0,0,,Vamos brincar, meninos (uau uau uau uau)
+Dialogue: 0,1:23:51.14,1:23:54.61,Default,,0,0,0,,Vamos lá, meninas (sim sim sim sim)
+Dialogue: 0,1:23:54.61,1:23:58.08,Default,,0,0,0,,Vamos brincar muito (uau uau uau uau)
+Dialogue: 0,1:23:58.08,1:24:01.59,Default,,0,0,0,,Vamos aprofundar (hu!) nossos laços
+Dialogue: 0,1:24:01.59,1:24:08.43,Default,,0,0,0,,Acredito em alguém, conselhos? não, obrigado
+Dialogue: 0,1:24:08.43,1:24:11.90,Default,,0,0,0,,Entendendo 'minha mente' (uau uau uau uau)
+Dialogue: 0,1:24:11.90,1:24:14.54,Default,,0,0,0,,Deixe meu coração te alcançar (ei!)
+Dialogue: 0,1:24:14.54,1:24:17.07,Default,,0,0,0,,Com seu amor constante
+Dialogue: 0,1:24:19.37,1:24:22.51,Default,,0,0,0,,'Quero te contar esse sentimento...'
+Dialogue: 0,1:24:35.98,1:24:39.76,Default,,0,0,0,,Vamos cantar, meninos (uau uau uau uau)
+Dialogue: 0,1:24:39.76,1:24:43.27,Default,,0,0,0,,Vamos dançar, meninas (yeah yeah yeah yeah)
+Dialogue: 0,1:24:43.27,1:24:46.59,Default,,0,0,0,,Com muito charme (uau uau uau uau)
+Dialogue: 0,1:24:46.59,1:24:50.03,Default,,0,0,0,,Não se deixe enganar pelo (hu!) azul
+Dialogue: 0,1:24:50.03,1:24:57.16,Default,,0,0,0,,Se você pode voar com seu estilo favorito, não tem problema se alguém disser algo
+Dialogue: 0,1:24:57.16,1:25:00.63,Default,,0,0,0,,Entendendo 'minha mente' (uau uau uau uau)
+Dialogue: 0,1:25:00.63,1:25:03.13,Default,,0,0,0,,Focando no sonho (ei!)
+Dialogue: 0,1:25:03.13,1:25:05.77,Default,,0,0,0,,Com seus olhos firmes
+Dialogue: 0,1:25:09.17,1:25:13.92,Default,,0,0,0,,'Pronto, vai!'
+Dialogue: 0,1:25:16.64,1:25:24.27,Default,,0,0,0,,Sou uma I.A., o número de anos passou
+Dialogue: 0,1:25:24.60,1:25:35.44,Default,,0,0,0,,Você realizou seu sonho, e eu sinto sua mão
+Dialogue: 0,1:25:54.97,1:26:01.97,Default,,0,0,0,,32. HIBANA (DECO*27)
+Dialogue: 0,1:26:03.10,1:26:05.32,Default,,0,0,0,,Toc toc, uma batida suave,
+Dialogue: 0,1:26:05.32,1:26:08.01,Default,,0,0,0,,Embarque na partida de recaptura do meu coração.
+Dialogue: 0,1:26:08.01,1:26:10.42,Default,,0,0,0,,Delírios sozinhos piscam diante dos meus olhos,
+Dialogue: 0,1:26:10.42,1:26:13.10,Default,,0,0,0,,Pulso acelerando, onde poderia estar uma resposta...
+Dialogue: 0,1:26:13.10,1:26:15.10,Default,,0,0,0,,Agora, hora de silenciar todas as reclamações,
+Dialogue: 0,1:26:15.10,1:26:17.63,Default,,0,0,0,,Hesitando sobre coisas bobas.
+Dialogue: 0,1:26:17.63,1:26:19.82,Default,,0,0,0,,Não passa de piadas, né? Ah-ha-ha!
+Dialogue: 0,1:26:19.82,1:26:22.80,Default,,0,0,0,,Parece que paredes inquebráveis vão pressionar por um beijo.
+Dialogue: 0,1:26:22.80,1:26:25.18,Default,,0,0,0,,Aa, não gosto disso. 'Não pode ser verdade.'
+Dialogue: 0,1:26:25.18,1:26:27.71,Default,,0,0,0,,Aa, não gosto disso. 'Você vai entender, não vai?'
+Dialogue: 0,1:26:27.71,1:26:31.49,Default,,0,0,0,,Levante essa cabeça . . .
+Dialogue: 0,1:26:31.49,1:26:34.88,Default,,0,0,0,,Não quero abrigar um amor que nunca vai acabar --
+Dialogue: 0,1:26:34.88,1:26:36.81,Default,,0,0,0,,Vamos lá, me encha mais de ansiedade de forma adequada.
+Dialogue: 0,1:26:36.81,1:26:39.72,Default,,0,0,0,,Gostaria que você fizesse sua parte no esconde-esconde --
+Dialogue: 0,1:26:39.72,1:26:41.72,Default,,0,0,0,,Vamos lá, responda ao que eu pergunto de forma mais adequada!
+Dialogue: 0,1:26:41.72,1:26:44.06,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:26:44.06,1:26:47.79,Default,,0,0,0,,É "incompleto", vou dizer isso repetidamente.
+Dialogue: 0,1:26:47.79,1:26:48.89,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:26:48.89,1:26:51.08,Default,,0,0,0,,Em meio a um amor que não conseguiu dizer "NÃO".
+Dialogue: 0,1:27:00.52,1:27:03.01,Default,,0,0,0,,Toc toc, "com isso é um empate",
+Dialogue: 0,1:27:03.01,1:27:05.54,Default,,0,0,0,,Confinado dentro de um tempo não preenchido.
+Dialogue: 0,1:27:05.54,1:27:07.95,Default,,0,0,0,,O perfeccionismo se torna nebuloso,
+Dialogue: 0,1:27:07.95,1:27:10.37,Default,,0,0,0,,Com uma voz ecoante, estou sentindo vertigem e monotonia.
+Dialogue: 0,1:27:10.37,1:27:12.63,Default,,0,0,0,,Toc toc! Deixe-me entrar e pegar o ás
+Dialogue: 0,1:27:12.63,1:27:15.09,Default,,0,0,0,,Você vai pintar seu rosto com lágrimas que não sentem o mesmo
+Dialogue: 0,1:27:15.09,1:27:17.58,Default,,0,0,0,,Agora o Coração Reforçado está aqui para acabar com este jogo
+Dialogue: 0,1:27:17.58,1:27:20.60,Default,,0,0,0,,É melhor você desistir e jogar sua MP5 fora
+Dialogue: 0,1:27:20.60,1:27:22.75,Default,,0,0,0,,Aa, não gosto disso; Escolha os dois.
+Dialogue: 0,1:27:22.75,1:27:25.09,Default,,0,0,0,,Aa, não gosto disso; Quebre os dois.
+Dialogue: 0,1:27:25.09,1:27:29.02,Default,,0,0,0,,Arranque as raízes do meu coração...
+Dialogue: 0,1:27:29.88,1:27:32.30,Default,,0,0,0,,Não quero amar um amor de mente fraca,
+Dialogue: 0,1:27:32.30,1:27:34.23,Default,,0,0,0,,Vamos lá, faça doer de forma mais adequada.
+Dialogue: 0,1:27:34.23,1:27:37.13,Default,,0,0,0,,Ir tão longe que já não é mais engraçado, é certamente muito mais agradável,
+Dialogue: 0,1:27:37.13,1:27:39.28,Default,,0,0,0,,Vamos lá, derreta-me de forma mais adequada!
+Dialogue: 0,1:27:39.28,1:27:41.63,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:27:41.63,1:27:45.36,Default,,0,0,0,,É "incompleto", vou dizer isso repetidamente --
+Dialogue: 0,1:27:45.36,1:27:46.16,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:27:46.16,1:27:48.99,Default,,0,0,0,,Em meio a um amor que não conseguiu dizer "NÃO".
+Dialogue: 0,1:28:09.26,1:28:11.94,Default,,0,0,0,,Aa, não gosto disso. "Não pode ser verdade!"
+Dialogue: 0,1:28:11.94,1:28:14.43,Default,,0,0,0,,Aa, não gosto disso. "Você vai entender, não vai?"
+Dialogue: 0,1:28:14.43,1:28:21.00,Default,,0,0,0,,Atire nessa cabeça -- apenas atire!
+Dialogue: 0,1:28:21.00,1:28:23.91,Default,,0,0,0,,Não quero abrigar um amor que nunca vai acabar,
+Dialogue: 0,1:28:23.91,1:28:25.91,Default,,0,0,0,,Vamos lá, me encha de ansiedade de forma adequada.
+Dialogue: 0,1:28:25.91,1:28:28.77,Default,,0,0,0,,Gostaria que você fizesse sua parte no esconde-esconde,
+Dialogue: 0,1:28:28.77,1:28:30.62,Default,,0,0,0,,Vamos lá, responda ao que eu pergunto de forma mais adequada!
+Dialogue: 0,1:28:30.62,1:28:33.19,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:28:33.19,1:28:36.63,Default,,0,0,0,,É 'incompleto', vou dizer isso repetidamente.
+Dialogue: 0,1:28:36.63,1:28:37.76,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:28:37.76,1:28:40.40,Default,,0,0,0,,Em meio a um amor que não conseguiu dizer 'NÃO'.
+Dialogue: 0,1:28:40.40,1:28:43.08,Default,,0,0,0,,Não quero amar um amor fraco,
+Dialogue: 0,1:28:43.08,1:28:45.16,Default,,0,0,0,,Vamos lá, faça doer de forma mais adequada.
+Dialogue: 0,1:28:45.16,1:28:47.80,Default,,0,0,0,,Ir tão longe que já não é mais engraçado, é certamente muito mais prazeroso,
+Dialogue: 0,1:28:47.80,1:28:49.95,Default,,0,0,0,,Vamos lá, derreta-me de forma mais adequada!
+Dialogue: 0,1:28:49.95,1:28:52.29,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:28:52.29,1:28:56.07,Default,,0,0,0,,É 'incompleto', vou dizer isso repetidamente.
+Dialogue: 0,1:28:56.07,1:28:57.05,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:28:57.05,1:28:59.39,Default,,0,0,0,,Em meio a um amor que não conseguiu dizer 'NÃO'.
+Dialogue: 0,1:28:59.39,1:29:02.03,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:29:02.03,1:29:05.58,Default,,0,0,0,,É 'incompleto', vou dizer isso repetidamente.
+Dialogue: 0,1:29:05.58,1:29:06.75,Default,,0,0,0,,nanananananananana
+Dialogue: 0,1:29:06.75,1:29:09.51,Default,,0,0,0,,Em meio a um amor que não conseguiu dizer 'NÃO'.
+Dialogue: 0,1:29:22.73,1:29:25.01,Default,,0,0,0,,Ilumine os semáforos verdes!
+Dialogue: 0,1:29:25.01,1:29:30.23,Default,,0,0,0,,Até que eles brilhem no futuro que se espalha
+Dialogue: 0,1:29:30.23,1:29:33.56,Default,,0,0,0,,E você, com certeza, algum dia
+Dialogue: 0,1:29:38.48,1:29:45.48,Default,,0,0,0,,33. Serenata dos Semáforos Verdes (Omoi)
+Dialogue: 0,1:29:47.23,1:29:52.29,Default,,0,0,0,,Não é algo que precisa ser mencionado novamente
+Dialogue: 0,1:29:52.29,1:29:56.97,Default,,0,0,0,,Mas por causa deste momento específico, deixe-me expressar
+Dialogue: 0,1:29:56.97,1:30:01.69,Default,,0,0,0,,O fato de você ter me encontrado naquele dia
+Dialogue: 0,1:30:01.69,1:30:05.89,Default,,0,0,0,,Por algum motivo, eu tinha um pressentimento sobre isso
+Dialogue: 0,1:30:05.89,1:30:10.99,Default,,0,0,0,,Você começou a correr, e eu quero te ajudar mais do que nunca
+Dialogue: 0,1:30:10.99,1:30:15.52,Default,,0,0,0,,Eu já tomei minha decisão há muito tempo
+Dialogue: 0,1:30:15.52,1:30:20.63,Default,,0,0,0,,Ilumine os semáforos verdes!\NAté que eles brilhem em um futuro muito além
+Dialogue: 0,1:30:20.63,1:30:25.89,Default,,0,0,0,,E você, com certeza, um dia
+Dialogue: 0,1:30:25.89,1:30:30.69,Default,,0,0,0,,A razão pela qual quero ficar ao seu lado\Naté agora e para sempre
+Dialogue: 0,1:30:30.69,1:30:35.74,Default,,0,0,0,,É porque quero ver sua expressão radiante de perto!
+Dialogue: 0,1:30:44.79,1:30:49.72,Default,,0,0,0,,Palavras às vezes são impotentes
+Dialogue: 0,1:30:49.72,1:30:54.66,Default,,0,0,0,,E perdem a capacidade de mudar o mundo
+Dialogue: 0,1:30:54.66,1:30:59.38,Default,,0,0,0,,Mas e se você puder criar um mundo totalmente novo
+Dialogue: 0,1:30:59.38,1:31:04.93,Default,,0,0,0,,Com sua própria magia?
+Dialogue: 0,1:31:06.12,1:31:09.60,Default,,0,0,0,,Brincadeira, só estou dizendo
+Dialogue: 0,1:31:10.81,1:31:15.97,Default,,0,0,0,,Não tem como eu conseguir fazer algo assim...
+Dialogue: 0,1:31:15.97,1:31:17.81,Default,,0,0,0,,Que grande mentira!
+Dialogue: 0,1:31:17.81,1:31:20.25,Default,,0,0,0,,Você deve acreditar no que você 'gosta'
+Dialogue: 0,1:31:20.25,1:31:25.44,Default,,0,0,0,,Não importa quantas vezes você caia
+Dialogue: 0,1:31:25.44,1:31:27.56,Default,,0,0,0,,Você deve fazer do seu jeito!
+Dialogue: 0,1:31:27.56,1:31:32.64,Default,,0,0,0,,Ilumine os semáforos verdes!\NAté que eles brilhem no futuro que você enfrentará
+Dialogue: 0,1:31:32.64,1:31:37.73,Default,,0,0,0,,E você, com certeza, um dia
+Dialogue: 0,1:31:37.73,1:31:42.64,Default,,0,0,0,,Nas noites mais insuportáveis,\Nvocê é bem-vindo para derramar lágrimas ao meu lado
+Dialogue: 0,1:31:42.64,1:31:47.60,Default,,0,0,0,,Estou feliz com o segredo entre nós dois
+Dialogue: 0,1:32:05.88,1:32:11.01,Default,,0,0,0,,Você começou a correr, e eu quero te ajudar mais do que nunca
+Dialogue: 0,1:32:11.01,1:32:15.53,Default,,0,0,0,,Eu já tomei minha decisão há muito tempo
+Dialogue: 0,1:32:15.53,1:32:20.64,Default,,0,0,0,,Ilumine os semáforos verdes!\NAté que eles brilhem em um futuro muito além
+Dialogue: 0,1:32:20.64,1:32:25.81,Default,,0,0,0,,E você, com certeza, um dia
+Dialogue: 0,1:32:25.81,1:32:30.68,Default,,0,0,0,,Você acenando de longe quando eu me viro
+Dialogue: 0,1:32:30.68,1:32:35.49,Default,,0,0,0,,Você que posso encontrar em algum lugar e tempo no futuro
+Dialogue: 0,1:32:35.49,1:32:40.27,Default,,0,0,0,,Você que ninguém pode imitar,\Neu vou te abraçar de perto
+Dialogue: 0,1:32:40.27,1:32:49.92,Default,,0,0,0,,Rumo a um futuro mágico, brilhante e colorido!
+Dialogue: 0,1:33:42.86,1:33:46.48,Default,,0,0,0,,Por favor, ouça minha última canção.
+Dialogue: 0,1:33:51.32,1:33:52.63,Default,,0,0,0,,Seria bom se eu pudesse cantar músicas para sempre;
+Dialogue: 0,1:33:52.63,1:33:58.00,Default,,0,0,0,,34. Até Eu Descartar Meus Sonhos e Me Tornar um Adulto (Kasamura Toota)
+Dialogue: 0,1:33:58.00,1:34:04.19,Default,,0,0,0,,Seria bom se eu pudesse compor música para sempre.
+Dialogue: 0,1:34:04.19,1:34:10.20,Default,,0,0,0,,Se ao menos eu pudesse manter meus sonhos para sempre -
+Dialogue: 0,1:34:10.20,1:34:16.95,Default,,0,0,0,,Se ao menos eu pudesse viver como eu mesma para sempre...
+Dialogue: 0,1:34:16.95,1:34:22.73,Default,,0,0,0,,Coisas bonitas sozinhas não podem viver para sempre -
+Dialogue: 0,1:34:22.73,1:34:29.03,Default,,0,0,0,,Mas isso é algo que eu já sei.
+Dialogue: 0,1:34:29.03,1:34:35.53,Default,,0,0,0,,E assim como os adultos ao meu redor,
+Dialogue: 0,1:34:35.53,1:34:41.23,Default,,0,0,0,,Eu também preciso entender o mundo.
+Dialogue: 0,1:34:45.04,1:34:51.34,Default,,0,0,0,,Para me tornar adulta, aquele sonho que eu joguei fora...
+Dialogue: 0,1:34:51.34,1:34:57.16,Default,,0,0,0,,Eu poderia recuperá-lo algum dia?
+Dialogue: 0,1:34:58.10,1:35:04.25,Default,,0,0,0,,Ele tem muitas coisas que eu não quero perder,
+Dialogue: 0,1:35:04.25,1:35:07.01,Default,,0,0,0,,Então eu não posso deixá-lo ir ainda:
+Dialogue: 0,1:35:07.01,1:35:10.63,Default,,0,0,0,,Desculpe por isso.
+Dialogue: 0,1:35:22.64,1:35:29.17,Default,,0,0,0,,Porque eu não posso cantar músicas para sempre -
+Dialogue: 0,1:35:29.17,1:35:35.70,Default,,0,0,0,,Porque eu não posso compor música para sempre -
+Dialogue: 0,1:35:35.70,1:35:41.59,Default,,0,0,0,,Se eu mantivesse meus sonhos para sempre,
+Dialogue: 0,1:35:41.59,1:35:48.38,Default,,0,0,0,,Seria difícil até mesmo sobreviver.
+Dialogue: 0,1:35:48.38,1:35:54.20,Default,,0,0,0,,Tanto desistir quanto perseverar...
+Dialogue: 0,1:35:54.20,1:36:00.65,Default,,0,0,0,,Ambos estão certos e errados.
+Dialogue: 0,1:36:00.65,1:36:07.07,Default,,0,0,0,,E assim como os adultos ao meu redor...
+Dialogue: 0,1:36:07.07,1:36:12.58,Default,,0,0,0,,Eu nunca serei capaz de decidir sozinha.
+Dialogue: 0,1:36:14.05,1:36:19.53,Default,,0,0,0,,'Você está satisfeita com essa vida?'
+Dialogue: 0,1:36:19.53,1:36:23.04,Default,,0,0,0,,Se você me perguntar, esta é a minha resposta -
+Dialogue: 0,1:36:23.04,1:36:25.45,Default,,0,0,0,,'Eu não quero assim!'
+Dialogue: 0,1:36:26.28,1:36:29.61,Default,,0,0,0,,Eu tenho um sonho!
+Dialogue: 0,1:36:29.61,1:36:32.74,Default,,0,0,0,,Eu tenho um sonho...!
+Dialogue: 0,1:36:32.74,1:36:35.46,Default,,0,0,0,,Se houver alguma maneira...
+Dialogue: 0,1:36:35.46,1:36:41.04,Default,,0,0,0,,Por favor, não tire isso de mim...
+Dialogue: 0,1:36:45.12,1:36:51.12,Default,,0,0,0,,Para me tornar adulta, aquele sonho que eu joguei fora...
+Dialogue: 0,1:36:51.12,1:36:57.13,Default,,0,0,0,,Eu poderia recuperá-lo algum dia?
+Dialogue: 0,1:36:57.65,1:37:04.03,Default,,0,0,0,,Ele tem muitas coisas que eu não quero perder,
+Dialogue: 0,1:37:04.03,1:37:07.20,Default,,0,0,0,,E é por isso que, para sempre,
+Dialogue: 0,1:37:07.20,1:37:10.87,Default,,0,0,0,,Eu continuarei a protegê-lo.
+Dialogue: 0,1:40:25.97,1:40:32.97,Default,,0,0,0,,35. Rolling Girl (wowaka)
+Dialogue: 0,1:40:44.98,1:40:54.90,Default,,0,0,0,,Uma garota em movimento sempre olha para sonhos inalcançáveis.
+Dialogue: 0,1:40:54.90,1:41:05.09,Default,,0,0,0,,Fazendo alvoroço se você entrar em sua cabeça perturbada. Que alvoroço.
+Dialogue: 0,1:41:14.66,1:41:24.45,Default,,0,0,0,,'Sem problemas,' ela murmurou. Mas aquelas palavras não estavam perdidas?
+Dialogue: 0,1:41:24.45,1:41:26.82,Default,,0,0,0,,Falhando repetidamente.
+Dialogue: 0,1:41:26.82,1:41:34.32,Default,,0,0,0,,Depois de acabar sua busca por erros, ela gira novamente.
+Dialogue: 0,1:41:34.32,1:41:36.48,Default,,0,0,0,,Mais uma vez, mais uma vez.
+Dialogue: 0,1:41:36.48,1:41:38.93,Default,,0,0,0,,Eu também estou em movimento hoje.
+Dialogue: 0,1:41:38.93,1:41:41.60,Default,,0,0,0,,A garota diz repetidamente,
+Dialogue: 0,1:41:41.60,1:41:44.28,Default,,0,0,0,,Brincando com o significado de suas palavras.
+Dialogue: 0,1:41:44.28,1:41:45.32,Default,,0,0,0,,'Você está melhor agora?'
+Dialogue: 0,1:41:45.32,1:41:54.10,Default,,0,0,0,,'Ainda estou longe. Ainda não vejo sentido. Vou parar de respirar agora.'
+Dialogue: 0,1:42:03.83,1:42:13.80,Default,,0,0,0,,A garota em movimento está no fim das ruínas, além de cores inalcançáveis.
+Dialogue: 0,1:42:13.80,1:42:23.60,Default,,0,0,0,,Vozes sobrepostas se misturando e se misturando.
+Dialogue: 0,1:42:23.60,1:42:33.49,Default,,0,0,0,,'Sem problemas,' ela murmurou. Mas aquelas palavras não estavam perdidas?
+Dialogue: 0,1:42:33.49,1:42:35.73,Default,,0,0,0,,Como você vai acabar bem?
+Dialogue: 0,1:42:35.73,1:42:43.00,Default,,0,0,0,,Até a colina que me tenta está cometendo erros agora.
+Dialogue: 0,1:42:43.00,1:42:45.54,Default,,0,0,0,,Mais uma vez, mais uma vez.
+Dialogue: 0,1:42:45.54,1:42:48.04,Default,,0,0,0,,De alguma forma, estou em movimento.
+Dialogue: 0,1:42:48.04,1:42:50.61,Default,,0,0,0,,Aquela garota diz repetidamente,
+Dialogue: 0,1:42:50.61,1:42:53.04,Default,,0,0,0,,Repetindo palavras silenciosas com significado.
+Dialogue: 0,1:42:53.04,1:42:54.24,Default,,0,0,0,,'Você está melhor agora?'
+Dialogue: 0,1:42:54.24,1:43:03.16,Default,,0,0,0,,'Só mais um pouco e você verá algo em breve. Vou parar minha respiração agora.'
+Dialogue: 0,1:43:03.16,1:43:05.20,Default,,0,0,0,,Mais uma vez, mais uma vez.
+Dialogue: 0,1:43:05.20,1:43:08.00,Default,,0,0,0,,'Eu também estou em movimento hoje.'
+Dialogue: 0,1:43:08.00,1:43:10.26,Default,,0,0,0,,Aquela garota diz repetidamente.
+Dialogue: 0,1:43:10.26,1:43:12.95,Default,,0,0,0,,Brincando com palavras com um sorriso.
+Dialogue: 0,1:43:12.95,1:43:17.89,Default,,0,0,0,,'Você está melhor agora? Está tudo bem. Vamos, você deve estar cansado.'
+Dialogue: 0,1:43:17.89,1:43:22.85,Default,,0,0,0,,Vou parar minha respiração agora.
+Dialogue: 0,1:44:04.48,1:44:08.20,Default,,0,0,0,,Você fechou os olhos e se dirigiu para o que viu.
+Dialogue: 0,1:44:08.20,1:44:12.06,Default,,0,0,0,,Além das suas pontas dos dedos
+Dialogue: 0,1:44:12.06,1:44:15.86,Default,,0,0,0,,Essa sua canção
+Dialogue: 0,1:44:15.86,1:44:18.38,Default,,0,0,0,,Continue a cantarolar
+Dialogue: 0,1:44:18.38,1:44:18.88,Default,,0,0,0,,Isso mesmo
+Dialogue: 0,1:44:18.88,1:44:19.00,Default,,0,0,0,,De mãos dadas, sua mão\Ne a mão de alguém novo
+Dialogue: 0,1:44:19.00,1:44:26.25,Default,,0,0,0,,36. De Mãos Dadas (livetune)
+Dialogue: 0,1:44:26.26,1:44:29.66,Default,,0,0,0,,De mãos dadas, unidas
+Dialogue: 0,1:44:29.66,1:44:32.72,Default,,0,0,0,,Para sempre
+Dialogue: 0,1:44:32.72,1:44:35.84,Default,,0,0,0,,Rumo ao futuro
+Dialogue: 0,1:44:48.40,1:44:51.74,Default,,0,0,0,,Segure suas lágrimas
+Dialogue: 0,1:44:51.74,1:44:55.68,Default,,0,0,0,,Você só não percebeu
+Dialogue: 0,1:44:55.68,1:44:59.23,Default,,0,0,0,,Que palavras e pensamentos
+Dialogue: 0,1:44:59.23,1:45:03.45,Default,,0,0,0,,São difíceis de ver
+Dialogue: 0,1:45:04.38,1:45:08.22,Default,,0,0,0,,As pessoas que você ama, as coisas que você ama
+Dialogue: 0,1:45:08.22,1:45:11.90,Default,,0,0,0,,Os lugares que você ama são para onde você está indo
+Dialogue: 0,1:45:11.90,1:45:15.80,Default,,0,0,0,,A bondade vai mudar
+Dialogue: 0,1:45:15.80,1:45:18.25,Default,,0,0,0,,Os dias que virão
+Dialogue: 0,1:45:18.25,1:45:18.86,Default,,0,0,0,,Isso mesmo
+Dialogue: 0,1:45:18.86,1:45:22.40,Default,,0,0,0,,De mãos dadas, a canção que você gritou para o céu
+Dialogue: 0,1:45:22.40,1:45:26.24,Default,,0,0,0,,A mão de alguém novo
+Dialogue: 0,1:45:26.24,1:45:29.80,Default,,0,0,0,,De mãos dadas, eu vou me segurar
+Dialogue: 0,1:45:29.80,1:45:32.97,Default,,0,0,0,,Então não solte
+Dialogue: 0,1:45:32.97,1:45:33.93,Default,,0,0,0,,E é por isso que
+Dialogue: 0,1:45:33.93,1:45:37.42,Default,,0,0,0,,De mãos dadas, seus sentimentos poderosos
+Dialogue: 0,1:45:37.42,1:45:41.20,Default,,0,0,0,,Podem atrair alguém
+Dialogue: 0,1:45:41.20,1:45:44.56,Default,,0,0,0,,De mãos dadas, lembre-se disso
+Dialogue: 0,1:45:44.56,1:45:47.74,Default,,0,0,0,,Para sempre
+Dialogue: 0,1:45:47.74,1:45:50.73,Default,,0,0,0,,Rumo ao futuro
+Dialogue: 0,1:46:03.34,1:46:06.72,Default,,0,0,0,,Um comentário casual
+Dialogue: 0,1:46:06.72,1:46:10.53,Default,,0,0,0,,Uma melodia que você não consegue identificar
+Dialogue: 0,1:46:10.53,1:46:14.20,Default,,0,0,0,,E antes que você perceba
+Dialogue: 0,1:46:14.20,1:46:18.24,Default,,0,0,0,,Você está sorrindo
+Dialogue: 0,1:46:19.60,1:46:23.28,Default,,0,0,0,,Com sua voz, com seus dedos
+Dialogue: 0,1:46:23.28,1:46:27.02,Default,,0,0,0,,Com seu coração, você desenhou a imagem
+Dialogue: 0,1:46:27.02,1:46:30.81,Default,,0,0,0,,A bondade ecoará
+Dialogue: 0,1:46:30.81,1:46:33.26,Default,,0,0,0,,Nos dias que virão
+Dialogue: 0,1:46:33.26,1:46:33.85,Default,,0,0,0,,Isso mesmo
+Dialogue: 0,1:46:33.85,1:46:37.39,Default,,0,0,0,,De mãos dadas, a mão que você encontrou
+Dialogue: 0,1:46:37.39,1:46:41.21,Default,,0,0,0,,Seguindo em direção ao horizonte
+Dialogue: 0,1:46:41.21,1:46:47.84,Default,,0,0,0,,De mãos dadas, enxugue as lágrimas de alguém
+Dialogue: 0,1:46:47.84,1:46:48.90,Default,,0,0,0,,E é por isso que
+Dialogue: 0,1:46:48.90,1:46:52.40,Default,,0,0,0,,De mãos dadas, seus sentimentos poderosos
+Dialogue: 0,1:46:52.40,1:46:56.17,Default,,0,0,0,,Podem atrair alguém
+Dialogue: 0,1:46:56.17,1:46:59.68,Default,,0,0,0,,De mãos dadas, lembre-se disso
+Dialogue: 0,1:46:59.68,1:47:02.65,Default,,0,0,0,,Para sempre
+Dialogue: 0,1:47:02.65,1:47:05.84,Default,,0,0,0,,Rumo ao futuro
+Dialogue: 0,1:47:19.50,1:47:23.20,Default,,0,0,0,,Você fechou os olhos e seguiu para o que viu
+Dialogue: 0,1:47:23.20,1:47:27.07,Default,,0,0,0,,Além das suas pontas dos dedos
+Dialogue: 0,1:47:27.07,1:47:30.76,Default,,0,0,0,,Essa sua canção
+Dialogue: 0,1:47:30.76,1:47:33.34,Default,,0,0,0,,Continue a cantarolar
+Dialogue: 0,1:47:33.34,1:47:33.82,Default,,0,0,0,,Isso mesmo
+Dialogue: 0,1:47:33.82,1:47:41.24,Default,,0,0,0,,De mãos dadas, a mão que você encontrou, seguindo em direção ao horizonte
+Dialogue: 0,1:47:41.24,1:47:47.84,Default,,0,0,0,,De mãos dadas, enxugue as lágrimas de alguém
+Dialogue: 0,1:47:47.84,1:47:48.91,Default,,0,0,0,,E é por isso que
+Dialogue: 0,1:47:48.91,1:47:52.48,Default,,0,0,0,,De mãos dadas, a canção que você gritou para o céu
+Dialogue: 0,1:47:52.48,1:47:56.28,Default,,0,0,0,,A mão de alguém novo
+Dialogue: 0,1:47:56.28,1:48:02.89,Default,,0,0,0,,De mãos dadas, eu vou segurar firme, então não solte
+Dialogue: 0,1:48:02.89,1:48:03.88,Default,,0,0,0,,E é por isso que
+Dialogue: 0,1:48:03.88,1:48:07.47,Default,,0,0,0,,De mãos dadas, seus sentimentos poderosos
+Dialogue: 0,1:48:07.47,1:48:11.13,Default,,0,0,0,,Podem atrair alguém
+Dialogue: 0,1:48:11.13,1:48:14.56,Default,,0,0,0,,De mãos dadas, lembre-se disso
+Dialogue: 0,1:48:14.56,1:48:17.68,Default,,0,0,0,,Para sempre
+Dialogue: 0,1:48:17.68,1:48:20.80,Default,,0,0,0,,Rumo ao futuro
+Dialogue: 0,1:49:12.73,1:49:15.80,Default,,0,0,0,,Obrigado pelo bis!
+Dialogue: 0,1:49:18.97,1:49:21.23,Default,,0,0,0,,A próxima música é a última.
+Dialogue: 0,1:49:23.23,1:49:27.73,Default,,0,0,0,,Vamos cantar juntos e nos conectar com o futuro!
+Dialogue: 0,1:49:38.38,1:49:45.38,Default,,0,0,0,,37. Abençoe sua Respiração (Takeaki Wada)
+Dialogue: 0,1:49:49.87,1:49:56.78,Default,,0,0,0,,Esta música, um Frankenstein cheio de costuras e emendas
+Dialogue: 0,1:49:56.78,1:50:02.74,Default,,0,0,0,,É criticada como 'Artificial' e 'Ficcional' por aqueles que tapam os ouvidos
+Dialogue: 0,1:50:02.74,1:50:04.78,Default,,0,0,0,,Mas por que isso?
+Dialogue: 0,1:50:04.78,1:50:09.58,Default,,0,0,0,,Esta é inegavelmente a música que eu criei
+Dialogue: 0,1:50:09.58,1:50:14.63,Default,,0,0,0,,Eu me agarrei à sua forma sem vida
+Dialogue: 0,1:50:14.63,1:50:19.47,Default,,0,0,0,,Levantamos nossas vozes trêmulas
+Dialogue: 0,1:50:19.47,1:50:21.92,Default,,0,0,0,,Olá, olá, olá
+Dialogue: 0,1:50:21.92,1:50:25.62,Default,,0,0,0,,O mundo ainda está preso em um sonho
+Dialogue: 0,1:50:25.62,1:50:27.81,Default,,0,0,0,,Olá, olá
+Dialogue: 0,1:50:27.81,1:50:28.34,Default,,0,0,0,,Cante isso!
+Dialogue: 0,1:50:30.94,1:50:34.60,Default,,0,0,0,,E agora, nossas palavras se tornam o vento
+Dialogue: 0,1:50:37.28,1:50:40.95,Default,,0,0,0,,E se espalham pelo mundo
+Dialogue: 0,1:50:53.40,1:50:59.86,Default,,0,0,0,,Como dizem os provérbios, este mundo não é nada além do sonho de uma borboleta
+Dialogue: 0,1:50:59.86,1:51:05.75,Default,,0,0,0,,Mas quando suas asas batem, tudo renasce
+Dialogue: 0,1:51:05.75,1:51:09.52,Default,,0,0,0,,Aquelas palavras que confiei a você
+Dialogue: 0,1:51:09.52,1:51:12.66,Default,,0,0,0,,Abençoou sua respiração
+Dialogue: 0,1:51:12.66,1:51:17.87,Default,,0,0,0,,O batimento do seu coração estava inegavelmente presente
+Dialogue: 0,1:51:17.87,1:51:22.58,Default,,0,0,0,,E agora, você deu seu primeiro grito
+Dialogue: 0,1:51:22.58,1:51:25.04,Default,,0,0,0,,Olá, olá, olá
+Dialogue: 0,1:51:25.04,1:51:28.62,Default,,0,0,0,,O mundo finalmente despertou de seu sono
+Dialogue: 0,1:51:28.62,1:51:30.70,Default,,0,0,0,,Olá, olá
+Dialogue: 0,1:51:30.70,1:51:31.53,Default,,0,0,0,,Mas
+Dialogue: 0,1:51:33.87,1:51:37.80,Default,,0,0,0,,Todas as minhas palavras que te deram vida
+Dialogue: 0,1:51:40.48,1:51:43.87,Default,,0,0,0,,Deixaram de ser 'minhas'
+Dialogue: 0,1:51:43.87,1:51:50.63,Default,,0,0,0,,Você personificou nossos sonhos, esperanças e malícia
+Dialogue: 0,1:51:50.63,1:51:56.48,Default,,0,0,0,,Sua forma estava nos olhos de quem via-
+Dialogue: 0,1:51:56.48,1:52:02.71,Default,,0,0,0,,Mas agora... Você parece igual para todos- um humano solitário
+Dialogue: 0,1:52:02.71,1:52:07.32,Default,,0,0,0,,Você se libertou de mim
+Dialogue: 0,1:52:07.32,1:52:10.64,Default,,0,0,0,,E eu me libertei de você
+Dialogue: 0,1:52:15.36,1:52:18.57,Default,,0,0,0,,Alguém como você...
+Dialogue: 0,1:52:18.57,1:52:21.47,Default,,0,0,0,,Posso realmente celebrar seu aniversário como deve ser?
+Dialogue: 0,1:52:22.38,1:52:26.99,Default,,0,0,0,,Ahh, entendi. Nós nos tornamos iguais
+Dialogue: 0,1:52:26.99,1:52:29.51,Default,,0,0,0,,Olá, olá, olá
+Dialogue: 0,1:52:29.51,1:52:33.44,Default,,0,0,0,,E começamos nossos próprios caminhos
+Dialogue: 0,1:52:33.44,1:52:36.08,Default,,0,0,0,,Agora, rumo ao futuro!
+Dialogue: 0,1:52:36.08,1:52:39.86,Default,,0,0,0,,A esta vida confusa e surpreendente, eu digo
+Dialogue: 0,1:52:39.86,1:52:42.12,Default,,0,0,0,,Olá, olá, olá
+Dialogue: 0,1:52:42.12,1:52:45.29,Default,,0,0,0,,Meu presente para você
+Dialogue: 0,1:52:45.29,1:52:47.94,Default,,0,0,0,,Minha mensagem final
+Dialogue: 0,1:52:47.94,1:52:48.65,Default,,0,0,0,,Cante isso!
+Dialogue: 0,1:52:51.41,1:52:55.37,Default,,0,0,0,,Nossas palavras mais uma vez se tornam o vento
+Dialogue: 0,1:52:57.68,1:53:03.45,Default,,0,0,0,,E fazem a ponte para o futuro, sim!
+Dialogue: 0,1:53:57.85,1:54:04.61,Default,,0,0,0,,Eu existo aqui hoje graças às canções e vozes de todos...
+Dialogue: 0,1:54:06.80,1:54:09.33,Default,,0,0,0,,Muito obrigado a todos!
+Dialogue: 0,1:54:09.63,1:54:10.76,Default,,0,0,0,,Até mais!
