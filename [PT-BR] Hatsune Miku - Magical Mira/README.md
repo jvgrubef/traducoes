@@ -1,4 +1,4 @@
-Esta pasta contém as legendas em português (PT-BR) para os shows da Hatsune Miku no Magical Mirai de 2013 a 2023. 
+Esta pasta contém as legendas em português (PT-BR) para os shows do Magical Mirai de 2013 a 2023. 
 As legendas foram criadas para ajudar na experiência aos fãs brasileiros que desejam acompanhar as apresentações do Magical Mirai.
 Bem, está é a primeira versão, então pode ter alguns erros, mas sinta-se a vontade para ajudar a corrigir!
 
