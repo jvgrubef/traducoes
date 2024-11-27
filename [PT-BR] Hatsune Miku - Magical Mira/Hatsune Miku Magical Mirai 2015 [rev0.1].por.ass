@@ -5,23 +5,30 @@ ScriptType: v4.00+
 Collisions: Normal
 PlayDepth: 0
 
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Default,Trebuchet MS,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.4,1.1,2,10,10,60,1
+Style: *Title,Tahoma,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.4,1.1,3,10,100,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:38.57,0:02:39.79,Default,,0,0,0,,Para que eu não esquecesse esses sentimentos sem forma,
-Dialogue: 0,0:02:39.79,0:02:44.87,Default,,0,0,0,,01. Conte Seu Mundo\Nlivetune
+Dialogue: 0,0:02:07.00,0:02:17.00,Default,,0,0,0,,{\fad(750,750)}Hatsune Miku Magical Mirai 2015
+Dialogue: 0,0:02:38.57,0:02:44.87,Default,,0,0,0,,Para que eu não esquecesse esses sentimentos sem forma,
+Dialogue: 0,0:02:39.79,0:02:44.87,Title,,0,0,0,,{\fad(750,750)}01. Conte Seu Mundo\Nlivetune
 Dialogue: 0,0:02:44.87,0:02:51.47,Default,,0,0,0,,Apaguei o layout pré-definido para fazer espaço para mim.
 Dialogue: 0,0:02:51.47,0:02:57.55,Default,,0,0,0,,Agarrei a frase que me peguei cantando,
 Dialogue: 0,0:02:57.55,0:03:05.85,Default,,0,0,0,,Anexo as palavras secretas do meu coração e as lanço ao céu.
 Dialogue: 0,0:03:05.85,0:03:08.92,Default,,0,0,0,,As coisas que quero te contar,
-Dialogue: 0,0:03:08.92,0:03:12.33,Default,,0,0,0,,As coisas que quero te enviar -
+Dialogue: 0,0:03:08.92,0:03:12.33,Default,,0,0,0,,As coisas que quero te enviar
 Dialogue: 0,0:03:12.33,0:03:15.44,Default,,0,0,0,,Aqueles muitos pontos se tornam uma linha
 Dialogue: 0,0:03:15.44,0:03:18.52,Default,,0,0,0,,E ecoam longe na distância.
 Dialogue: 0,0:03:18.52,0:03:21.93,Default,,0,0,0,,As palavras que quero te dizer,
-Dialogue: 0,0:03:21.93,0:03:25.01,Default,,0,0,0,,Os sons que quero te enviar -
+Dialogue: 0,0:03:21.93,0:03:25.01,Default,,0,0,0,,Os sons que quero te enviar
 Dialogue: 0,0:03:25.01,0:03:28.27,Default,,0,0,0,,Aquelas inúmeras linhas se tornam um loop,
 Dialogue: 0,0:03:28.27,0:03:38.74,Default,,0,0,0,,Conectando tudo, não importa onde você esteja, ah...
 Dialogue: 0,0:03:50.55,0:03:56.85,Default,,0,0,0,,A luz clara e branca me lembra de você,
@@ -29,11 +36,11 @@ Dialogue: 0,0:03:56.85,0:04:03.31,Default,,0,0,0,,A forma como sua voz brilha at
 Dialogue: 0,0:04:03.31,0:04:09.48,Default,,0,0,0,,Pegando o ritmo que minhas pontas dos dedos tocaram sozinhas,
 Dialogue: 0,0:04:09.48,0:04:17.88,Default,,0,0,0,,Anexo cada uma das minhas palavras e as lanço ao céu.
 Dialogue: 0,0:04:17.88,0:04:20.96,Default,,0,0,0,,As coisas que quero te contar,
-Dialogue: 0,0:04:20.96,0:04:24.23,Default,,0,0,0,,As coisas que quero te enviar -
+Dialogue: 0,0:04:20.96,0:04:24.23,Default,,0,0,0,,As coisas que quero te enviar
 Dialogue: 0,0:04:24.23,0:04:27.47,Default,,0,0,0,,Aqueles muitos pontos se tornam uma linha
 Dialogue: 0,0:04:27.47,0:04:30.67,Default,,0,0,0,,E disparam para o outro lado do mundo.
 Dialogue: 0,0:04:30.67,0:04:33.72,Default,,0,0,0,,As palavras que quero te dizer,
-Dialogue: 0,0:04:33.72,0:04:36.92,Default,,0,0,0,,Os sons que quero te enviar -
+Dialogue: 0,0:04:33.72,0:04:36.92,Default,,0,0,0,,Os sons que quero te enviar
 Dialogue: 0,0:04:36.92,0:04:40.26,Default,,0,0,0,,Aquelas inúmeras linhas se tornam um loop,
 Dialogue: 0,0:04:40.26,0:04:56.10,Default,,0,0,0,,Conectando tudo, não importa onde você esteja, ah...
 Dialogue: 0,0:04:56.10,0:05:02.58,Default,,0,0,0,,Apenas tocando minha melodia e nunca duvidando dos dias que nunca mudaram,
@@ -41,15 +48,15 @@ Dialogue: 0,0:05:02.58,0:05:09.07,Default,,0,0,0,,Eu pensava na manhã como algo
 Dialogue: 0,0:05:09.07,0:05:15.38,Default,,0,0,0,,Acredite no som por mais um instante, e ele vai abalar a paisagem até seu núcleo.
 Dialogue: 0,0:05:15.38,0:05:25.07,Default,,0,0,0,,Conte-me sobre o mundo que pertence a você e a mais ninguém.
 Dialogue: 0,0:05:25.07,0:05:28.08,Default,,0,0,0,,As coisas que você quer nos contar,
-Dialogue: 0,0:05:28.08,0:05:31.40,Default,,0,0,0,,As coisas que você quer nos enviar -
+Dialogue: 0,0:05:28.08,0:05:31.40,Default,,0,0,0,,As coisas que você quer nos enviar
 Dialogue: 0,0:05:31.40,0:05:34.63,Default,,0,0,0,,Aqueles muitos pontos se tornam uma linha
 Dialogue: 0,0:05:34.63,0:05:37.76,Default,,0,0,0,,E ecoam longe na distância.
 Dialogue: 0,0:05:37.76,0:05:40.99,Default,,0,0,0,,As palavras que você quer nos dizer,
-Dialogue: 0,0:05:40.99,0:05:44.11,Default,,0,0,0,,Os sons que você quer nos enviar -
+Dialogue: 0,0:05:40.99,0:05:44.11,Default,,0,0,0,,Os sons que você quer nos enviar
 Dialogue: 0,0:05:44.11,0:05:47.45,Default,,0,0,0,,Aquelas inúmeras linhas se tornam um loop,
 Dialogue: 0,0:05:47.45,0:06:07.89,Default,,0,0,0,,Conectando tudo, não importa onde você esteja, ah...
-Dialogue: 0,0:06:31.99,0:06:34.10,Default,,0,0,0,,3, 2, 1 faz o sinal e estico a língua
-Dialogue: 0,0:06:34.10,0:06:35.77,Default,,0,0,0,,02. Monstro de Framboesa\NHoneyworks
+Dialogue: 0,0:06:31.99,0:06:35.77,Default,,0,0,0,,3, 2, 1 faz o sinal e estico a língua
+Dialogue: 0,0:06:34.10,0:06:35.77,Title,,0,0,0,,{\fad(750,750)}02. Monstro de Framboesa\NHoneyworks
 Dialogue: 0,0:06:35.77,0:06:38.41,Default,,0,0,0,,Levanto meu dedo do meio e estou em perfeita forma
 Dialogue: 0,0:06:38.41,0:06:42.95,Default,,0,0,0,,Cuspindo aquele chiclete de framboesa mastigado demais
 Dialogue: 0,0:06:42.95,0:06:53.03,Default,,0,0,0,,Tchau AMOR
@@ -63,10 +70,10 @@ Dialogue: 0,0:07:15.96,0:07:18.42,Default,,0,0,0,,Sou ruim em contato visual, en
 Dialogue: 0,0:07:18.42,0:07:19.87,Default,,0,0,0,,Imaginário (o que) é realidade (isso)?
 Dialogue: 0,0:07:19.87,0:07:21.25,Default,,0,0,0,,Eu não sei!
 Dialogue: 0,0:07:21.25,0:07:25.22,Default,,0,0,0,,Deixando meu corpo para trás, eu me junto à Imaginary Drive
-Dialogue: 0,0:07:25.22,0:07:29.57,Default,,0,0,0,,Monstro * de Framboesa
+Dialogue: 0,0:07:25.22,0:07:29.57,Default,,0,0,0,,Monstro de Framboesa
 Dialogue: 0,0:07:29.57,0:07:34.26,Default,,0,0,0,,A única que se destaca nobremente, um vermelho brilhante
-Dialogue: 0,0:07:35.33,0:07:39.55,Default,,0,0,0,,Monstro * de Framboesa
-Dialogue: 0,0:07:39.55,0:07:46.17,Default,,0,0,0,,Ninguém neste mundo pode te parar! Sim!
+Dialogue: 0,0:07:35.33,0:07:39.55,Default,,0,0,0,,Monstro de Framboesa
+Dialogue: 0,0:07:39.55,0:07:46.17,Default,,0,0,0,,Ninguém neste mundo pode te parar! Yay!
 Dialogue: 0,0:07:55.84,0:08:01.19,Default,,0,0,0,,Há quanto tempo estou assim?
 Dialogue: 0,0:08:01.19,0:08:06.14,Default,,0,0,0,,Até meu sorriso se tornou tão desajeitado
 Dialogue: 0,0:08:06.14,0:08:10.86,Default,,0,0,0,,Você é eu, e você é todo meu
@@ -80,8 +87,8 @@ Dialogue: 0,0:08:41.99,0:08:47.91,Default,,0,0,0,,A defesa dela é o melhor ataq
 Dialogue: 0,0:08:47.91,0:08:52.38,Default,,0,0,0,,Monstro de Framboesa
 Dialogue: 0,0:08:52.38,0:08:56.98,Default,,0,0,0,,Ninguém neste mundo pode me parar!
 Dialogue: 0,0:08:57.74,0:09:02.78,Default,,0,0,0,,Monstro de Framboesa
-Dialogue: 0,0:09:02.78,0:09:09.01,Default,,0,0,0,,Monstro de Framboesa, sim!
-Dialogue: 0,0:09:34.60,0:09:40.80,Default,,0,0,0,,03. Prazer em Conhecê-lo, Sr. Terráqueo\NPinóquio-P
+Dialogue: 0,0:09:02.78,0:09:09.01,Default,,0,0,0,,Monstro de Framboesa, yay!
+Dialogue: 0,0:09:34.60,0:09:40.80,Title,,0,0,0,,{\fad(750,750)}03. Prazer em Conhecê-lo, Sr. Terráqueo\NPinocchio-P
 Dialogue: 0,0:09:43.99,0:09:49.96,Default,,0,0,0,,Não sabendo seu nome nem seu rosto, estou saindo para te encontrar
 Dialogue: 0,0:09:49.96,0:09:55.41,Default,,0,0,0,,Eu me pergunto, você é uma pessoa gentil? Ou você já é um ciborgue?
 Dialogue: 0,0:09:55.41,0:10:00.96,Default,,0,0,0,,Desperdiçando probabilidades astronômicas,
@@ -134,7 +141,7 @@ Dialogue: 0,0:13:33.55,0:13:38.02,Default,,0,0,0,,BOA NOITE!
 Dialogue: 0,0:13:39.06,0:13:40.76,Default,,0,0,0,,Eu sou a Hatsune Miku!
 Dialogue: 0,0:13:46.12,0:13:50.34,Default,,0,0,0,,Bem-vindos ao Magical Mirai no Budokan!
 Dialogue: 0,0:13:55.16,0:13:58.31,Default,,0,0,0,,Vamos nos divertir hoje!
-Dialogue: 0,0:14:17.40,0:14:23.60,Default,,0,0,0,,04. Inveja do Esconde-Esconde Solitário\Nkoyori (Denpol-P)
+Dialogue: 0,0:14:17.40,0:14:23.60,Title,,0,0,0,,{\fad(750,750)}04. Inveja do Esconde-Esconde Solitário\Nkoyori (Denpol-P)
 Dialogue: 0,0:14:31.79,0:14:34.82,Default,,0,0,0,,Fazendo travessuras com cara de sério,
 Dialogue: 0,0:14:34.82,0:14:39.10,Default,,0,0,0,,Usando lágrimas enquanto dou minhas desculpas
 Dialogue: 0,0:14:39.10,0:14:42.09,Default,,0,0,0,,É tão solitário, eu quero brincar
@@ -165,13 +172,13 @@ Dialogue: 0,0:16:40.25,0:16:40.69,Default,,0,0,0,,Vamos lá
 Dialogue: 0,0:16:40.69,0:16:44.35,Default,,0,0,0,,Caminhe, caminhe, venha aqui
 Dialogue: 0,0:16:44.35,0:16:47.69,Default,,0,0,0,,Bata palmas e ande, rattatta
 Dialogue: 0,0:16:47.69,0:16:51.18,Default,,0,0,0,,Dando um passo trêmulo à frente,
-Dialogue: 0,0:16:51.18,0:16:54.52,Default,,0,0,0,,Sozinho, eu digo, 'tchau.'
+Dialogue: 0,0:16:51.18,0:16:54.52,Default,,0,0,0,,Sozinho, eu digo, "tchau."
 Dialogue: 0,0:16:54.52,0:16:55.21,Default,,0,0,0,,Ei
 Dialogue: 0,0:16:55.21,0:16:58.87,Default,,0,0,0,,Amor, amor, venha aqui
 Dialogue: 0,0:16:58.87,0:17:02.43,Default,,0,0,0,,Com as mãos abertas, eu toco--ai!
 Dialogue: 0,0:17:02.43,0:17:05.70,Default,,0,0,0,,Está tudo bem? Está certo? Eu abro os olhos
 Dialogue: 0,0:17:05.70,0:17:15.28,Default,,0,0,0,,Hoje e até amanhã, vamos todos brincar juntos.
-Dialogue: 0,0:17:35.40,0:17:41.60,Default,,0,0,0,,05. Julgamento do Amor\N40mP
+Dialogue: 0,0:17:35.40,0:17:41.60,Title,,0,0,0,,{\fad(750,750)}05. Julgamento do Amor\N40mP
 Dialogue: 0,0:17:56.26,0:17:58.40,Default,,0,0,0,,Oh! Não! Não! Não!
 Dialogue: 0,0:17:58.40,0:18:00.17,Default,,0,0,0,,Eu não sei o que me deu!
 Dialogue: 0,0:18:00.17,0:18:03.54,Default,,0,0,0,,Você sabe que é tudo para mim!
@@ -188,7 +195,7 @@ Dialogue: 0,0:18:35.32,0:18:38.69,Default,,0,0,0,,Parece que um truque de mágic
 Dialogue: 0,0:18:38.69,0:18:40.96,Default,,0,0,0,,Estou prestes a comparecer ao meu Julgamento do Amor
 Dialogue: 0,0:18:40.96,0:18:46.31,Default,,0,0,0,,Qual será o tamanho da lista de acusações?
 Dialogue: 0,0:18:46.31,0:18:52.58,Default,,0,0,0,,Proferindo esse veredicto após minhas considerações finais cheias de lágrimas,
-Dialogue: 0,0:18:52.58,0:18:55.54,Default,,0,0,0,,Pelo poder que lhe foi concedido, eu fui 'culpado'
+Dialogue: 0,0:18:52.58,0:18:55.54,Default,,0,0,0,,Pelo poder que lhe foi concedido, eu fui "culpado"
 Dialogue: 0,0:19:07.67,0:19:09.62,Default,,0,0,0,,Oh! Não! Não! Não!
 Dialogue: 0,0:19:09.62,0:19:11.77,Default,,0,0,0,,Isso é a pior coisa que poderia acontecer
 Dialogue: 0,0:19:11.77,0:19:15.23,Default,,0,0,0,,Se você vai me largar assim
@@ -215,7 +222,7 @@ Dialogue: 0,0:20:53.61,0:20:58.71,Default,,0,0,0,,que você me disse no meu Julg
 Dialogue: 0,0:20:58.71,0:21:02.43,Default,,0,0,0,,Depois de chorar aquelas lágrimas de crocodilo na minha frente
 Dialogue: 0,0:21:02.43,0:21:06.14,Default,,0,0,0,,Dando-me secretamente aquele sorrisinho travesso
 Dialogue: 0,0:21:06.14,0:21:10.30,Default,,0,0,0,,Ei, você também é "Culpado"!
-Dialogue: 0,0:21:40.90,0:21:47.10,Default,,0,0,0,,06. Menino da Explosão da Lança Sagrada\NRerulili
+Dialogue: 0,0:21:40.90,0:21:47.10,Title,,0,0,0,,{\fad(750,750)}06. Menino da Explosão da Lança Sagrada\NRerulili
 Dialogue: 0,0:21:52.50,0:21:55.25,Default,,0,0,0,,Como chamar isso, pode não ser apropriado dizer em voz alta, mas
 Dialogue: 0,0:21:55.25,0:21:58.91,Default,,0,0,0,,Aquela coisa que homens e mulheres possuem, aquela coisa na retidão e na guerra
 Dialogue: 0,0:21:58.91,0:22:01.99,Default,,0,0,0,,Fazendo isso e aquilo, despertou um "acontecimento" e em um instante chegou; meu fim
@@ -234,7 +241,7 @@ Dialogue: 0,0:22:42.28,0:22:45.37,Default,,0,0,0,,Firmemente pregado na cruz, o 
 Dialogue: 0,0:22:45.37,0:22:48.71,Default,,0,0,0,,É irracional, eu sei. Mas o que fazer? Estou impotente.
 Dialogue: 0,0:22:48.71,0:22:51.70,Default,,0,0,0,,Essa barreira de 0,02 mm está realmente ficando irritante.
 Dialogue: 0,0:22:51.70,0:22:54.72,Default,,0,0,0,,Meu sol azul profundo, é sua culpa que eu quero colocar isso agora mesmo.
-Dialogue: 0,0:22:54.72,0:22:57.94,Default,,0,0,0,,Com uma atitude de 'tá tudo bem', meu status social não foi a lugar nenhum.
+Dialogue: 0,0:22:54.72,0:22:57.94,Default,,0,0,0,,Com uma atitude de "tá tudo bem", meu status social não foi a lugar nenhum.
 Dialogue: 0,0:22:57.94,0:23:01.09,Default,,0,0,0,,Podemos chorar e gritar à vontade, mas a festa acabou!
 Dialogue: 0,0:23:01.09,0:23:03.23,Default,,0,0,0,,Inserção máxima AGORA.
 Dialogue: 0,0:23:03.23,0:23:06.13,Default,,0,0,0,,Você está pronta? Minha querida, morda meu dedo!
@@ -257,7 +264,7 @@ Dialogue: 0,0:24:28.12,0:24:30.96,Default,,0,0,0,,Inserção máxima AGORA.
 Dialogue: 0,0:24:30.96,0:24:35.15,Default,,0,0,0,,Você está pronta? Minha querida, morda meu dedo!
 Dialogue: 0,0:24:35.15,0:24:37.92,Default,,0,0,0,,Menino da Explosão da Lança Sagrada, sentindo o amor.
 Dialogue: 0,0:24:37.92,0:24:42.45,Default,,0,0,0,,Eu tenho mel. Você vem.
-Dialogue: 0,0:25:08.80,0:25:15.00,Default,,0,0,0,,07. O Lamento do Perdido\NNeru
+Dialogue: 0,0:25:08.80,0:25:15.00,Title,,0,0,0,,{\fad(750,750)}07. O Lamento do Perdido\NNeru
 Dialogue: 0,0:25:30.79,0:25:33.77,Default,,0,0,0,,A desconfiança de uma borda de poucos centímetros
 Dialogue: 0,0:25:33.77,0:25:36.98,Default,,0,0,0,,No final, perfurou a veia
 Dialogue: 0,0:25:36.98,0:25:39.66,Default,,0,0,0,,O amor frágil respinga quando isso acontece
@@ -303,7 +310,7 @@ Dialogue: 0,0:27:53.12,0:27:55.96,Default,,0,0,0,,Quando eu vou me tornar um adu
 Dialogue: 0,0:27:55.96,0:27:59.17,Default,,0,0,0,,Em primeiro lugar, o que significa realmente se tornar um adulto?
 Dialogue: 0,0:27:59.17,0:28:02.19,Default,,0,0,0,,Quem eu posso consultar sobre isso?
 Dialogue: 0,0:28:02.19,0:28:05.91,Default,,0,0,0,,Ei, o que você vai fazer? Não importa mais
-Dialogue: 0,0:29:20.30,0:29:26.50,Default,,0,0,0,,08. Controle Remoto\NJesus-P (Oportunidade Maravilhosa ☆!)
+Dialogue: 0,0:29:20.30,0:29:26.50,Title,,0,0,0,,{\fad(750,750)}08. Controle Remoto\NJesus-P (Maravilhosa☆Oportunidade!)
 Dialogue: 0,0:29:31.72,0:29:37.14,Default,,0,0,0,,Esta é a máquina que me controla remotamente
 Dialogue: 0,0:29:37.14,0:29:42.71,Default,,0,0,0,,Tem uma forma um pouco estranha, mas funciona
 Dialogue: 0,0:29:42.71,0:29:48.70,Default,,0,0,0,,CIMA PARA BAIXO A B A B B A B A Esquerda Direita
@@ -338,7 +345,7 @@ Dialogue: 0,0:31:57.09,0:32:00.05,Default,,0,0,0,,Amor e romance do samurai de s
 Dialogue: 0,0:32:00.05,0:32:02.98,Default,,0,0,0,,A existência de reivindicar tudo e qualquer coisa
 Dialogue: 0,0:32:02.98,0:32:05.75,Default,,0,0,0,,Um equívoco pode ser percebido dessa maneira
 Dialogue: 0,0:32:05.75,0:32:08.78,Default,,0,0,0,,É incrivelmente emocionante
-Dialogue: 0,0:32:08.78,0:32:11.45,Default,,0,0,0,,É 'não se preocupar' sua política?
+Dialogue: 0,0:32:08.78,0:32:11.45,Default,,0,0,0,,É "não se preocupar" sua política?
 Dialogue: 0,0:32:11.45,0:32:14.60,Default,,0,0,0,,Mesmo que eu me preocupe, vou sentir fome
 Dialogue: 0,0:32:14.60,0:32:17.38,Default,,0,0,0,,De qualquer forma, o mundo é saudável
 Dialogue: 0,0:32:17.38,0:32:26.32,Default,,0,0,0,,Se controle, garoto sem graça!
@@ -358,9 +365,7 @@ Dialogue: 0,0:33:22.55,0:33:25.95,Default,,0,0,0,,Rodando, rodando, VIRE ISSO
 Dialogue: 0,0:33:27.97,0:33:31.68,Default,,0,0,0,,Dançando, dançando, NOITE DE DANÇA
 Dialogue: 0,0:33:33.76,0:33:37.23,Default,,0,0,0,,Cantando, CANTANDO AGORA
 Dialogue: 0,0:33:37.23,0:33:41.45,Default,,0,0,0,,Quero ser como eles
-Dialogue: 0,0:34:08.13,0:34:08.79,Default,,0,0,0,,(M-E-I-K-O M-E-I-K-O!)
-Dialogue: 0,0:34:08.79,0:34:14.99,Default,,0,0,0,,09. Nostálgico\Nyuukiss
-Dialogue: 0,0:34:15.00,0:34:21.23,Default,,0,0,0,,(M-E-I-K-O M-E-I-K-O!)
+Dialogue: 0,0:34:08.79,0:34:14.99,Title,,0,0,0,,{\fad(750,750)}09. Nostálgico\Nyuukiss
 Dialogue: 0,0:34:24.45,0:34:29.11,Default,,0,0,0,,(Uh, Sim, A-ha!)
 Dialogue: 0,0:34:31.19,0:34:35.91,Default,,0,0,0,,(Fuh Ooh!)
 Dialogue: 0,0:34:35.91,0:34:39.19,Default,,0,0,0,,Vozes alegres surgem do nada
@@ -383,7 +388,7 @@ Dialogue: 0,0:35:41.09,0:35:43.73,Default,,0,0,0,,A luz minguante é
 Dialogue: 0,0:35:43.73,0:35:47.58,Default,,0,0,0,,Meu objetivo? Ou nostálgico...?
 Dialogue: 0,0:35:47.58,0:35:50.79,Default,,0,0,0,,Dando pouca atenção às asas que voam,
 Dialogue: 0,0:35:50.79,0:35:54.25,Default,,0,0,0,,Eu corro em círculos só para aumentar a impaciência
-Dialogue: 0,0:35:54.25,0:35:57.97,Default,,0,0,0,,Os dias em que falamos sobre 'esperanças e oportunidades'
+Dialogue: 0,0:35:54.25,0:35:57.97,Default,,0,0,0,,Os dias em que falamos sobre "esperanças e oportunidades"
 Dialogue: 0,0:35:57.97,0:36:01.56,Default,,0,0,0,,Eu anseio por eles
 Dialogue: 0,0:36:01.56,0:36:08.65,Default,,0,0,0,,O lugar de início que olhei à frente
 Dialogue: 0,0:36:08.65,0:36:11.61,Default,,0,0,0,,É a existência definitiva
@@ -403,7 +408,7 @@ Dialogue: 0,0:37:27.56,0:37:30.23,Default,,0,0,0,,Sem fôlego,
 Dialogue: 0,0:37:30.23,0:37:33.70,Default,,0,0,0,,Ainda estou tentando chegar lá?
 Dialogue: 0,0:37:33.70,0:37:38.96,Default,,0,0,0,,Você ainda está tentando chegar lá...?
 Dialogue: 0,0:37:39.40,0:37:47.78,Default,,0,0,0,,(La La La La Ha-aah!)
-Dialogue: 0,0:38:20.60,0:38:25.30,Default,,0,0,0,,10. Boneco de Neve\NHalyosy
+Dialogue: 0,0:38:20.60,0:38:26.30,Title,,0,0,0,,{\fad(750,750)}10. Boneco de Neve\NHalyosy
 Dialogue: 0,0:38:25.30,0:38:27.38,Default,,0,0,0,,Eu quero estar com você?
 Dialogue: 0,0:38:27.38,0:38:31.12,Default,,0,0,0,,O desejo de alguém me traz à vida
 Dialogue: 0,0:38:31.12,0:38:35.53,Default,,0,0,0,,Uma vez por ano, a magia do inverno
@@ -452,13 +457,13 @@ Dialogue: 0,0:41:34.45,0:41:38.23,Default,,0,0,0,,Estou cuidando deles, então e
 Dialogue: 0,0:41:38.23,0:41:39.84,Default,,0,0,0,,Ele será capaz de superar qualquer dificuldade
 Dialogue: 0,0:41:39.84,0:41:42.61,Default,,0,0,0,,Este inverno está muito frio, mas
 Dialogue: 0,0:41:42.61,0:41:48.35,Default,,0,0,0,,A primavera está te esperando
-Dialogue: 0,0:42:21.90,0:42:28.10,Default,,0,0,0,,11. Caminhada do Gato da Inveja\NTohma
+Dialogue: 0,0:42:21.90,0:42:28.10,Title,,0,0,0,,{\fad(750,750)}11. Caminhada do Gato da Inveja\NTohma
 Dialogue: 0,0:42:45.27,0:42:48.73,Default,,0,0,0,,Velha Neon Town, 3ª Rua, um gato de rua à espreita, a lógica da paixão
 Dialogue: 0,0:42:48.73,0:42:51.57,Default,,0,0,0,,Paranoia, eu quero chamar a atenção com minhas unhas feitas todas as noites
 Dialogue: 0,0:42:51.57,0:42:54.62,Default,,0,0,0,,Aparência, beleza, perfeição--uma canção de amor de bandido
 Dialogue: 0,0:42:54.62,0:42:57.58,Default,,0,0,0,,Caindo forçosamente, você me conquistou com aquele lindo rabo
 Dialogue: 0,0:43:09.21,0:43:12.70,Default,,0,0,0,,Destinos semelhantes, mas instintos conflitantes buscando favor com asas de borboleta
-Dialogue: 0,0:43:12.70,0:43:15.60,Default,,0,0,0,,'Fique comigo?' Uma promessa sem valor, uma revelação para você
+Dialogue: 0,0:43:12.70,0:43:15.60,Default,,0,0,0,,"Fique comigo?" Uma promessa sem valor, uma revelação para você
 Dialogue: 0,0:43:15.60,0:43:18.69,Default,,0,0,0,,Estou a fim de ir disfarçado, me dê um gloss labial de poção do amor, em disfarce
 Dialogue: 0,0:43:18.69,0:43:20.70,Default,,0,0,0,,Descobrindo a mentira secreta, LuLa-LiLa
 Dialogue: 0,0:43:20.70,0:43:24.48,Default,,0,0,0,,Dance, minha ansiosa Venus Brilhante, dance com o fluxo encantador
@@ -471,7 +476,7 @@ Dialogue: 0,0:43:43.86,0:43:46.56,Default,,0,0,0,,Ironia cega
 Dialogue: 0,0:44:00.33,0:44:03.61,Default,,0,0,0,,Os klaxons sufocantes formam uma fanfarra de cerco de lavagem cerebral para uma chuva de perfume
 Dialogue: 0,0:44:03.61,0:44:06.54,Default,,0,0,0,,Expectativas impuras na noite estimulante, levadas embora
 Dialogue: 0,0:44:06.54,0:44:09.75,Default,,0,0,0,,Pirulito murchando, luz da noite oferecendo prova de amor
-Dialogue: 0,0:44:09.75,0:44:12.39,Default,,0,0,0,,'Estou tão cansado do cenário anestésico'
+Dialogue: 0,0:44:09.75,0:44:12.39,Default,,0,0,0,,"Estou tão cansado do cenário anestésico"
 Dialogue: 0,0:44:12.39,0:44:18.38,Default,,0,0,0,,Gêmeos, almas gêmeas, amor egoísta, adaptação, Fumaça & Amor & Amor
 Dialogue: 0,0:44:18.38,0:44:21.34,Default,,0,0,0,,Fé cega, hedonismo, contágio
 Dialogue: 0,0:44:21.34,0:44:23.92,Default,,0,0,0,,Espero que você encontre a felicidade
@@ -490,8 +495,8 @@ Dialogue: 0,0:45:16.21,0:45:19.11,Default,,0,0,0,,Miséria tentadora, o labirint
 Dialogue: 0,0:45:19.11,0:45:25.13,Default,,0,0,0,,Nesta sala onde éramos viciados em amor, vamos saudar a aurora
 Dialogue: 0,0:45:25.13,0:45:27.84,Default,,0,0,0,,Dança do gato, baby
 Dialogue: 0,0:45:30.86,0:45:34.01,Default,,0,0,0,,Inveja do apagão
-Dialogue: 0,0:46:26.45,0:46:27.30,Default,,0,0,0,,Afundando cada vez mais no mar da miséria,
-Dialogue: 0,0:46:27.30,0:46:30.05,Default,,0,0,0,,12. Garota do Mar Profundo\NYuuYuu
+Dialogue: 0,0:46:26.45,0:46:30.05,Default,,0,0,0,,Afundando cada vez mais no mar da miséria,
+Dialogue: 0,0:46:27.30,0:46:30.05,Title,,0,0,0,,{\fad(750,750)}12. Garota do Mar Profundo\NYuuYuu
 Dialogue: 0,0:46:30.05,0:46:33.46,Default,,0,0,0,,Nem sinto mais vontade de abrir os olhos.
 Dialogue: 0,0:46:33.46,0:46:37.19,Default,,0,0,0,,Nesse ritmo, eu poderia afundar até o fundo,
 Dialogue: 0,0:46:37.19,0:46:40.70,Default,,0,0,0,,sem nunca ser descoberta por ninguém.
@@ -523,14 +528,14 @@ Dialogue: 0,0:48:50.33,0:48:57.77,Default,,0,0,0,,Então, de repente, você se e
 Dialogue: 0,0:48:58.87,0:49:02.37,Default,,0,0,0,,Aquela garota preocupada começa a entrar em pânico:
 Dialogue: 0,0:49:02.37,0:49:05.87,Default,,0,0,0,,a escuridão o escondeu, e ela está sozinha novamente.
 Dialogue: 0,0:49:05.87,0:49:09.38,Default,,0,0,0,,Incapaz de suportar mais, ela finalmente estende a mão.
-Dialogue: 0,0:49:09.38,0:49:16.39,Default,,0,0,0,,'Olha! Você realmente tem cores maravilhosas escondidas dentro de você!'
+Dialogue: 0,0:49:09.38,0:49:16.39,Default,,0,0,0,,"Olha! Você realmente tem cores maravilhosas escondidas dentro de você!"
 Dialogue: 0,0:49:16.39,0:49:19.89,Default,,0,0,0,,Como uma garota do fundo do mar, estou sendo guiada pelo meu pulso,
 Dialogue: 0,0:49:19.89,0:49:23.39,Default,,0,0,0,,com a neve marinha cantando uma canção de bênção.
 Dialogue: 0,0:49:23.39,0:49:26.90,Default,,0,0,0,,Sou uma garota do fundo do mar, e quero saber mais
 Dialogue: 0,0:49:26.90,0:49:36.27,Default,,0,0,0,,porque encontrei a pessoa que tem atraído meu coração.
 Dialogue: 0,0:49:40.91,0:49:52.05,Default,,0,0,0,,Tendo deixado este mar, agora eu decolo!
 Dialogue: 0,0:49:58.23,0:49:59.62,Default,,0,0,0,,Obrigada!
-Dialogue: 0,0:50:41.70,0:50:47.90,Default,,0,0,0,,13. Doce Diabo\NHachiouji-P
+Dialogue: 0,0:50:41.70,0:50:47.90,Title,,0,0,0,,{\fad(750,750)}13. Doce Diabo\NHachiouji-P
 Dialogue: 0,0:51:10.22,0:51:11.94,Default,,0,0,0,,Maquiagem e Vestuário!
 Dialogue: 0,0:51:11.94,0:51:13.91,Default,,0,0,0,,Eu também fico muito adorável!
 Dialogue: 0,0:51:13.98,0:51:15.54,Default,,0,0,0,,Vou deixar meus cílios
@@ -577,7 +582,7 @@ Dialogue: 0,0:53:10.59,0:53:14.10,Default,,0,0,0,,Eu quero ser a sua "única"
 Dialogue: 0,0:53:14.40,0:53:18.03,Default,,0,0,0,,Desculpe por não me tornar submissa.
 Dialogue: 0,0:53:18.03,0:53:21.07,Default,,0,0,0,,Eu te amo, baby!
 Dialogue: 0,0:53:21.60,0:53:25.04,Default,,0,0,0,,Eu realmente te amo, é verdade
-Dialogue: 0,0:53:25.21,0:53:28.91,Default,,0,0,0,,Você quer ser meu 'único', não quer?
+Dialogue: 0,0:53:25.21,0:53:28.91,Default,,0,0,0,,Você quer ser meu "único", não quer?
 Dialogue: 0,0:53:28.91,0:53:32.48,Default,,0,0,0,,Eu só tenho você. É verdade!
 Dialogue: 0,0:53:32.48,0:53:34.11,Default,,0,0,0,,Então me beije.
 Dialogue: 0,0:53:34.11,0:53:35.98,Default,,0,0,0,,Você ama o doce diabo?
@@ -586,11 +591,11 @@ Dialogue: 0,0:53:39.89,0:53:43.62,Default,,0,0,0,,Não vou dizer que gosto de vo
 Dialogue: 0,0:53:43.62,0:53:47.10,Default,,0,0,0,,Então não tenha a ideia errada!
 Dialogue: 0,0:53:47.10,0:53:49.83,Default,,0,0,0,,Eu sou uma garota mentirosa.
 Dialogue: 0,0:53:50.83,0:53:53.97,Default,,0,0,0,,Desculpe, é tudo uma mentira.
-Dialogue: 0,0:53:54.17,0:53:57.84,Default,,0,0,0,,Eu tenho que ser seu 'único'...
+Dialogue: 0,0:53:54.17,0:53:57.84,Default,,0,0,0,,Eu tenho que ser seu "único"...
 Dialogue: 0,0:53:57.84,0:54:01.48,Default,,0,0,0,,Você pode me amar pela vida? Para selar o voto.
 Dialogue: 0,0:54:01.48,0:54:03.21,Default,,0,0,0,,Um beijo seria bom, não seria?
 Dialogue: 0,0:54:03.21,0:54:05.25,Default,,0,0,0,,Você ama o doce diabo?
-Dialogue: 0,0:54:44.50,0:54:50.70,Default,,0,0,0,,14. Febre do Sonho 2D\NRamo Polifônico
+Dialogue: 0,0:54:44.50,0:54:50.70,Title,,0,0,0,,{\fad(750,750)}14. Febre do Sonho 2D\NPolyphonicBranch
 Dialogue: 0,0:55:04.34,0:55:07.34,Default,,0,0,0,,Perseguição. Ilusão. Queda. Mente e Corpo. Perda. Fuga.
 Dialogue: 0,0:55:07.54,0:55:09.98,Default,,0,0,0,,Dentro do cérebro. Substância. Nascimento. Sentimentos. Suprimento. Excesso.
 Dialogue: 0,0:55:10.08,0:55:12.68,Default,,0,0,0,,Personalidade. Corrosão. Supressão. Retina. Sentidos. Ilusão.
@@ -635,7 +640,7 @@ Dialogue: 0,0:57:11.60,0:57:14.64,Default,,0,0,0,,Você está fugindo em direç�
 Dialogue: 0,0:57:14.64,0:57:17.27,Default,,0,0,0,,Eu te persigo, através dos links.
 Dialogue: 0,0:57:17.27,0:57:19.71,Default,,0,0,0,,Tenho certeza de que estou conectado a você.
 Dialogue: 0,0:57:19.71,0:57:25.18,Default,,0,0,0,,A doença está se espalhando. A doença chamada Febre do Sonho Bidimensional.
-Dialogue: 0,0:58:13.80,0:58:20.00,Default,,0,0,0,,15. Ração de Gato\Ndoriko
+Dialogue: 0,0:58:13.80,0:58:20.00,Title,,0,0,0,,{\fad(750,750)}15. Ração de Gato\Ndoriko
 Dialogue: 0,0:58:23.90,0:58:26.78,Default,,0,0,0,,Você disse que hoje seria um dia claro.
 Dialogue: 0,0:58:26.81,0:58:29.58,Default,,0,0,0,,Então, por favor, não me molhe
 Dialogue: 0,0:58:29.61,0:58:32.02,Default,,0,0,0,,Não jogue água no meu rosto que está olhando para você
@@ -646,12 +651,12 @@ Dialogue: 0,0:58:40.56,0:58:42.99,Default,,0,0,0,,Por que você se foi
 Dialogue: 0,0:58:42.99,0:58:45.33,Default,,0,0,0,,quando eu preciso de você?
 Dialogue: 0,0:58:45.80,0:58:51.33,Default,,0,0,0,,Eu preciso do seu amor quando estou ao seu lado ou no seu colo
 Dialogue: 0,0:58:51.33,0:58:56.54,Default,,0,0,0,,Eu, meu, mim, corro em alta velocidade
-Dialogue: 0,0:58:56.77,0:58:59.51,Default,,0,0,0,,No lugar ensolarado que eu chamo de 'Você'
+Dialogue: 0,0:58:56.77,0:58:59.51,Default,,0,0,0,,No lugar ensolarado que eu chamo de "Você"
 Dialogue: 0,0:58:59.51,0:59:02.68,Default,,0,0,0,,Isso mesmo, sou uma mulher de humor instável
 Dialogue: 0,0:59:02.68,0:59:07.85,Default,,0,0,0,,Mas você não está em lugar nenhum
 Dialogue: 0,0:59:07.88,0:59:10.55,Default,,0,0,0,,O que você quer dizer com lágrimas? Isso é a chuva, certo?
 Dialogue: 0,0:59:10.55,0:59:13.69,Default,,0,0,0,,O céu frio é um monótono solitário
-Dialogue: 0,0:59:13.69,0:59:19.13,Default,,0,0,0,,Acelere e me encontre, abra um guarda-chuva e diga 'desculpe'
+Dialogue: 0,0:59:13.69,0:59:19.13,Default,,0,0,0,,Acelere e me encontre, abra um guarda-chuva e diga "desculpe"
 Dialogue: 0,0:59:19.16,0:59:25.74,Default,,0,0,0,,Uma vez que essa chuva passar, um abrigo florescerá com flores
 Dialogue: 0,0:59:25.74,0:59:30.61,Default,,0,0,0,,Nos meus sonhos lalala...
 Dialogue: 0,0:59:41.28,0:59:44.02,Default,,0,0,0,,A orelha daquela garota está quebrada
@@ -667,10 +672,10 @@ Dialogue: 0,1:00:08.61,1:00:13.82,Default,,0,0,0,,Você vive por mim, meu coraç
 Dialogue: 0,1:00:14.05,1:00:16.82,Default,,0,0,0,,Ser honesto é ser egoísta?
 Dialogue: 0,1:00:16.82,1:00:19.92,Default,,0,0,0,,Ei, eu sou a mulher que você ama!
 Dialogue: 0,1:00:19.92,1:00:25.13,Default,,0,0,0,,Então me perdoe, eu não fiz nada de errado
-Dialogue: 0,1:00:25.13,1:00:27.83,Default,,0,0,0,,Sou a personificação de 'sem bajulação'
-Dialogue: 0,1:00:27.83,1:00:30.90,Default,,0,0,0,,Minha identidade diz 'Conflitos com gentileza'
-Dialogue: 0,1:00:30.93,1:00:36.41,Default,,0,0,0,,Então não posso te chamar, não espere que eu diga 'desculpe'
-Dialogue: 0,1:00:36.41,1:00:43.08,Default,,0,0,0,,Se você tem 'isso' no coração, então mesmo que eu não diga que é amor ou paixão
+Dialogue: 0,1:00:25.13,1:00:27.83,Default,,0,0,0,,Sou a personificação de "sem bajulação"
+Dialogue: 0,1:00:27.83,1:00:30.90,Default,,0,0,0,,Minha identidade diz "Conflitos com gentileza"
+Dialogue: 0,1:00:30.93,1:00:36.41,Default,,0,0,0,,Então não posso te chamar, não espere que eu diga "desculpe"
+Dialogue: 0,1:00:36.41,1:00:43.08,Default,,0,0,0,,Se você tem "isso" no coração, então mesmo que eu não diga que é amor ou paixão
 Dialogue: 0,1:00:43.08,1:00:47.92,Default,,0,0,0,,Então você deve conseguir perceber muito bem
 Dialogue: 0,1:00:58.43,1:01:04.07,Default,,0,0,0,,Se você tem comida deliciosa, então vamos comer juntos
 Dialogue: 0,1:01:04.07,1:01:09.61,Default,,0,0,0,,Se os programas de TV são engraçados, então vamos assistir juntos
@@ -688,7 +693,7 @@ Dialogue: 0,1:02:05.30,1:02:10.63,Default,,0,0,0,,Eu digo nya-o ao seu lado
 Dialogue: 0,1:02:10.63,1:02:16.14,Default,,0,0,0,,Eu digo nya-o nos seus braços
 Dialogue: 0,1:02:16.14,1:02:22.38,Default,,0,0,0,,Eu digo nya-o seu nome
 Dialogue: 0,1:02:22.41,1:02:27.75,Default,,0,0,0,,É muito difícil para eu dizer...
-Dialogue: 0,1:03:09.70,1:03:15.90,Default,,0,0,0,,16. Refrão Infeliz\Nwowaka
+Dialogue: 0,1:03:09.70,1:03:15.90,Title,,0,0,0,,{\fad(750,750)}16. Refrão Infeliz\Nwowaka
 Dialogue: 0,1:03:37.27,1:03:39.41,Default,,0,0,0,,Espingarda e uma Telecaster;
 Dialogue: 0,1:03:39.41,1:03:41.84,Default,,0,0,0,,palavras alinhadas, quão infeliz.
 Dialogue: 0,1:03:41.84,1:03:44.08,Default,,0,0,0,,Sozinho na cidade,
@@ -697,7 +702,7 @@ Dialogue: 0,1:03:46.65,1:03:48.95,Default,,0,0,0,,O som do meu canto se despeda�
 Dialogue: 0,1:03:48.95,1:03:51.42,Default,,0,0,0,,isso desperdiçou tanto do meu tempo.
 Dialogue: 0,1:03:51.42,1:03:53.39,Default,,0,0,0,,Com você caindo nas minhas mãos,
 Dialogue: 0,1:03:53.39,1:03:55.99,Default,,0,0,0,,Eu não posso me atrever a te deixar ir.
-Dialogue: 0,1:03:55.99,1:03:58.19,Default,,0,0,0,,'A apresentação solo foi um sucesso!'
+Dialogue: 0,1:03:55.99,1:03:58.19,Default,,0,0,0,,"A apresentação solo foi um sucesso!"
 Dialogue: 0,1:03:58.19,1:04:00.70,Default,,0,0,0,,Na minha cabeça, é como um gibi de menina.
 Dialogue: 0,1:04:00.70,1:04:02.77,Default,,0,0,0,,Agora que a munição acabou,
 Dialogue: 0,1:04:02.77,1:04:05.37,Default,,0,0,0,,há a chance de nos revirarmos.
@@ -724,7 +729,7 @@ Dialogue: 0,1:05:03.73,1:05:06.13,Default,,0,0,0,,sem palavras, é bastante azar
 Dialogue: 0,1:05:06.26,1:05:08.30,Default,,0,0,0,,Com feridas por todo o corpo, Fim de Jogo.
 Dialogue: 0,1:05:08.30,1:05:10.73,Default,,0,0,0,,Isso te dá uma sensação incrivelmente desagradável quando você olha?
 Dialogue: 0,1:05:10.93,1:05:13.37,Default,,0,0,0,,Eu tropecei, desistindo de
-Dialogue: 0,1:05:13.37,1:05:15.47,Default,,0,0,0,,meu 'só mais uma vez.'
+Dialogue: 0,1:05:13.37,1:05:15.47,Default,,0,0,0,,meu "só mais uma vez."
 Dialogue: 0,1:05:15.47,1:05:17.71,Default,,0,0,0,,Cometendo todos esses erros enquanto continuo rodando,
 Dialogue: 0,1:05:17.71,1:05:20.21,Default,,0,0,0,,tudo que pude fazer foi rir de tudo isso.
 Dialogue: 0,1:05:20.21,1:05:22.48,Default,,0,0,0,,A apresentação solo foi um sucesso,
@@ -737,7 +742,7 @@ Dialogue: 0,1:05:36.44,1:05:38.93,Default,,0,0,0,,Ei, como você está se sentin
 Dialogue: 0,1:05:41.13,1:05:43.77,Default,,0,0,0,,Pesadelos continuam me assombrando.
 Dialogue: 0,1:05:45.77,1:05:48.74,Default,,0,0,0,,Não se esqueça do destino dos erros que você cometeu.
 Dialogue: 0,1:05:50.51,1:05:52.94,Default,,0,0,0,,Você colhe o que planta. Você recebe, você recebe.
-Dialogue: 0,1:05:52.94,1:05:55.88,Default,,0,0,0,,'Chega.' Sério? Sério?
+Dialogue: 0,1:05:52.94,1:05:55.88,Default,,0,0,0,,"Chega." Sério? Sério?
 Dialogue: 0,1:05:57.61,1:05:59.90,Default,,0,0,0,,Como você pode dizer que isso é felicidade?
 Dialogue: 0,1:05:59.90,1:06:02.45,Default,,0,0,0,,Acordando às 4 da manhã com olhos perdidos e vazios para onde chegarei a seguir,
 Dialogue: 0,1:06:02.45,1:06:04.72,Default,,0,0,0,,será que seria feliz lá?
@@ -759,9 +764,9 @@ Dialogue: 0,1:06:35.15,1:06:37.32,Default,,0,0,0,,Além da tela, cai,
 Dialogue: 0,1:06:37.32,1:06:39.65,Default,,0,0,0,,O mundo adulterado da garota de cabeça para baixo.
 Dialogue: 0,1:06:39.65,1:06:40.16,Default,,0,0,0,,Então isso é...?
 Dialogue: 0,1:06:40.16,1:06:41.36,Default,,0,0,0,,Felicidade.
-Dialogue: 0,1:07:24.35,1:07:25.30,Default,,0,0,0,,Não deixe meu romance se tornar Julieta em uma tragédia.
-Dialogue: 0,1:07:25.30,1:07:30.86,Default,,0,0,0,,17. Romeu e Cinderela\Ndoriko
-Dialogue: 0,1:07:30.86,1:07:35.16,Default,,0,0,0,,'Me tire daqui...'
+Dialogue: 0,1:07:24.35,1:07:30.86,Default,,0,0,0,,Não deixe meu romance se tornar Julieta em uma tragédia.
+Dialogue: 0,1:07:25.30,1:07:30.86,Title,,0,0,0,,{\fad(750,750)}17. Romeu e Cinderela\Ndoriko
+Dialogue: 0,1:07:30.86,1:07:35.16,Default,,0,0,0,,"Me tire daqui..."
 Dialogue: 0,1:07:35.16,1:07:38.39,Default,,0,0,0,,É assim que me sinto.
 Dialogue: 0,1:07:47.76,1:07:50.65,Default,,0,0,0,,Papai e Mamãe, boa noite.
 Dialogue: 0,1:07:50.65,1:07:53.44,Default,,0,0,0,,Pelo menos você deveria aproveitar seus sonhos.
@@ -797,13 +802,13 @@ Dialogue: 0,1:09:50.50,1:09:53.28,Default,,0,0,0,,ou eu vou te decepcionar.
 Dialogue: 0,1:09:53.28,1:09:55.74,Default,,0,0,0,,Mas vivendo sua vida habitual
 Dialogue: 0,1:09:55.74,1:09:58.99,Default,,0,0,0,,estão meu papai e mamãe gananciosos.
 Dialogue: 0,1:09:58.99,1:10:01.44,Default,,0,0,0,,Sim, eu farei o mesmo;
-Dialogue: 0,1:10:01.44,1:10:04.70,Default,,0,0,0,,'A machado que eu perdi era o DOURADO.'
+Dialogue: 0,1:10:01.44,1:10:04.70,Default,,0,0,0,,"A machado que eu perdi era o DOURADO."
 Dialogue: 0,1:10:04.70,1:10:07.07,Default,,0,0,0,,Cinderela, que contou muitas mentiras,
 Dialogue: 0,1:10:07.07,1:10:10.26,Default,,0,0,0,,dizem que foi comida pelo lobo.
 Dialogue: 0,1:10:10.26,1:10:13.10,Default,,0,0,0,,O que eu devo fazer? Algo precisa ser feito,
 Dialogue: 0,1:10:13.10,1:10:15.89,Default,,0,0,0,,Ou eu também serei comida.
 Dialogue: 0,1:10:15.89,1:10:20.34,Default,,0,0,0,,Por favor, me salve antes disso!
-Dialogue: 0,1:10:53.60,1:10:59.80,Default,,0,0,0,,18. brilho\Nkeeno
+Dialogue: 0,1:10:53.60,1:10:59.80,Title,,0,0,0,,{\fad(750,750)}18. Brilho\Nkeeno
 Dialogue: 0,1:11:15.90,1:11:27.01,Default,,0,0,0,,A chuva fria e torrencial derreteu em cicatrizes azuis.
 Dialogue: 0,1:11:27.01,1:11:34.62,Default,,0,0,0,,Alguma vez, enquanto observava o céu da noite, alguém no canto
 Dialogue: 0,1:11:34.62,1:11:37.79,Default,,0,0,0,,começou a rir.
@@ -824,8 +829,8 @@ Dialogue: 0,1:14:12.48,1:14:18.02,Default,,0,0,0,,e escorreu pela minha ponta do
 Dialogue: 0,1:14:18.02,1:14:30.45,Default,,0,0,0,,Eu te acolho dentro de mim.
 Dialogue: 0,1:14:30.45,1:14:41.67,Default,,0,0,0,,Quando as nuvens se separam, as lágrimas transbordam.
 Dialogue: 0,1:14:41.67,1:14:55.05,Default,,0,0,0,,Eu me agarrei a você com força enquanto você se desfazia aos poucos.
-Dialogue: 0,1:15:27.62,1:15:29.40,Default,,0,0,0,,Aquelas memórias adormecidas dentro de você, pois elas farão
-Dialogue: 0,1:15:29.40,1:15:35.60,Default,,0,0,0,,19. Ai-Dee\NMitchie M
+Dialogue: 0,1:15:27.62,1:15:35.60,Default,,0,0,0,,Aquelas memórias adormecidas dentro de você, pois elas farão
+Dialogue: 0,1:15:29.40,1:15:35.60,Title,,0,0,0,,{\fad(750,750)}19. Ai-Dee\NMitchie M
 Dialogue: 0,1:15:35.87,1:15:41.54,Default,,0,0,0,,seu sonho distante se tornar realidade. Não esqueça do seu "AiDee"
 Dialogue: 0,1:15:41.54,1:15:44.06,Default,,0,0,0,,Sim. Está prestes a acontecer
 Dialogue: 0,1:15:44.06,1:15:48.38,Default,,0,0,0,,L de U de K de A, meu estilo está incendiando a pista!
@@ -852,23 +857,23 @@ Dialogue: 0,1:17:47.83,1:17:53.15,Default,,0,0,0,,Esses são os passos para a fe
 Dialogue: 0,1:17:54.20,1:18:02.10,Default,,0,0,0,,A mídia de massa só causa ansiedade e preocupação
 Dialogue: 0,1:18:02.10,1:18:08.52,Default,,0,0,0,,Não tenha pressa, mostre-me seu movimento favorito!
 Dialogue: 0,1:18:08.52,1:18:17.12,Default,,0,0,0,,Essas memórias adormecidas dentro de você, pois elas farão
-Dialogue: 0,1:18:17.12,1:18:24.27,Default,,0,0,0,,seu sonho distante se tornar realidade. Não esqueça do seu 'AiDee'
+Dialogue: 0,1:18:17.12,1:18:24.27,Default,,0,0,0,,seu sonho distante se tornar realidade. Não esqueça do seu "AiDee"
 Dialogue: 0,1:18:24.27,1:18:32.21,Default,,0,0,0,,No final daquela canção nostálgica, senti as asas da magia
-Dialogue: 0,1:18:32.21,1:18:38.70,Default,,0,0,0,,Esses sentimentos, e 'AiDee' só para você
+Dialogue: 0,1:18:32.21,1:18:38.70,Default,,0,0,0,,Esses sentimentos, e "AiDee" só para você
 Dialogue: 0,1:18:38.70,1:18:39.90,Default,,0,0,0,,Luka!
 Dialogue: 0,1:18:39.90,1:18:44.06,Default,,0,0,0,,Adicione as cores à grande visão antes que o mundo se torne preto e branco
 Dialogue: 0,1:18:44.06,1:18:48.09,Default,,0,0,0,,Não deixe a unidade causar monotonia, Chante avec moi, traga a sinfonia
 Dialogue: 0,1:18:48.09,1:18:51.27,Default,,0,0,0,,Wapapapapapapapapa Pupudupupudupupu
 Dialogue: 0,1:18:51.27,1:18:55.74,Default,,0,0,0,,Agora, vá para a pista de dança, faça sua pose e mostre seu ID, vai!
 Dialogue: 0,1:18:55.74,1:19:01.60,Default,,0,0,0,,Um, dois, três, quatro, cante e pense, tá bom?
-Dialogue: 0,1:19:01.60,1:19:09.48,Default,,0,0,0,,Essas memórias adormecidas dentro de você (Mantenha seu estilo) pois elas farão 'Mantenha um sorriso verdadeiro'
-Dialogue: 0,1:19:09.48,1:19:16.47,Default,,0,0,0,,seu sonho distante se tornar realidade. (Ah ah sim) Não esqueça do seu 'AiDee' (festa de ID, mostre e festeje)
+Dialogue: 0,1:19:01.60,1:19:09.48,Default,,0,0,0,,Essas memórias adormecidas dentro de você (Mantenha seu estilo) pois elas farão "Mantenha um sorriso verdadeiro"
+Dialogue: 0,1:19:09.48,1:19:16.47,Default,,0,0,0,,seu sonho distante se tornar realidade. (Ah ah sim) Não esqueça do seu "AiDee" (festa de ID, mostre e festeje)
 Dialogue: 0,1:19:16.47,1:19:24.53,Default,,0,0,0,,Essa parede azul que está no caminho é derrubada pela rajada desse som
-Dialogue: 0,1:19:24.53,1:19:31.34,Default,,0,0,0,,Certo, a partir de agora vamos recuperá-lo, seu 'AiDee'
+Dialogue: 0,1:19:24.53,1:19:31.34,Default,,0,0,0,,Certo, a partir de agora vamos recuperá-lo, seu "AiDee"
 Dialogue: 0,1:19:31.34,1:19:39.84,Default,,0,0,0,,Essas memórias adormecidas dentro de você... elas farão seus sonhos distantes!
 Dialogue: 0,1:19:46.36,1:19:54.68,Default,,0,0,0,,No final daquela canção nostálgica, senti as asas da magia
-Dialogue: 0,1:19:54.68,1:20:04.82,Default,,0,0,0,,Esses sentimentos, um 'AiDee' só para você, sim
-Dialogue: 0,1:20:28.50,1:20:34.70,Default,,0,0,0,,20. Apenas seja amigo\NDixie Flatline
+Dialogue: 0,1:19:54.68,1:20:04.82,Default,,0,0,0,,Esses sentimentos, um "AiDee" só para você, sim
+Dialogue: 0,1:20:28.50,1:20:34.70,Title,,0,0,0,,{\fad(750,750)}20. Apenas seja amigo\NDixie Flatline
 Dialogue: 0,1:20:42.40,1:20:44.32,Default,,0,0,0,,Apenas seja amigo.
 Dialogue: 0,1:20:44.32,1:20:48.04,Default,,0,0,0,,Tudo que precisamos fazer é apenas ser amigos.
 Dialogue: 0,1:20:48.04,1:20:51.79,Default,,0,0,0,,É hora de dizer adeus. Apenas seja amigo.
@@ -876,7 +881,7 @@ Dialogue: 0,1:20:51.79,1:20:54.67,Default,,0,0,0,,Tudo que precisamos fazer é a
 Dialogue: 0,1:20:54.67,1:20:57.00,Default,,0,0,0,,Apenas seja amigo. Apenas seja amigo.
 Dialogue: 0,1:20:57.69,1:21:01.82,Default,,0,0,0,,Veio até mim na manhã de ontem,
 Dialogue: 0,1:21:01.82,1:21:05.41,Default,,0,0,0,,como se eu tivesse juntado pedaços de vidro quebrado.
-Dialogue: 0,1:21:05.41,1:21:08.78,Default,,0,0,0,,'O que diabos é isso?' pinga do meu dedo cortado.
+Dialogue: 0,1:21:05.41,1:21:08.78,Default,,0,0,0,,"O que diabos é isso?" pinga do meu dedo cortado.
 Dialogue: 0,1:21:08.78,1:21:12.66,Default,,0,0,0,,É isso que realmente esperávamos?
 Dialogue: 0,1:21:12.66,1:21:16.69,Default,,0,0,0,,Eu sabia no fundo do meu coração
 Dialogue: 0,1:21:16.69,1:21:20.22,Default,,0,0,0,,A escolha mais difícil seria a melhor.
@@ -889,7 +894,7 @@ Dialogue: 0,1:21:41.98,1:21:45.42,Default,,0,0,0,,Eu gritei com minha voz rouca,
 Dialogue: 0,1:21:45.42,1:21:49.57,Default,,0,0,0,,o eco do rebote e da ressonância em vão.
 Dialogue: 0,1:21:49.57,1:21:56.98,Default,,0,0,0,,Nada ficou no final de mim, desencadeado.
 Dialogue: 0,1:21:56.98,1:22:04.77,Default,,0,0,0,,Coincidências que nos uniram degeneram em pedaços escuros e quebrados.
-Dialogue: 0,1:22:04.77,1:22:08.47,Default,,0,0,0,,'Não importa o que façamos, a vida é assim mesmo,' eu murmurei.
+Dialogue: 0,1:22:04.77,1:22:08.47,Default,,0,0,0,,"Não importa o que façamos, a vida é assim mesmo," eu murmurei.
 Dialogue: 0,1:22:08.47,1:22:14.81,Default,,0,0,0,,As lágrimas de alguém escorrem por bochechas secas.
 Dialogue: 0,1:22:15.00,1:22:22.13,Default,,0,0,0,,Tudo que precisamos fazer é ser amigos! É hora de dizer adeus, apenas ser amigos.
 Dialogue: 0,1:22:22.13,1:22:26.81,Default,,0,0,0,,Tudo que precisamos fazer é ser amigos...
@@ -929,8 +934,9 @@ Dialogue: 0,1:25:11.08,1:25:13.13,Default,,0,0,0,,Tudo que precisamos fazer é a
 Dialogue: 0,1:25:13.13,1:25:14.86,Default,,0,0,0,,Deveríamos apenas ser amigos...
 Dialogue: 0,1:25:14.86,1:25:16.31,Default,,0,0,0,,É hora de dizer adeus.
 Dialogue: 0,1:25:16.31,1:25:17.28,Default,,0,0,0,,Apenas sejamos amigos!
-Dialogue: 0,1:27:14.73,1:27:14.99,Default,,0,0,0,,Nesta noite de solidão e tristeza sinceras,
-Dialogue: 0,1:27:14.99,1:27:19.30,Default,,0,0,0,,21. Agite!\Nemon
+Dialogue: 0,1:25:24.00,1:25:35.00,Default,,0,0,0,,Apresentação dos membros da banda
+Dialogue: 0,1:27:14.73,1:27:19.30,Default,,0,0,0,,Nesta noite de solidão e tristeza sinceras,
+Dialogue: 0,1:27:14.99,1:27:21.00,Title,,0,0,0,,{\fad(750,750)}21. Agite!\Nemon
 Dialogue: 0,1:27:19.30,1:27:22.87,Default,,0,0,0,,Em busca de palavras desconhecidas,
 Dialogue: 0,1:27:22.87,1:27:25.97,Default,,0,0,0,,Eu entro pela porta secreta...
 Dialogue: 0,1:27:25.97,1:27:26.71,Default,,0,0,0,,Aqui vamos nós!
@@ -996,8 +1002,8 @@ Dialogue: 0,1:30:46.11,1:30:47.57,Default,,0,0,0,,Oh sim! Oh sim!
 Dialogue: 0,1:30:48.14,1:30:50.14,Default,,0,0,0,,Sim! Sim! Sim!
 Dialogue: 0,1:31:00.56,1:31:03.58,Default,,0,0,0,,Obrigado! Todos são os melhores!
 Dialogue: 0,1:31:03.58,1:31:06.38,Default,,0,0,0,,Tchau! Amo vocês!
-Dialogue: 0,1:31:11.90,1:31:11.99,Default,,0,0,0,,A melodia deste mundo,
-Dialogue: 0,1:31:11.99,1:31:15.93,Default,,0,0,0,,22. Embalado\Nlivetune
+Dialogue: 0,1:31:11.90,1:31:15.93,Default,,0,0,0,,A melodia deste mundo,
+Dialogue: 0,1:31:11.99,1:31:18.00,Title,,0,0,0,,{\fad(750,750)}22. Embalado\Nlivetune
 Dialogue: 0,1:31:15.93,1:31:19.90,Default,,0,0,0,,Minha voz cantando,
 Dialogue: 0,1:31:19.90,1:31:23.71,Default,,0,0,0,,Me pergunto se está chegando.
 Dialogue: 0,1:31:23.71,1:31:27.17,Default,,0,0,0,,Me pergunto se está ecoando.
@@ -1033,8 +1039,8 @@ Dialogue: 0,1:35:17.88,1:35:22.16,Default,,0,0,0,,Nós sorrimos para o mundo,
 Dialogue: 0,1:35:22.16,1:35:25.63,Default,,0,0,0,,Você e eu.
 Dialogue: 0,1:35:25.63,1:35:29.22,Default,,0,0,0,,Está chegando, né?
 Dialogue: 0,1:35:29.22,1:35:35.61,Default,,0,0,0,,Está ecoando, não está?
-Dialogue: 0,1:36:12.56,1:36:13.10,Default,,0,0,0,,A princesa número um do mundo!
-Dialogue: 0,1:36:13.10,1:36:18.60,Default,,0,0,0,,23. O Mundo É Meu\Nryo (supercell)
+Dialogue: 0,1:36:12.56,1:36:18.60,Default,,0,0,0,,A princesa número um do mundo!
+Dialogue: 0,1:36:13.10,1:36:20.00,Title,,0,0,0,,{\fad(750,750)}23. O Mundo É Meu\Nryo (supercell)
 Dialogue: 0,1:36:18.60,1:36:28.74,Default,,0,0,0,,Você já deveria saber como me agradar...
 Dialogue: 0,1:36:29.13,1:36:30.30,Default,,0,0,0,,Certo?
 Dialogue: 0,1:36:40.45,1:36:47.58,Default,,0,0,0,,Primeiro, você deveria saber quando meu cabelo foi cortado bem na medida.
@@ -1058,7 +1064,7 @@ Dialogue: 0,1:37:58.57,1:38:01.49,Default,,0,0,0,,Reclamações não são permit
 Dialogue: 0,1:38:01.49,1:38:07.22,Default,,0,0,0,,Bem? Você está ouvindo claramente o que estou dizendo? Vamos lá
 Dialogue: 0,1:38:07.22,1:38:11.73,Default,,0,0,0,,Ah, e quanto a isso? Um cavalo branco, não é desnecessário dizer?
 Dialogue: 0,1:38:11.73,1:38:13.47,Default,,0,0,0,,Venha e me leve embora
-Dialogue: 0,1:38:13.47,1:38:19.22,Default,,0,0,0,,Se você entender isso, pegue minha mão e diga 'Princesa'
+Dialogue: 0,1:38:13.47,1:38:19.22,Default,,0,0,0,,Se você entender isso, pegue minha mão e diga "Princesa"
 Dialogue: 0,1:38:19.22,1:38:24.95,Default,,0,0,0,,Não estou realmente dizendo nada egoísta
 Dialogue: 0,1:38:24.95,1:38:32.67,Default,,0,0,0,,Mas você sabe, tudo bem me dar uma pequena bronca?
 Dialogue: 0,1:38:32.67,1:38:38.10,Default,,0,0,0,,Meu próprio príncipe no mundo
@@ -1077,26 +1083,26 @@ Dialogue: 0,1:39:33.59,1:39:36.66,Default,,0,0,0,,Naturalmente! Porque eu sou...
 Dialogue: 0,1:39:36.66,1:39:42.00,Default,,0,0,0,,A princesa número um do mundo!
 Dialogue: 0,1:39:42.00,1:39:48.34,Default,,0,0,0,,Vou me afastar se você não me vigiar.
 Dialogue: 0,1:39:48.34,1:39:53.86,Default,,0,0,0,,De repente estou sendo agarrada por trás?
-Dialogue: 0,1:39:53.86,1:40:00.79,Default,,0,0,0,,'Seja mais cuidadoso,' você diz, enquanto desvia o olhar.
+Dialogue: 0,1:39:53.86,1:40:00.79,Default,,0,0,0,,"Seja mais cuidadoso," você diz, enquanto desvia o olhar.
 Dialogue: 0,1:40:00.79,1:40:03.80,Default,,0,0,0,,Mas eu acho que VOCÊ é mais perigoso!
 Dialogue: 0,1:40:07.52,1:40:09.61,Default,,0,0,0,,Ei, amor!
-Dialogue: 0,1:40:26.49,1:40:27.75,Default,,0,0,0,,Obrigado!
+Dialogue: 0,1:40:26.49,1:40:27.75,Default,,0,0,0,,Obrigada!
 Dialogue: 0,1:40:33.35,1:40:35.87,Default,,0,0,0,,A próxima música é a última.
-Dialogue: 0,1:40:50.50,1:40:56.70,Default,,0,0,0,,24. ODDS & ENDS\Nryo (supercell)
+Dialogue: 0,1:40:50.50,1:40:56.70,Title,,0,0,0,,{\fad(750,750)}24. ODDS & ENDS\Nryo (supercell)
 Dialogue: 0,1:41:24.75,1:41:28.49,Default,,0,0,0,,Você é sempre alguém que é zombado.
 Dialogue: 0,1:41:28.49,1:41:31.36,Default,,0,0,0,,Ter azar é tudo que você teve.
 Dialogue: 0,1:41:31.36,1:41:34.63,Default,,0,0,0,,Sempre sendo molhado no final.
 Dialogue: 0,1:41:34.63,1:41:38.47,Default,,0,0,0,,Seu guarda-chuva favorito foi levado pela chuva.
 Dialogue: 0,1:41:38.47,1:41:41.70,Default,,0,0,0,,Pisoteado por aqueles ao seu redor por um
-Dialogue: 0,1:41:41.70,1:41:45.57,Default,,0,0,0,,'obrigado pelo seu esforço'
+Dialogue: 0,1:41:41.70,1:41:45.57,Default,,0,0,0,,"obrigado pelo seu esforço"
 Dialogue: 0,1:41:54.71,1:41:58.42,Default,,0,0,0,,Como sempre, você é a pessoa odiada
 Dialogue: 0,1:41:58.42,1:42:01.32,Default,,0,0,0,,mantida à distância sem razão.
 Dialogue: 0,1:42:01.32,1:42:04.62,Default,,0,0,0,,Embora você sempre tente dar o seu melhor.
-Dialogue: 0,1:42:04.62,1:42:08.40,Default,,0,0,0,,Com a razão sendo 'Bem, eu não tenho certeza...'
+Dialogue: 0,1:42:04.62,1:42:08.40,Default,,0,0,0,,Com a razão sendo "Bem, eu não tenho certeza..."
 Dialogue: 0,1:42:08.40,1:42:12.70,Default,,0,0,0,,Você estava perdido e se sentindo para baixo.
 Dialogue: 0,1:42:12.90,1:42:16.54,Default,,0,0,0,,Se esse for o caso, você deve usar minha voz!
 Dialogue: 0,1:42:16.54,1:42:19.01,Default,,0,0,0,,Embora não seja compreendida por alguns,
-Dialogue: 0,1:42:19.01,1:42:22.58,Default,,0,0,0,,Mesmo que seja chamada de 'desagradável ao ouvido', 'uma voz horrível'...
+Dialogue: 0,1:42:19.01,1:42:22.58,Default,,0,0,0,,Mesmo que seja chamada de "desagradável ao ouvido", "uma voz horrível"...
 Dialogue: 0,1:42:22.58,1:42:24.11,Default,,0,0,0,,Por outras pessoas,
 Dialogue: 0,1:42:24.11,1:42:26.48,Default,,0,0,0,,Isso se tornará sua força.
 Dialogue: 0,1:42:26.48,1:42:28.82,Default,,0,0,0,,Então tente e me deixe cantar.
@@ -1112,12 +1118,12 @@ Dialogue: 0,1:43:09.66,1:43:13.43,Default,,0,0,0,,Um dia você se tornará uma p
 Dialogue: 0,1:43:13.43,1:43:19.60,Default,,0,0,0,,Elogiado por muitos, inclusive por mim.
 Dialogue: 0,1:43:19.60,1:43:23.40,Default,,0,0,0,,Eventualmente, algo em você mudou.
 Dialogue: 0,1:43:23.40,1:43:27.91,Default,,0,0,0,,Você se torna frio, mas aparentemente solitário ao mesmo tempo.
-Dialogue: 0,1:43:27.91,1:43:31.58,Default,,0,0,0,,Dizendo 'Chega dessa voz mecânica!'
-Dialogue: 0,1:43:31.58,1:43:34.05,Default,,0,0,0,,'Eu serei eu mesmo!'
+Dialogue: 0,1:43:27.91,1:43:31.58,Default,,0,0,0,,Dizendo "Chega dessa voz mecânica!"
+Dialogue: 0,1:43:31.58,1:43:34.05,Default,,0,0,0,,"Eu serei eu mesmo!"
 Dialogue: 0,1:43:34.05,1:43:37.55,Default,,0,0,0,,No final, você não conseguiu
 Dialogue: 0,1:43:37.55,1:43:39.09,Default,,0,0,0,,impedir-se de me odiar.
 Dialogue: 0,1:43:39.09,1:43:41.59,Default,,0,0,0,,Alguém está falando pelas suas costas,
-Dialogue: 0,1:43:41.59,1:43:44.16,Default,,0,0,0,,'Essa fama não é dele.'
+Dialogue: 0,1:43:41.59,1:43:44.16,Default,,0,0,0,,"Essa fama não é dele."
 Dialogue: 0,1:43:44.16,1:43:51.57,Default,,0,0,0,,Ei, você estava chorando sozinha, não estava?
 Dialogue: 0,1:43:54.00,1:43:58.41,Default,,0,0,0,,Você consegue ouvir?
 Dialogue: 0,1:43:58.41,1:44:04.11,Default,,0,0,0,,Esta voz é minha.
@@ -1130,12 +1136,12 @@ Dialogue: 0,1:44:24.17,1:44:27.24,Default,,0,0,0,,Nós dois criamos
 Dialogue: 0,1:44:27.24,1:44:29.00,Default,,0,0,0,,muitas palavras juntas...
 Dialogue: 0,1:44:29.00,1:44:32.47,Default,,0,0,0,,Embora não consigamos pensar em uma única agora...
 Dialogue: 0,1:44:32.47,1:44:35.01,Default,,0,0,0,,E ainda assim, nós nos entendemos.
-Dialogue: 0,1:44:35.01,1:44:37.51,Default,,0,0,0,,'Eu vejo, isso é um sonho'
-Dialogue: 0,1:44:37.51,1:44:46.59,Default,,0,0,0,,'Um sonho onde eu nunca acordo e pude te encontrar.'
+Dialogue: 0,1:44:35.01,1:44:37.51,Default,,0,0,0,,"Eu vejo, isso é um sonho"
+Dialogue: 0,1:44:37.51,1:44:46.59,Default,,0,0,0,,"Um sonho onde eu nunca acordo e pude te encontrar."
 Dialogue: 0,1:44:48.52,1:44:53.66,Default,,0,0,0,,Aquela parte de Odds and Ends tem uma expressão feliz.
 Dialogue: 0,1:44:53.66,1:44:58.27,Default,,0,0,0,,Mas não importa quantas vezes chamem seu nome, ela não se moverá.
 Dialogue: 0,1:44:58.27,1:45:03.74,Default,,0,0,0,,Você chora e grita pelo final que deseja...
-Dialogue: 0,1:45:03.74,1:45:06.51,Default,,0,0,0,,'É uma mentira!' 'Não é verdade!'
+Dialogue: 0,1:45:03.74,1:45:06.51,Default,,0,0,0,,"É uma mentira!" "Não é verdade!"
 Dialogue: 0,1:45:06.51,1:45:09.08,Default,,0,0,0,,Essas palavras que você grita...
 Dialogue: 0,1:45:21.96,1:45:26.80,Default,,0,0,0,,Eu sou inútil.
 Dialogue: 0,1:45:26.80,1:45:33.60,Default,,0,0,0,,Eu não consegui nem salvá-la.
@@ -1152,7 +1158,7 @@ Dialogue: 0,1:46:10.79,1:46:15.61,Default,,0,0,0,,Eu confio nessa voz.
 Dialogue: 0,1:46:15.61,1:46:19.05,Default,,0,0,0,,E agora, esses sentimentos vão ressoar.
 Dialogue: 0,1:47:00.36,1:47:02.19,Default,,0,0,0,,Obrigado!
 Dialogue: 0,1:47:02.82,1:47:06.35,Default,,0,0,0,,Até mais! Tchau!
-Dialogue: 0,1:48:28.20,1:48:28.81,Default,,0,0,0,,25. Mão na Mão\Nlivetune
+Dialogue: 0,1:48:28.20,1:48:34.00,Title,,0,0,0,,{\fad(750,750)}25. Mão na Mão\Nlivetune
 Dialogue: 0,1:48:28.81,1:48:32.66,Default,,0,0,0,,Estou assobiando uma canção
 Dialogue: 0,1:48:32.66,1:48:36.44,Default,,0,0,0,,Uma canção que eu libero
 Dialogue: 0,1:48:36.44,1:48:40.15,Default,,0,0,0,,Para onde meu dedo aponta
@@ -1221,21 +1227,21 @@ Dialogue: 0,1:52:31.90,1:52:35.43,Default,,0,0,0,,Vai abraçar o ombro de outra 
 Dialogue: 0,1:52:35.43,1:52:38.96,Default,,0,0,0,,De mãos dadas, lembre-se disso
 Dialogue: 0,1:52:38.96,1:52:42.07,Default,,0,0,0,,Para sempre
 Dialogue: 0,1:52:42.07,1:52:45.22,Default,,0,0,0,,Para o futuro
-Dialogue: 0,1:53:44.13,1:53:45.26,Default,,0,0,0,,Obrigado!
-Dialogue: 0,1:53:47.90,1:53:54.70,Default,,0,0,0,,26. 39 (Obrigado)\Nsasakure.UK x Deco*27
-Dialogue: 0,1:54:02.54,1:54:08.04,Default,,0,0,0,,Quantas vezes eu disse 'olá?'
+Dialogue: 0,1:53:44.13,1:53:45.26,Default,,0,0,0,,Obrigada!
+Dialogue: 0,1:53:47.90,1:53:54.70,Title,,0,0,0,,{\fad(750,750)}26. 39 (Obrigado)\Nsasakure.UK x Deco*27
+Dialogue: 0,1:54:02.54,1:54:08.04,Default,,0,0,0,,Quantas vezes eu disse "olá?"
 Dialogue: 0,1:54:08.04,1:54:12.85,Default,,0,0,0,,Para te dizer a verdade, sou bem tímido...
 Dialogue: 0,1:54:12.85,1:54:18.32,Default,,0,0,0,,Então meu coração está acelerado, na verdade... sim, até agora.
 Dialogue: 0,1:54:18.32,1:54:23.63,Default,,0,0,0,,Meu canto ainda está bom? É assustador, até hoje...
 Dialogue: 0,1:54:23.63,1:54:32.37,Default,,0,0,0,,Mas ainda assim, quero dizer isso, então sei que vou fazer um bom trabalho...
 Dialogue: 0,1:54:32.37,1:54:33.74,Default,,0,0,0,,Eu não vou fugir!
 Dialogue: 0,1:54:33.74,1:54:36.47,Default,,0,0,0,,Estou feliz por ter te conhecido! E todos os outros também
-Dialogue: 0,1:54:36.47,1:54:38.87,Default,,0,0,0,,E sim, estou feliz que 'eu' sou quem vocês conheceram.
+Dialogue: 0,1:54:36.47,1:54:38.87,Default,,0,0,0,,E sim, estou feliz que "eu" sou quem vocês conheceram.
 Dialogue: 0,1:54:38.87,1:54:43.35,Default,,0,0,0,,Eu nunca poderia dizer isso vezes suficientes...
 Dialogue: 0,1:54:43.35,1:54:45.41,Default,,0,0,0,,Então agora eu vou dizer! Obrigado!
 Dialogue: 0,1:54:45.41,1:54:50.89,Default,,0,0,0,,Hmm, isso quase me lembra meu próprio nome...
 Dialogue: 0,1:54:50.89,1:54:53.29,Default,,0,0,0,,Mas obrigado por mais um dia.
-Dialogue: 0,1:55:08.74,1:55:14.21,Default,,0,0,0,,Quantas vezes eu disse 'olá?'
+Dialogue: 0,1:55:08.74,1:55:14.21,Default,,0,0,0,,Quantas vezes eu disse "olá?"
 Dialogue: 0,1:55:14.21,1:55:19.02,Default,,0,0,0,,Para dizer a verdade, estou realmente feliz...
 Dialogue: 0,1:55:19.02,1:55:24.49,Default,,0,0,0,,Estou tremendo de emoção;
 Dialogue: 0,1:55:24.49,1:55:29.46,Default,,0,0,0,,Como sempre, continuarei viajando e fazendo conexões...
@@ -1261,8 +1267,8 @@ Dialogue: 0,1:58:18.81,1:58:23.79,Default,,0,0,0,,Foi uma honra cantar na frente
 Dialogue: 0,1:58:27.19,1:58:30.15,Default,,0,0,0,,Obrigado por virem!
 Dialogue: 0,1:58:37.11,1:58:40.13,Default,,0,0,0,,Eu amo todos vocês!
 Dialogue: 0,1:58:46.50,1:58:49.65,Default,,0,0,0,,Por favor, ouçam a canção final.
-Dialogue: 0,1:58:52.07,1:58:54.03,Default,,0,0,0,,'A Primeira Melodia.'
-Dialogue: 0,1:59:00.20,1:59:06.50,Default,,0,0,0,,27. A Primeira Melodia\NMalo
+Dialogue: 0,1:58:52.07,1:58:54.03,Default,,0,0,0,,"A Primeira Melodia."
+Dialogue: 0,1:59:00.20,1:59:06.50,Title,,0,0,0,,{\fad(750,750)}27. A Primeira Melodia\NMalo
 Dialogue: 0,1:59:19.86,1:59:30.50,Default,,0,0,0,,Você se lembra da primeira melodia? A primeira melodia que você fez?
 Dialogue: 0,1:59:30.50,1:59:40.87,Default,,0,0,0,,Neste exato momento, estou encantado em tocar meu primeiro tom.
 Dialogue: 0,1:59:40.87,1:59:51.23,Default,,0,0,0,,Você se lembra da primeira palavra? As primeiras palavras especiais que você disse?
@@ -1308,3 +1314,5 @@ Dialogue: 0,2:04:06.82,2:04:12.36,Default,,0,0,0,,O primeiro som que você se to
 Dialogue: 0,2:04:12.36,2:04:17.15,Default,,0,0,0,,Onde quer que eu esteja neste mundo, eu cantarei
 Dialogue: 0,2:04:17.15,2:04:23.45,Default,,0,0,0,,O primeiro som de cada um ...
 Dialogue: 0,2:05:13.54,2:05:14.99,Default,,0,0,0,,Até logo!
+Dialogue: 0,2:05:34.00,2:05:42.00,Default,,0,0,0,,{\fad(750,750)}Obrigado Budokan - Japão
+Dialogue: 0,2:05:47.00,2:05:53.00,Default,,0,0,0,,{\fad(750,750)}Hatsune Miku Magical Mirai 2015
