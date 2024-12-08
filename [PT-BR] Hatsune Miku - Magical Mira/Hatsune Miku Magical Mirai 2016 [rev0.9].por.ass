@@ -76,7 +76,7 @@ Dialogue: 0,0:05:50.48,0:05:51.82,Default,,0,0,0,,Vamos lá, o sol está prestes
 Dialogue: 0,0:05:51.82,0:05:53.21,Default,,0,0,0,,Vocês estão prontos? Sim!
 Dialogue: 0,0:05:53.21,0:05:58.42,Default,,0,0,0,,Todos, juntos!
 Dialogue: 0,0:06:00.62,0:06:04.20,Default,,0,0,0,,Todos, juntos!
-Dialogue: 0,0:06:39.65,0:06:47.75,Title,,0,0,0,,{\fad(750,750)}02. Ghost Rule\NDECO*27
+Dialogue: 0,0:06:39.65,0:06:47.75,Title,,0,0,0,,{\fad(750,750)}02. Regra Fantasma\NDECO*27
 Dialogue: 0,0:06:48.66,0:06:50.26,Default,,0,0,0,,Tendo mentido sobre as coisas mais inconsequentes,
 Dialogue: 0,0:06:50.26,0:06:52.68,Default,,0,0,0,,Não consigo voltar
 Dialogue: 0,0:06:52.68,0:06:55.19,Default,,0,0,0,,Não há prazo de prescrição para meu crime,
@@ -126,7 +126,7 @@ Dialogue: 0,0:08:44.72,0:08:46.88,Default,,0,0,0,,Encontrei uma versão de "mim"
 Dialogue: 0,0:08:46.88,0:08:49.39,Default,,0,0,0,,E ainda assim continuei,
 Dialogue: 0,0:08:49.39,0:08:51.90,Default,,0,0,0,,Mesmo através da noite escura que fez minha cabeça girar
 Dialogue: 0,0:08:51.90,0:08:53.71,Default,,0,0,0,,Ame-me! Eu que careço de tanto.
-Dialogue: 0,0:08:53.71,0:08:56.24,Default,,0,0,0,,Fui criado por esse egoísmo selfish meu, afinal
+Dialogue: 0,0:08:53.71,0:08:56.24,Default,,0,0,0,,Fui criado por esse meu egoísmo, afinal
 Dialogue: 0,0:08:56.24,0:08:58.49,Default,,0,0,0,,Você realmente pode me ver?
 Dialogue: 0,0:08:58.49,0:09:00.76,Default,,0,0,0,,Este palhaço solitário e envenenado...
 Dialogue: 0,0:09:00.76,0:09:01.67,Default,,0,0,0,,"Socorro!"
@@ -538,7 +538,7 @@ Dialogue: 0,0:46:33.08,0:46:36.36,Default,,0,0,0,,Amor? Quase amor! Só mais um 
 Dialogue: 0,0:46:36.36,0:46:39.49,Default,,0,0,0,,O coração, o corpo, tudo, por favor, aceitem isso
 Dialogue: 0,0:46:39.49,0:46:42.85,Default,,0,0,0,,Você está feliz! (Sim, meu doutor)
 Dialogue: 0,0:46:42.85,0:46:48.02,Default,,0,0,0,,Esse milagre prodígio maravilhoso! Ótimo! Ótimo! Gênio!
-Dialogue: 0,0:46:48.02,0:46:51.05,Default,,0,0,0,,Doutor = batida funk, é a ronda do doutor, pronto?
+Dialogue: 0,0:46:48.02,0:46:51.05,Default,,0,0,0,,Doutor = Funk beat, é a ronda do doutor, pronto?
 Dialogue: 0,0:46:51.05,0:46:54.21,Default,,0,0,0,,Oh!! É um problema de inteligência! Não tem como isso curar (então)
 Dialogue: 0,0:46:54.21,0:46:57.24,Default,,0,0,0,,Doutor, me ajude, o caso de emergência está agitado!
 Dialogue: 0,0:46:57.24,0:47:01.06,Default,,0,0,0,,Se sua euforia não for suficiente, então pegue um pouco de outra pessoa
@@ -548,14 +548,14 @@ Dialogue: 0,0:47:31.50,0:47:34.27,Default,,0,0,0,,Uma recepção calorosa? Oh vo
 Dialogue: 0,0:47:34.27,0:47:38.02,Default,,0,0,0,,Uma chamada para mim? (Sim, meu doutor)
 Dialogue: 0,0:47:38.02,0:47:41.42,Default,,0,0,0,,Descuidadamente, até mesmo esta noite, maravilhosamente incrível!
 Dialogue: 0,0:47:41.42,0:47:43.94,Default,,0,0,0,,Ótimo! Ótimo! Ótimo! Grande gênio!
-Dialogue: 0,0:47:43.94,0:47:47.29,Default,,0,0,0,,Doutor = batida funk! Eu tive um sonho...
+Dialogue: 0,0:47:43.94,0:47:47.29,Default,,0,0,0,,Doutor = Funk beat! Eu tive um sonho...
 Dialogue: 0,0:47:47.29,0:47:52.02,Default,,0,0,0,,Todos ficaram felizes, um SHOW de ilusão infantil e transparente
 Dialogue: 0,0:47:52.02,0:47:55.38,Default,,0,0,0,,Todos estão infelizes, zombando naquela distopia bagunçada...
 Dialogue: 0,0:47:55.38,0:47:58.21,Default,,0,0,0,,Lá, a felicidade de "nuvem nove." Ser mesquinho é uma bobagem
 Dialogue: 0,0:47:58.21,0:48:01.82,Default,,0,0,0,,Venham agora, você, e você, e você... vamos continuar com isso...
 Dialogue: 0,0:48:01.82,0:48:06.94,Default,,0,0,0,,A donzela em apuros, finalmente é a sua vez, oh!! Eu deveria ter dito antes...
 Dialogue: 0,0:48:06.94,0:48:11.54,Default,,0,0,0,,Alô? Se você quer ser feliz, então vá para o nome que todos elogiam,
-Dialogue: 0,0:48:11.54,0:48:15.66,Default,,0,0,0,,Que é; "Doutor = batida funk"
+Dialogue: 0,0:48:11.54,0:48:15.66,Default,,0,0,0,,Que é; "Doutor = Funk beat"
 Dialogue: 0,0:48:15.66,0:48:20.27,Default,,0,0,0,,Um grande gênio! (Um grande gênio!)
 Dialogue: 0,0:48:27.12,0:48:29.47,Default,,0,0,0,,Que você encontre a felicidade
 Dialogue: 0,0:48:41.80,0:48:49.00,Title,,0,0,0,,{\fad(750,750)}12. Nostálgico (mix MEIKO-SAN)\Nyuukiss
@@ -613,13 +613,13 @@ Dialogue: 0,0:53:46.96,0:53:52.46,Default,,0,0,0,,Nossa combinação é a pior, 
 Dialogue: 0,0:53:54.57,0:53:58.20,Default,,0,0,0,,Se usarmos a adivinhação animal,
 Dialogue: 0,0:53:58.20,0:54:02.71,Default,,0,0,0,,Poderíamos ser um casal perfeito
 Dialogue: 0,0:54:02.71,0:54:06.64,Default,,0,0,0,,Ei, olhe para mim...
-Dialogue: 0,0:54:22.79,0:54:27.53,Default,,0,0,0,,Se você acreditar na adivinhação,
-Dialogue: 0,0:54:29.99,0:54:34.42,Default,,0,0,0,,Parece que suas preocupações são...
+Dialogue: 0,0:54:22.79,0:54:27.53,Default,,0,0,0,,Parece que suas preocupações
+Dialogue: 0,0:54:29.99,0:54:34.42,Default,,0,0,0,,são acreditar em adivinhações...
 Dialogue: 0,0:54:36.14,0:54:39.72,Default,,0,0,0,,Se você me contar tudo,
 Dialogue: 0,0:54:39.72,0:54:43.62,Default,,0,0,0,,Todos os seus problemas desaparecerão
 Dialogue: 0,0:54:44.50,0:54:51.57,Default,,0,0,0,,Mas com o que você está preocupado?
 Dialogue: 0,0:54:51.57,0:54:57.27,Default,,0,0,0,,Eu não sei...
-Dialogue: 0,0:54:57.27,0:55:00.96,Default,,0,0,0,,Sendo um coalinha, sou um planejador,
+Dialogue: 0,0:54:57.27,0:55:00.96,Default,,0,0,0,,Sendo um coalinha, sou uma planejadora,
 Dialogue: 0,0:55:00.96,0:55:05.43,Default,,0,0,0,,Há muito sobre você que eu não sei;
 Dialogue: 0,0:55:05.43,0:55:08.94,Default,,0,0,0,,Isso me preocupa um pouco
 Dialogue: 0,0:55:11.07,0:55:14.92,Default,,0,0,0,,Sendo uma pantera negra, você estava em silêncio
@@ -767,7 +767,7 @@ Dialogue: 0,1:10:12.47,1:10:16.04,Default,,0,0,0,,Vou te prender, não vai resis
 Dialogue: 0,1:10:16.04,1:10:20.39,Default,,0,0,0,,Com essa magia que estou lançando,
 Dialogue: 0,1:10:20.39,1:10:23.46,Default,,0,0,0,,Vou te fazer esperar só um pouquinho!
 Dialogue: 0,1:10:47.08,1:10:50.89,Default,,0,0,0,,Docinho... docinho... doce mágico.
-Dialogue: 0,1:10:50.89,1:10:54.44,Default,,0,0,0,,Docinho... docinho... doce sim sim!
+Dialogue: 0,1:10:50.89,1:10:54.44,Default,,0,0,0,,Docinho... docinho... doce year year!
 Dialogue: 0,1:10:54.44,1:10:58.70,Default,,0,0,0,,Docinho... docinho... doce mágico.
 Dialogue: 0,1:10:58.70,1:11:00.77,Default,,0,0,0,,Docinho... docinho...
 Dialogue: 0,1:11:01.98,1:11:05.94,Default,,0,0,0,,Uma mordida nunca será suficiente,
@@ -782,12 +782,12 @@ Dialogue: 0,1:11:34.02,1:11:38.04,Default,,0,0,0,,Coisas amargas, coisas azedas,
 Dialogue: 0,1:11:38.04,1:11:42.10,Default,,0,0,0,,Às vezes, essas coisas também são boas.
 Dialogue: 0,1:11:42.10,1:11:46.16,Default,,0,0,0,,Com minha teimosia e caprichos,
 Dialogue: 0,1:11:46.16,1:11:49.95,Default,,0,0,0,,Vou usar essa "Magia Doce."
-Dialogue: 0,1:11:49.95,1:11:53.42,Default,,0,0,0,,Oh sim...! Sim sim!
+Dialogue: 0,1:11:49.95,1:11:53.42,Default,,0,0,0,,Oh year...! year year!
 Dialogue: 0,1:12:03.61,1:12:05.27,Default,,0,0,0,,Apaixone-se!
 Dialogue: 0,1:12:05.27,1:12:09.08,Default,,0,0,0,,Docinho... docinho... doce mágico.
-Dialogue: 0,1:12:09.08,1:12:12.77,Default,,0,0,0,,Docinho... docinho... doce sim sim!
+Dialogue: 0,1:12:09.08,1:12:12.77,Default,,0,0,0,,Docinho... docinho... doce year year!
 Dialogue: 0,1:12:12.77,1:12:16.60,Default,,0,0,0,,Docinho... docinho... doce mágico.
-Dialogue: 0,1:12:16.60,1:12:21.15,Default,,0,0,0,,Docinho... docinho... doce sim sim!
+Dialogue: 0,1:12:16.60,1:12:21.15,Default,,0,0,0,,Docinho... docinho... doce year year!
 Dialogue: 0,1:13:06.10,1:13:15.15,Title,,0,0,0,,{\fad(750,750)}18. Controle Remoto\NJesus-P (Maravilhosa * Oportunidade!)
 Dialogue: 0,1:13:17.34,1:13:22.76,Default,,0,0,0,,Esta é a máquina que me controla à distância
 Dialogue: 0,1:13:22.76,1:13:28.33,Default,,0,0,0,,Tem uma forma meio estranha, mas funciona
@@ -922,7 +922,7 @@ Dialogue: 0,1:27:06.42,1:27:09.15,Default,,0,0,0,,Estou feliz por ter te conheci
 Dialogue: 0,1:27:09.15,1:27:11.55,Default,,0,0,0,,E sim, estou feliz que "eu" sou quem vocês conheceram.
 Dialogue: 0,1:27:11.55,1:27:16.03,Default,,0,0,0,,Nunca é suficiente, não importa quantas vezes eu diga isso...
 Dialogue: 0,1:27:16.03,1:27:18.09,Default,,0,0,0,,Então agora eu vou dizer! 39 (Obrigada)!
-Dialogue: 0,1:27:18.09,1:27:23.57,Default,,0,0,0,,Hmm, isso meio que soa como o meu próprio nome (risos)
+Dialogue: 0,1:27:18.09,1:27:23.57,Default,,0,0,0,,Hmm, isso meio que soa como o meu próprio nome
 Dialogue: 0,1:27:23.57,1:27:25.97,Default,,0,0,0,,Mas obrigada por mais um dia.
 Dialogue: 0,1:27:41.42,1:27:46.89,Default,,0,0,0,,Quantas vezes eu disse "prazer em te conhecer?"
 Dialogue: 0,1:27:46.89,1:27:51.70,Default,,0,0,0,,Para ser sincero, estou realmente feliz...
@@ -940,7 +940,7 @@ Dialogue: 0,1:28:47.22,1:28:49.95,Default,,0,0,0,,Estou feliz por ter te conheci
 Dialogue: 0,1:28:49.95,1:28:52.36,Default,,0,0,0,,Estou feliz que todos tenham conhecido "eu".
 Dialogue: 0,1:28:52.36,1:28:56.83,Default,,0,0,0,,Nunca é suficiente, não importa quantas vezes eu diga isso...
 Dialogue: 0,1:28:56.83,1:28:58.90,Default,,0,0,0,,Então agora eu vou dizer! 39 (Obrigada)!
-Dialogue: 0,1:28:58.90,1:29:04.37,Default,,0,0,0,,Hmm, isso meio que soa como o meu próprio nome (risos)
+Dialogue: 0,1:28:58.90,1:29:04.37,Default,,0,0,0,,Hmm, isso meio que soa como o meu próprio nome
 Dialogue: 0,1:29:04.37,1:29:06.57,Default,,0,0,0,,Mas obrigada por hoje, e...
 Dialogue: 0,1:29:06.57,1:29:09.17,Default,,0,0,0,,Por amanhã, e tudo que está por vir.
 Dialogue: 0,1:29:09.17,1:29:11.58,Default,,0,0,0,,Como sempre, eu ainda estarei aqui.
